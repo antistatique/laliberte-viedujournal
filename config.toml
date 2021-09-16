@@ -1,6 +1,6 @@
-baseURL = "http://viedujournal.laliberte.ch/"
+baseURL = "https://unejournee.laliberte.ch/"
 languageCode = "fr-ch"
-title = "La Liberté - La vie du journal"
+title = "La Liberté - Une journée de Liberté"
 theme = "laliberte"
 
 [params]
