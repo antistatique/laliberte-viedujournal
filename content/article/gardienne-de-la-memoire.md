@@ -1,6 +1,8 @@
 +++
 author = "JER"
 banner = "images/doris_cover.png"
+banner_hd = "images/doris_hd.png"
+banner_thumb = "images/doris_thumb.png"
 date = 1950-02-28T23:00:00Z
 date_display = "Mars 1950"
 featured = true
