@@ -1,0 +1,46 @@
+---
+label: article
+hide_body: false
+fields:
+- type: text
+  name: author
+  label: author
+- type: file
+  name: banner
+  label: banner
+- type: file
+  name: banner_hd
+  label: banner_hd
+- type: file
+  name: banner_thumb
+  label: banner_thumb
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: date_display
+  label: date_display
+- type: boolean
+  name: featured
+  label: featured
+- type: image_gallery
+  name: images
+  label: images
+- type: text
+  name: reading_time
+  label: reading_time
+- type: textarea
+  name: summary
+  label: summary
+- type: text
+  name: title
+  label: title
+- type: text
+  name: title_style
+  label: title_style
+- type: text
+  name: videos
+  label: videos
+- type: file
+  name: videos_cover
+  label: videos_cover
