@@ -3,44 +3,52 @@ label: article
 hide_body: false
 fields:
 - type: text
-  name: author
-  label: author
-- type: file
-  name: banner
-  label: banner
-- type: file
-  name: banner_hd
-  label: banner_hd
-- type: file
-  name: banner_thumb
-  label: banner_thumb
-- type: datetime
-  name: date
-  label: date
-- type: text
-  name: date_display
-  label: date_display
-- type: boolean
-  name: featured
-  label: featured
-- type: image_gallery
-  name: images
-  label: images
-- type: text
-  name: reading_time
-  label: reading_time
-- type: textarea
-  name: summary
-  label: summary
-- type: text
   name: title
-  label: title
+  label: Titre
 - type: text
   name: title_style
-  label: title_style
+  label: Typographie du titre
+  description: formula, eiko, brik
+- type: textarea
+  name: summary
+  label: Chapeau
+- type: file
+  name: banner
+  label: Image principale
+  description: "<strong>Taille </strong><br>Largeur 600px<br>Hauteur 824px"
+- type: file
+  name: banner_hd
+  label: Image principale HD
+  description: "<strong>Taille </strong><br>Largeur 1700px<br>Hauteur 2335px"
+- type: file
+  name: banner_thumb
+  label: Image principale Vignette
+  description: "<strong>Taille </strong><br>Largeur 200px<br>Hauteur 275px"
+- type: datetime
+  name: date
+  label: Date
+- type: text
+  name: date_display
+  label: Date à afficher
+- type: text
+  name: author
+  label: Auteur
+- type: boolean
+  name: featured
+  label: Mise en avant ?
+- type: text
+  name: reading_time
+  label: Temps de lecture
+  description: 3 min
+  default: 3 min
+- type: image_gallery
+  name: images
+  label: Gallerie
+  description: "<strong>Taille </strong><br>Largeur 800px<br>Hauteur 450px"
 - type: text
   name: videos
-  label: videos
+  label: 'Vidéo : ID Vimeo'
 - type: file
   name: videos_cover
-  label: videos_cover
+  label: 'Vidéo : Cover image vidéo'
+  description: "<strong>Taille</strong> <br>Largeur 800px<br>Hauteur 455px"
