@@ -27,3 +27,11 @@ Une deuxième personne vient à 14h, alors que le reste de l’équipe arrive à
 Parfois, de gros imprévus font monter la pression: «Je me souviens de l’élection du Pape François. L’information était arrivée très tard et nous avions organisé une séance de rédaction en urgence à 22h durant laquelle nous avions complètement revu la Une du journal et le contenu de notre premier cahier.»
 
 Père de trois enfants, Christophe Sugnaux apprécie ce rythme, qu’il assimile davantage à un travail du soir qu’à un travail de nuit. «Je suis plutôt du genre couche-tard et ce rythme me permet d’avoir des doubles journées. J’ai ainsi eu la chance de passer beaucoup de temps avec mes enfants lorsqu’ils étaient petits. J’ai aussi pu m’investir dans la rénovation de la ferme familiale et j’ai le bonheur de passer encore beaucoup de temps à bricoler ou à jardiner avec mon papa, retraité presque aussi hyperactif que moi si j’en crois mon épouse.» Il n’est pas rare non plus de voir Christophe Sugnaux sillonner les Préalpes durant la journée, que ce soit en parapente, à VTT ou à peau de phoque. Le revers de la médaille? «Difficile de faire partie de clubs ou de sociétés locales.»
+
+Ambiance
+
+_«Pas d’entrefilet pour le pied de Vaud»_
+
+«Tu as fait le chemin de fer?» Il est 14h au desk: oui, le chemin de fer, qui fixe le nombre de pages et leur emplacement, est prêt. Les rubriques ont envoyé leurs maquettes. Il reste une dizaine d’heures avant le bouclage du journal et le rythme de montage des pages va aller en s’intensifiant. Déjà, les échanges fusent entre metteurs en pages, journalistes et éditionneurs: «Pour la tête en page Suisse, je te mets un entrefilet avec bobine?» «Pour le pied de Vaud en revanche pas d’entrefilet, mais je peux te donner un chiffre.» «Allo? Un ventre de brèves en 4? O.K., je te l’assigne!» «Le surtitre est trop long, tu peux couper?» «L’article est corrigé, je t’imprime la tierce.»
+
+A 19h, le mur permet de faire le point sur les pages déjà montées. «Ce titre ne veut rien dire, merci de le changer», lance le chef de jour. «Et il faudra inverser la FR2.» Editionneurs et metteurs en pages s’exécutent. Le pied de la deuxième page du cahier régions sera notamment placé en haut et transformé en «grenier». Devant le mur, le chef grimace: «Cette page sandwich n’est pas terrible, il y a plus de pain que de garniture!»
