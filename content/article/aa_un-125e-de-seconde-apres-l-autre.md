@@ -1,5 +1,5 @@
 +++
-author = "JER"
+author = "Jérémy Rico"
 banner = "images/doris_archive_1.png"
 date = 1871-10-01T23:39:21Z
 date_display = "1er octobre 1871"
@@ -7,11 +7,25 @@ draft = true
 featured = false
 images = ["images/doris_archive_1.png", "images/doris_archive_2.png"]
 reading_time = "3 min"
-summary = "C’était un dimanche, le 1er octobre 1871. La Liberté, sortait son premier numéro. "
+summary = "Le photographe Alain Wicht fige la vie du canton pour La Liberté depuis 37 ans"
 title = "AA_Un 125e de seconde après l’autre"
 title_style = "brik"
 videos = "601807350"
 videos_cover = "images/doris_video_1.png"
 
 +++
-C’était un dimanche, le 1er octobre 1871. La Liberté, sortait son premier numéro. Quatre feuillets, dont un demi dévolu aux annonces publicitaires. Ainsi commence l’histoire foisonnante du quotidien fribourgeois, qui fête ses 150 ans en 2021. La Liberté, une vieille dame déjà, mais à l’allure toujours fringante. Un tel anniversaire justifiait que l’on prenne date.
+La statistique donne le vertige: le nom d’Alain Wicht a été imprimé à plus de 27'000 reprises dans La Liberté. Est-ce un record? De mémoire de membre de la rédaction, personne n’a fait mieux. Mais ironie de l’histoire: la première image à laquelle le nom du photographe est associé le montre, pour une rare fois, devant l’appareil plutôt que derrière. C’était en 1969, et l’ado Alain Wicht prenait la pose après une sortie à vélo avec l’ancien cycliste professionnel Auguste Girard. «A l’époque, on avait tous été très impressionnés de voir arriver Georges Blanc, journaliste à La Liberté», se remémore-t-il.
+
+Oublier la photo pour mieux se souvenir de la rencontre qui l’a précédée: voilà une approche qui ne surprendra pas les personnes qui connaissent Alain Wicht, regard sûr et acéré de La Liberté depuis 37 ans. Près de quatre décennies que le Villarois sillonne le canton à la découverte de ses habitants. Près de quatre décennies à enchaîner les commandes de photos, jusqu’à huit dans une même journée, qu’il s’agisse de photographier un conseiller fédéral, le pape (deux fois) ou un simple passant.
+
+Celui qui préfère le qualificatif d’artisan à celui d’artiste a choisi d’écrire avec la lumière, car le médium lui assurait de devoir aller à la rencontre des gens. Après un apprentissage à Fribourg, il découvre la photographie d’actualité au sein de l’agence Actualités Suisses Lausanne, avant de se mettre à son compte deux ans plus tard. De retour à Fribourg, le photographe signe alors des reportages pour toute la presse nationale, dont La Liberté. C’est d’ailleurs à cette époque, en août 1980 exactement, qu’il signe son premier reportage dans le quotidien fribourgeois. Quatre images monochromes, aux teintes sombres, pour laisser voir le travail d’un copain garde-génisses installé en estivage au-dessus de Grandvillard. Engagé pour de bon au sein de la rédaction de Pérolles en juillet 1984, Alain Wicht ne changera plus jamais d’employeur.
+
+**De l’argentique à l’iPhone**
+
+Autour de lui, par contre, tout changera. Le Fribourgeois a connu – et aimé – l’argentique et ses chimies. Il a appris à apprécier la photographie numérique au contact de son collègue d’alors, Vincent Murith. Il a ensuite testé et apprécié l’approche nomade et spontanée du smartphone, qu’il utilise encore au quotidien, dans les pages du journal comme sur Instagram.
+
+Les techniques évoluent, et avec elles le travail du photographe. «Quand on commence la photo, on a des idées en tête, on veut montrer les secrets qui se cachent au plus profond des gens. Depuis, j’ai changé. De quel droit je me permettrais de montrer ces choses si on ne veut pas me les dévoiler? Je prends ce qu’on m’offre. Une image n’est que le 125e de seconde d’une vie.»
+
+L’homme, par contre, est resté entier au fil des décennies. Car Alain Wicht, c’est aussi un caractère affirmé, «pas facile» l’avoue-t-il lui-même, toujours franc et entier. Et cela se sent dans ses images. L’homme n’est pas du genre à se cacher derrière son boîtier. Il préfère aller au contact, discuter, charmer parfois. «Je ne peux pas voler une image. Ça m’a valu d’en rater, mais j’en ai gagné d’autres, et le respect.»
+
+A 63 ans, ce goût de la rencontre semble préserver Alain Wicht du poids de la routine. Jusqu’à quand? «T’as d’autres questions?» lance-t-il, décidé. A l’évidence, le photographe se verrait bien faire augmenter encore quelques années le nombre d’occurrences de son nom dans ces colonnes.
