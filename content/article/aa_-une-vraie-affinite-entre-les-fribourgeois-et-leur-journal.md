@@ -1,5 +1,5 @@
 +++
-author = "JER"
+author = "Vincent Chobaz"
 banner = "images/doris_archive_1.png"
 date = 1871-10-01T23:39:21Z
 date_display = "1er octobre 1871"
@@ -7,11 +7,17 @@ draft = true
 featured = false
 images = ["images/doris_archive_1.png", "images/doris_archive_2.png"]
 reading_time = "3 min"
-summary = "C’était un dimanche, le 1er octobre 1871. La Liberté, sortait son premier numéro. "
+summary = "Courtier en publicité à l’enseigne de media f, Lionel Auzet fait le lien entre les annonceurs et le journal. Avec l’avènement du numérique, la branche doit sans cesse se réinventer."
 title = "AA_«Une vraie affinité entre les Fribourgeois et leur journal»"
 title_style = "brik"
 videos = "601807350"
 videos_cover = "images/doris_video_1.png"
 
 +++
-C’était un dimanche, le 1er octobre 1871. La Liberté, sortait son premier numéro. Quatre feuillets, dont un demi dévolu aux annonces publicitaires. Ainsi commence l’histoire foisonnante du quotidien fribourgeois, qui fête ses 150 ans en 2021. La Liberté, une vieille dame déjà, mais à l’allure toujours fringante. Un tel anniversaire justifiait que l’on prenne date.
+La Liberté vit pour et par ses lecteurs. Mais pas seulement. La publicité contribue également à l’équilibre financier des journaux du Groupe St-Paul. A l’enseigne de la régie media f, ils sont une petite quinzaine à faire tourner la boutique, dont six vendeurs externes. Lionel Auzet (43ans) est l’un d’entre eux. «Nous prospectons le marché fribourgeois élargi et sommes donc en contact direct avec les annonceurs. Avec le temps, j’ai noué des relations personnelles avec certains. Il y a une vraie affinité entre les Fribourgeois et leur journal.»
+
+La journée d’un courtier ne se résume pas à la collecte des réclames publiées dans la prochaine édition de La Liberté. Entre deux rendez-vous, il faut passer de la lecture «active» des journaux, au travail administratif, au suivi des dossiers ou à l’élaboration des prochaines campagnes. «La connaissance du marché est primordiale», souligne Lionel Auzet. «Au petit déjeuner, je ne m’arrête pas que sur les publicités insérées dans les journaux. Lorsque je lis un article sur la réintroduction des cours obligatoires pour les propriétaires de chiens, ça doit me faire «tilt». Il y a sans doute des écoles de dressage à contacter.»
+
+Depuis une vingtaine d’années, la presse souffre de l’érosion continue de ses revenus publicitaires. «Par le passé, lorsqu’on organisait une manifestation, on passait une annonce dans le journal. Aujourd’hui, avec l’avènement du numérique, il y a une multitude de supports à disposition, auprès de media f bien sûr, mais aussi à la concurrence.» Il faut conseiller, il faut convaincre. 
+
+«Le métier s’est complexifié mais le numérique, c’est aussi une opportunité. Le secteur des médias doit sans cesse se réinventer.» Dans cet environnement concurrentiel, les courtiers se retrouvent parfois entre le marteau et l’enclume. «Il arrive qu’on entende: passez-moi un article et je vous mets une annonce», poursuit Lionel Auzet. «C’est la marque de cette proximité avec leur quotidien régional. Les gens se l’approprient presque.» Dans ce cas, la réponse est claire: media f ne maîtrise pas le contenu du journal, et les choix de la rédaction sont indépendants de la publicité. «Cette crédibilité du titre est essentielle. Car sur la longueur, elle rejaillit sur l’image de l’annonceur.»
