@@ -1,14 +1,16 @@
 +++
 author = "François Rossier"
-banner = "images/doris_archive_1.png"
+banner = ""
+banner_hd = "/images/wyser_190721awi_05.JPG"
+banner_thumb = ""
 date = 1871-10-01T23:39:21Z
-date_display = "1er octobre 1871"
+date_display = "16 heures"
 featured = false
-images = ["images/doris_archive_1.png", "images/doris_archive_2.png"]
+images = ["/images/wyser_210721awi_08.JPG", "/images/wyser_210721awi_05.JPG"]
 reading_time = "3 min"
 summary = ""
-title = "AA_Pas d’indigestion de pop-corn"
-title_style = "brik"
+title = "Pas d’indigestion de pop-corn"
+title_style = "eiko"
 videos = "601807350"
 videos_cover = "images/doris_video_1.png"
 
