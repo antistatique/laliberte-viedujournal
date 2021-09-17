@@ -53,4 +53,5 @@ fields:
   label: 'Vidéo : Cover image vidéo'
   description: "<strong>Taille</strong> <br>Largeur 800px<br>Hauteur 455px"
 pages:
+- content/article/aa_-une-vraie-affinite-entre-les-fribourgeois-et-leur-journal.md
 - content/article/aa_le-puzzle-minute-des-mortuaires.md

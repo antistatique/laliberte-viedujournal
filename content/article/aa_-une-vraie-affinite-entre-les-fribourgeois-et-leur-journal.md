@@ -1,13 +1,15 @@
 +++
 author = "Vincent Chobaz"
 banner = "images/doris_archive_1.png"
+banner_hd = ""
+banner_thumb = ""
 date = 1871-10-01T23:39:21Z
 date_display = "1er octobre 1871"
 featured = false
 images = ["images/doris_archive_1.png", "images/doris_archive_2.png"]
 reading_time = "3 min"
 summary = "Courtier en publicité à l’enseigne de media f, Lionel Auzet fait le lien entre les annonceurs et le journal. Avec l’avènement du numérique, la branche doit sans cesse se réinventer."
-title = "AA_«Une vraie affinité entre les Fribourgeois et leur journal»"
+title = "«Une vraie affinité entre les Fribourgeois et leur journal»"
 title_style = "brik"
 videos = "601807350"
 videos_cover = "images/doris_video_1.png"
