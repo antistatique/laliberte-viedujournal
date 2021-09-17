@@ -1,14 +1,16 @@
 +++
 author = "Vincent Chobaz"
-banner = "images/doris_archive_1.png"
+banner = ""
+banner_hd = "/images/dedardel_090821awi_02.jpg"
+banner_thumb = ""
 date = 1871-10-01T23:39:21Z
-date_display = "1er octobre 1871"
+date_display = "14 heures"
 featured = false
-images = ["images/doris_archive_1.png", "images/doris_archive_2.png"]
+images = ["/images/dedardel_090821awi_01.JPG", "/images/dedardel_090821awi_023.JPG", "/images/dedardel_090821awi_017.JPG"]
 reading_time = "3 min"
 summary = "Un parcours déjà riche et un vrai regard: Valentine de Dardel est la vidéaste de la rédaction"
-title = "AA_Du documentaire à l’info brute"
-title_style = "brik"
+title = "Du documentaire à l’info brute"
+title_style = "eiko"
 videos = "601807350"
 videos_cover = "images/doris_video_1.png"
 
