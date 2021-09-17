@@ -1,16 +1,17 @@
 +++
+author = "JER"
 banner = "images/python.png"
 date = 1950-02-28T23:00:00Z
 date_display = "Mars 1950"
+draft = true
 featured = true
-author = "JER"
+images = ["images/doris_archive_1.png", "images/doris_archive_2.png"]
+reading_time = "3 min"
 summary = "Doris, est à quelques mois de la retraite et elle veille sur les archives photos de La Liberté depuis plus de vingt ans"
 title = "Le rôle de La liberté dans l’histoire de Fribourg"
-reading_time = "3 min"
 title_style = "eiko"
-images = ['images/doris_archive_1.png', 'images/doris_archive_2.png']
 videos = "601807350"
-videos_cover = 'images/doris_video_1.png'
+videos_cover = "images/doris_video_1.png"
 
 +++
 À force, Doris Meylan avoue avoir développé une mémoire visuelle d’une efficacité redoutable. Comment pourrait-il en être autrement? La Fribourgeoise de 63 ans, qui n’est plus qu’à quelques mois de la retraite, veille sur les archives photos de La Liberté depuis vingt ans. 
