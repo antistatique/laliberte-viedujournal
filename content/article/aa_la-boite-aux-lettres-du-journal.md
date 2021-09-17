@@ -1,14 +1,16 @@
 +++
 author = "Stéphanie Schroeter"
-banner = "images/doris_archive_1.png"
+banner = ""
+banner_hd = "/images/julan_170621awi_033.JPG"
+banner_thumb = ""
 date = 1871-10-01T23:39:21Z
 date_display = "1er octobre 1871"
 featured = false
-images = ["images/doris_archive_1.png", "images/doris_archive_2.png"]
+images = ["/images/julan_170621awi_041.JPG", "/images/julan_170621awi_047.JPG", "/images/julan_170621awi_042.jpg"]
 reading_time = "3 min"
 summary = "Rédacteur en chef adjoint, Sébastien Julan est aussi responsable du courrier des lecteurs"
 title = "La boîte aux lettres du journal"
-title_style = "brik"
+title_style = "formula"
 videos = "601807350"
 videos_cover = "images/doris_video_1.png"
 
