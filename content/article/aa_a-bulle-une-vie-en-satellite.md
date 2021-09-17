@@ -1,16 +1,16 @@
 +++
 author = "JER"
-banner = "images/doris_archive_1.png"
-banner_hd = ""
+banner = ""
+banner_hd = "/images/tornare_280721awi_029.JPG"
 banner_thumb = ""
 date = 1871-10-01T23:39:21Z
-date_display = "1er octobre 1871"
+date_display = "12 heures"
 featured = false
-images = ["images/doris_archive_1.png", "images/doris_archive_2.png"]
+images = ["/images/tornare_280721awi_040-2.jpg", "/images/tornare_280721awi_027.JPG", "/images/tornare_280721awi_015.jpg"]
 reading_time = "3 min"
 summary = "Les spécificités des bureaux régionaux, Maud Tornare les connaît sur le bout des doigts"
-title = "AA_A Bulle, une vie en satellite"
-title_style = "brik"
+title = "A Bulle, une vie en satellite"
+title_style = "formula"
 videos = "601807350"
 videos_cover = "images/doris_video_1.png"
 
