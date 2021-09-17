@@ -1,13 +1,15 @@
 +++
 author = "Lise-Marie Piller"
-banner = "images/doris_archive_1.png"
+banner = ""
+banner_hd = "/images/rico_10092021_cr18.jpg"
+banner_thumb = ""
 date = 1871-10-01T23:39:21Z
-date_display = "1er octobre 1871"
+date_display = "8 heures"
 featured = false
-images = ["images/doris_archive_1.png", "images/doris_archive_2.png"]
+images = ["/images/rico_10092021_cr22.jpg", "/images/rico_10092021_cr23.jpg", "/images/rico_10092021_cr15.jpg"]
 reading_time = "3 min"
 summary = "A 29 ans, Jérémy Rico est le responsable de la cellule numérique de La Liberté"
-title = "AA_L’explorateur de la planète web"
+title = "L’explorateur de la planète web"
 title_style = "brik"
 videos = "601807350"
 videos_cover = "images/doris_video_1.png"
