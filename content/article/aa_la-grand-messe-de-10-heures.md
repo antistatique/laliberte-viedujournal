@@ -1,14 +1,16 @@
 +++
 author = "Stéphanie Schroeter"
-banner = "images/doris_archive_1.png"
+banner = ""
+banner_hd = "/images/gumy_22062021_03cr.jpg"
+banner_thumb = ""
 date = 1871-10-01T23:39:21Z
-date_display = "1er octobre 1871"
+date_display = "10 heures"
 featured = false
-images = ["images/doris_archive_1.png", "images/doris_archive_2.png"]
+images = ["/images/gumy_22062021_07cr-2.jpg", "/images/gumy_22062021_17cr.jpg", "/images/gumy_22062021_25cr.jpg"]
 reading_time = "3 min"
 summary = "Le rédacteur en chef Serge Gumy anime le premier rendez-vous majeur de la journée"
-title = "AA_La grand-messe de 10 heures"
-title_style = "brik"
+title = "La grand-messe de 10 heures"
+title_style = "formula"
 videos = "601807350"
 videos_cover = "images/doris_video_1.png"
 
