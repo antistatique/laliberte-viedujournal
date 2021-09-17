@@ -1,13 +1,15 @@
 +++
 author = "Pierre Schouwey"
-banner = "images/doris_archive_1.png"
+banner = ""
+banner_hd = "/images/362818835_highres.jpg"
+banner_thumb = ""
 date = 1871-10-01T23:39:21Z
-date_display = "1er octobre 1871"
+date_display = "16 heures"
 featured = false
 images = ["images/doris_archive_1.png", "images/doris_archive_2.png"]
 reading_time = "3 min"
 summary = ""
-title = "AA_Le palais fédéral, une vie d’exilé"
+title = "Le palais fédéral, une vie d’exilé"
 title_style = "brik"
 videos = "601807350"
 videos_cover = "images/doris_video_1.png"
