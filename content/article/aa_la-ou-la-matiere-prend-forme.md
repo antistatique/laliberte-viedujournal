@@ -1,14 +1,16 @@
 +++
 author = "Lise-Marie Piller"
-banner = "images/doris_archive_1.png"
+banner = ""
+banner_hd = "/images/sugnaux_260721awi_026-copie.JPG"
+banner_thumb = ""
 date = 1871-10-01T23:39:21Z
-date_display = "1er octobre 1871"
+date_display = "19 heures"
 featured = false
-images = ["images/doris_archive_1.png", "images/doris_archive_2.png"]
+images = ["/images/sugnaux_260721awi_08.JPG", "/images/sugnaux_09092021_cr11.jpg", "/images/sugnaux_260721awi_023.JPG"]
 reading_time = "3 min"
 summary = "Avec Christophe Sugnaux à sa tête, le desk assure la mise en page du journal. C’est le trait d’union entre la rédaction et l’imprimerie"
-title = "AA_Là où la matière prend forme"
-title_style = "brik"
+title = "Là où la matière prend forme"
+title_style = "eiko"
 videos = "601807350"
 videos_cover = "images/doris_video_1.png"
 
