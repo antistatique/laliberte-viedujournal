@@ -1,14 +1,16 @@
 +++
 author = "François Rossier"
-banner = "images/doris_archive_1.png"
+banner = ""
+banner_hd = "/images/duffey_150721awi_019-copie.JPG"
+banner_thumb = ""
 date = 1871-10-01T23:39:21Z
-date_display = "1er octobre 1871"
+date_display = "4 heures"
 featured = false
-images = ["images/doris_archive_1.png", "images/doris_archive_2.png"]
+images = ["/images/duffey_150721awi_017.JPG", "/images/duffey_150721awi_014.JPG", "/images/duffey_150721awi_02.JPG"]
 reading_time = "3 min"
 summary = "Chaque matin, une armée de porteurs livre La Liberté. Le regard de Jacqueline Duffey"
-title = "AA_Plus c’est tôt, plus c’est beau"
-title_style = "brik"
+title = "Plus c’est tôt, plus c’est beau"
+title_style = "formula"
 videos = "601807350"
 videos_cover = "images/doris_video_1.png"
 
