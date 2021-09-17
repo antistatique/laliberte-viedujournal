@@ -10,7 +10,7 @@ images = ["images/doris_archive_1.png", "images/doris_archive_2.png"]
 reading_time = "3 min"
 summary = "Il vous donne rendez-vous chaque matin, à l’heure du café. Il est dessinateur de presse"
 title = "Alex, l’ami du petit déjeuner"
-title_style = "eiko"
+title_style = "brik"
 videos = "601807350"
 videos_cover = "images/doris_video_1.png"
 
