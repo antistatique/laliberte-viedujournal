@@ -1,16 +1,16 @@
 +++
 author = "Vincent Chobaz"
-banner = "images/doris_archive_1.png"
-banner_hd = ""
+banner = ""
+banner_hd = "/images/cornu_120821awi_09.JPG"
 banner_thumb = ""
 date = 1871-10-01T23:39:21Z
-date_display = "1er octobre 1871"
+date_display = "17 heures"
 featured = false
-images = ["images/doris_archive_1.png", "images/doris_archive_2.png"]
+images = []
 reading_time = "3 min"
 summary = "La «page des morts» reste une véritable institution. C’est l’affaire de Sandra Cornu"
-title = "AA_Le puzzle minuté des mortuaires"
-title_style = "brik"
+title = "Le puzzle minuté des mortuaires"
+title_style = "eiko"
 videos = "601807350"
 videos_cover = "images/doris_video_1.png"
 
