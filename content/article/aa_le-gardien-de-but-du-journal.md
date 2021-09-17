@@ -1,14 +1,16 @@
 +++
 author = "François Rossier"
-banner = "images/doris_archive_1.png"
+banner = ""
+banner_hd = "/images/loretan_26082021_cr01-copie.jpg"
+banner_thumb = ""
 date = 1871-10-01T23:39:21Z
-date_display = "1er octobre 1871"
+date_display = "23 heures"
 featured = false
-images = ["images/doris_archive_1.png", "images/doris_archive_2.png"]
+images = ["/images/loretan_26082021_cr19-copie-2.jpg", "/images/loretan_26082021_cr11.jpg", "/images/loretan_26082021_cr05.jpg"]
 reading_time = "3 min"
 summary = "Premier lecteur de La Liberté, le correcteur Marc Loretan use chaque soir son crayon rouge"
-title = "AA_Le gardien de but du journal"
-title_style = "brik"
+title = "Le gardien de but du journal"
+title_style = "formula"
 videos = "601807350"
 videos_cover = "images/doris_video_1.png"
 
