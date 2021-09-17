@@ -1,14 +1,16 @@
 +++
 author = "Pierre Schouwey"
-banner = "images/doris_archive_1.png"
+banner = ""
+banner_hd = "/images/laliberte_140721awi_030-copie.JPG"
+banner_thumb = ""
 date = 1871-10-01T23:39:21Z
-date_display = "1er octobre 1871"
+date_display = "1 heure"
 featured = false
-images = ["images/doris_archive_1.png", "images/doris_archive_2.png"]
+images = ["/images/laliberte_140721awi_08.JPG", "/images/laliberte_140721awi_063.JPG", "/images/laliberte_140721awi_056.JPG"]
 reading_time = "3 min"
 summary = "La Liberté est imprimée depuis 2015 à Berne. Reportage au côté de Matthias Kobel"
-title = "AA_Minuit, l’heure du print"
-title_style = "brik"
+title = "Minuit, l’heure du print"
+title_style = "formula"
 videos = "601807350"
 videos_cover = "images/doris_video_1.png"
 
