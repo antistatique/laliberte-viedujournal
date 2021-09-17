@@ -1,13 +1,15 @@
 +++
 author = "Stéphanie Schroeter"
-banner = "images/doris_archive_1.png"
+banner = ""
+banner_hd = "/images/python_08072021_01cr-2.jpg"
+banner_thumb = ""
 date = 1871-10-01T23:39:21Z
-date_display = "1er octobre 1871"
+date_display = "7 heures"
 featured = false
-images = ["images/doris_archive_1.png", "images/doris_archive_2.png"]
+images = ["/images/python_08072021_16cr.jpg", "/images/python_08072021_05cr.jpg", "/images/python_08072021_17cr.jpg"]
 reading_time = "3 min"
 summary = "Véronique Python travaille depuis bientôt treize ans au secrétariat de la rédaction"
-title = "AA_C'est elle qui allume la lumière"
+title = "C'est elle qui allume la lumière"
 title_style = "brik"
 videos = "601807350"
 videos_cover = "images/doris_video_1.png"
