@@ -1,14 +1,16 @@
 +++
 author = "Vincent Chobaz"
 banner = "images/doris_archive_1.png"
+banner_hd = ""
+banner_thumb = ""
 date = 1871-10-01T23:39:21Z
 date_display = "1er octobre 1871"
 featured = false
 images = ["images/doris_archive_1.png", "images/doris_archive_2.png"]
 reading_time = "3 min"
 summary = "Il vous donne rendez-vous chaque matin, à l’heure du café. Il est dessinateur de presse"
-title = "AA_Alex, l’ami du petit déjeuner"
-title_style = "brik"
+title = "Alex, l’ami du petit déjeuner"
+title_style = "formula"
 videos = "601807350"
 videos_cover = "images/doris_video_1.png"
 
