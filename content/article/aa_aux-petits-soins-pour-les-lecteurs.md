@@ -1,14 +1,16 @@
 +++
 author = "Jérémy Rico"
-banner = "images/doris_archive_1.png"
+banner = ""
+banner_hd = "/images/tamburino_150721awi_022.JPG"
+banner_thumb = ""
 date = 1871-10-01T23:39:21Z
-date_display = "1er octobre 1871"
+date_display = "7 heures 30"
 featured = false
-images = ["images/doris_archive_1.png", "images/doris_archive_2.png"]
+images = ["/images/tamburino_150721awi_033.JPG", "/images/tamburino_150721awi_024.JPG", "/images/tamburino_150721awi_016-2.JPG"]
 reading_time = "3 min"
 summary = "Davide Tamburino dirige le service commercial, contact privilégié entre les lecteurs et leur journal."
 title = "AA_Aux petits soins pour les lecteurs"
-title_style = "brik"
+title_style = "formula"
 videos = "601807350"
 videos_cover = "images/doris_video_1.png"
 
