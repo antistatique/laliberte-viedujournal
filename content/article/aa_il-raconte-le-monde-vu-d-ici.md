@@ -1,14 +1,16 @@
 +++
 author = "Pierre Schouwey"
-banner = "images/doris_archive_1.png"
+banner = ""
+banner_hd = "/images/_baeriswyl-_280721awi_014.JPG"
+banner_thumb = ""
 date = 1871-10-01T23:39:21Z
 date_display = "1er octobre 1871"
 featured = false
-images = ["images/doris_archive_1.png", "images/doris_archive_2.png"]
+images = ["/images/_baeriswyl-_280721awi_011.JPG", "/images/_baeriswyl-_280721awi_05.JPG", "/images/_baeriswyl-_280721awi_03.JPG"]
 reading_time = "3 min"
 summary = "Responsable de la rubrique internationale, Pascal Baeriswyl est entré à la rédaction en 1987. Son credo? Vulgariser, expliquer, commenter"
-title = "AA_Il raconte le monde, vu d’ici"
-title_style = "brik"
+title = "Il raconte le monde, vu d’ici"
+title_style = "eiko"
 videos = "601807350"
 videos_cover = "images/doris_video_1.png"
 
