@@ -9,8 +9,8 @@ featured = false
 images = ["/images/gumy_22062021_07cr.jpg", "/images/sugnaux_260721awi_031.jpg", "/images/loretan_26082021_cr11.jpg"]
 reading_time = "3 min"
 summary = ""
-title = "AA_La Liberté, ce petit miracle quotidien"
-title_style = "brik"
+title = "La Liberté, ce petit miracle quotidien"
+title_style = "formula"
 videos = "601807350"
 videos_cover = "images/doris_video_1.png"
 
