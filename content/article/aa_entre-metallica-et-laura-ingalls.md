@@ -1,14 +1,16 @@
 +++
 author = "Lise-Marie Piller"
-banner = "images/doris_archive_1.png"
+banner = ""
+banner_hd = "/images/eggenschwiler-_290721awi_025.jpg"
+banner_thumb = ""
 date = 1871-10-01T23:39:21Z
-date_display = "1er octobre 1871"
+date_display = "15 heures"
 featured = false
-images = ["images/doris_archive_1.png", "images/doris_archive_2.png"]
+images = ["/images/eggenschwiler-_290721awi_013.JPG", "/images/eggenschwiler-_290721awi_05.JPG", "/images/eggenschwiler-_290721awi_02.JPG"]
 reading_time = "3 min"
 summary = "Angélique Eggenschwiler anime, avec Pascal Bertschy, la dernière page de La Liberté"
-title = "AA_Entre Metallica et Laura Ingalls"
-title_style = "brik"
+title = "Entre Metallica et Laura Ingalls"
+title_style = "formula"
 videos = "601807350"
 videos_cover = "images/doris_video_1.png"
 
