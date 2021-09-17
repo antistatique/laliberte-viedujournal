@@ -1,10 +1,12 @@
 +++
 author = "Serge Gumy"
-banner = "images/doris_archive_1.png"
+banner = ""
+banner_hd = "/images/laliberte_140921awi_02.jpg"
+banner_thumb = ""
 date = 1871-10-01T23:39:21Z
-date_display = "1er octobre 1871"
+date_display = "Edito"
 featured = false
-images = ["images/doris_archive_1.png", "images/doris_archive_2.png"]
+images = ["/images/gumy_22062021_07cr.jpg", "/images/sugnaux_260721awi_031.jpg", "/images/loretan_26082021_cr11.jpg"]
 reading_time = "3 min"
 summary = ""
 title = "AA_La Liberté, ce petit miracle quotidien"
