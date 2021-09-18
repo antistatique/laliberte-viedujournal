@@ -53,24 +53,24 @@ fields:
   label: 'Vidéo : Cover image vidéo'
   description: "<strong>Taille</strong> <br>Largeur 800px<br>Hauteur 455px"
 pages:
-- content/article/aa_-une-vraie-affinite-entre-les-fribourgeois-et-leur-journal.md
-- content/article/aa_a-bulle-une-vie-en-satellite.md
-- content/article/aa_alex-l-ami-du-petit-dejeuner.md
-- content/article/aa_aux-petits-soins-pour-les-lecteurs.md
-- content/article/aa_c-est-elle-qui-allume-la-lumiere.md
-- content/article/aa_du-documentaire-a-l-info-brute.md
-- content/article/aa_edito.md
-- content/article/aa_entre-metallica-et-laura-ingalls.md
-- content/article/aa_il-raconte-le-monde-vu-d-ici.md
-- content/article/aa_l-explorateur-de-la-planete-web.md
-- content/article/aa_la-boite-aux-lettres-du-journal.md
-- content/article/aa_la-grand-messe-de-10-heures.md
-- content/article/aa_la-ou-la-matiere-prend-forme.md
-- content/article/aa_le-gardien-de-but-du-journal.md
-- content/article/aa_le-palais-federal-une-vie-d-exile.md
-- content/article/aa_le-puzzle-minute-des-mortuaires.md
-- content/article/aa_minuit-l-heure-du-print.md
-- content/article/aa_pas-d-indigestion-de-pop-corn.md
-- content/article/aa_plus-c-est-tot-plus-c-est-beau.md
-- content/article/aa_plutot-gentil-le-mechant-du-film.md
-- content/article/aa_un-125e-de-seconde-apres-l-autre.md
+- content/article/une-vraie-affinite-entre-les-fribourgeois-et-leur-journal.md
+- content/article/a-bulle-une-vie-en-satellite.md
+- content/article/alex-l-ami-du-petit-dejeuner.md
+- content/article/aux-petits-soins-pour-les-lecteurs.md
+- content/article/c-est-elle-qui-allume-la-lumiere.md
+- content/article/du-documentaire-a-l-info-brute.md
+- content/article/edito.md
+- content/article/entre-metallica-et-laura-ingalls.md
+- content/article/il-raconte-le-monde-vu-d-ici.md
+- content/article/l-explorateur-de-la-planete-web.md
+- content/article/la-boite-aux-lettres-du-journal.md
+- content/article/la-grand-messe-de-10-heures.md
+- content/article/la-ou-la-matiere-prend-forme.md
+- content/article/le-gardien-de-but-du-journal.md
+- content/article/le-palais-federal-une-vie-d-exile.md
+- content/article/le-puzzle-minute-des-mortuaires.md
+- content/article/minuit-l-heure-du-print.md
+- content/article/pas-d-indigestion-de-pop-corn.md
+- content/article/plus-c-est-tot-plus-c-est-beau.md
+- content/article/plutot-gentil-le-mechant-du-film.md
+- content/article/un-125e-de-seconde-apres-l-autre.md
