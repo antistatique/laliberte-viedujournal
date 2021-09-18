@@ -1,6 +1,6 @@
 +++
 author = "Jérémy Rico"
-banner = ""
+banner = "/images/alain_110821awi_037.JPG"
 banner_hd = "/images/alain_110821awi_037.JPG"
 banner_thumb = ""
 date = 1871-10-01T23:39:21Z

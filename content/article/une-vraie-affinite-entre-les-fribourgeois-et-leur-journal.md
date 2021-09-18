@@ -1,6 +1,6 @@
 +++
 author = "Vincent Chobaz"
-banner = ""
+banner = "/images/auzet_160721awi_08.JPG"
 banner_hd = "/images/auzet_160721awi_08.JPG"
 banner_thumb = ""
 date = 1871-10-01T23:39:21Z

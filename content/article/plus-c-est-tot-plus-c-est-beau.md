@@ -1,6 +1,6 @@
 +++
 author = "François Rossier"
-banner = ""
+banner = "/images/duffey_150721awi_019-copie.JPG"
 banner_hd = "/images/duffey_150721awi_019-copie.JPG"
 banner_thumb = ""
 date = 1871-10-01T23:39:21Z

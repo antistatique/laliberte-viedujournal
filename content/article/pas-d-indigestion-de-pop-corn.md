@@ -1,6 +1,6 @@
 +++
 author = "François Rossier"
-banner = ""
+banner = "/images/wyser_190721awi_05.JPG"
 banner_hd = "/images/wyser_190721awi_05.JPG"
 banner_thumb = ""
 date = 1871-10-01T23:39:21Z

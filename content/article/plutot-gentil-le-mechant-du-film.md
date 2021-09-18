@@ -1,6 +1,6 @@
 +++
 author = "Lise-Marie Piller"
-banner = ""
+banner = "/images/truong_260721awi_014-copie.JPG"
 banner_hd = "/images/truong_260721awi_014-copie.JPG"
 banner_thumb = ""
 date = 1871-10-01T23:39:21Z
