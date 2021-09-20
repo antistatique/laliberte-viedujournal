@@ -1,8 +1,8 @@
 +++
 author = "Jérémy Rico"
-banner = "/images/alain_110821awi_037.JPG"
-banner_hd = "/images/alain_110821awi_037.JPG"
-banner_thumb = ""
+banner = "/images/alain_110821awi_037_600x824.jpg"
+banner_hd = "/images/alain_110821awi_037_1700x2335.jpg"
+banner_thumb = "/images/alain_110821awi_037_200x275.jpg"
 date = 1871-10-01T23:39:21Z
 date_display = "11 heures"
 featured = false
@@ -15,7 +15,7 @@ videos = "601807350"
 videos_cover = "images/doris_video_1.png"
 
 +++
-    La statistique donne le vertige: le nom d’Alain Wicht a été imprimé à plus de 27'000 reprises dans La Liberté. Est-ce un record? De mémoire de membre de la rédaction, personne n’a fait mieux. Mais ironie de l’histoire: la première image à laquelle le nom du photographe est associé le montre, pour une rare fois, devant l’appareil plutôt que derrière. C’était en 1969, et l’ado Alain Wicht prenait la pose après une sortie à vélo avec l’ancien cycliste professionnel Auguste Girard. «A l’époque, on avait tous été très impressionnés de voir arriver Georges Blanc, journaliste à La Liberté», se remémore-t-il.
+La statistique donne le vertige: le nom d’Alain Wicht a été imprimé à plus de 27'000 reprises dans La Liberté. Est-ce un record? De mémoire de membre de la rédaction, personne n’a fait mieux. Mais ironie de l’histoire: la première image à laquelle le nom du photographe est associé le montre, pour une rare fois, devant l’appareil plutôt que derrière. C’était en 1969, et l’ado Alain Wicht prenait la pose après une sortie à vélo avec l’ancien cycliste professionnel Auguste Girard. «A l’époque, on avait tous été très impressionnés de voir arriver Georges Blanc, journaliste à La Liberté», se remémore-t-il.
 
 Oublier la photo pour mieux se souvenir de la rencontre qui l’a précédée: voilà une approche qui ne surprendra pas les personnes qui connaissent Alain Wicht, regard sûr et acéré de La Liberté depuis 37 ans. Près de quatre décennies que le Villarois sillonne le canton à la découverte de ses habitants. Près de quatre décennies à enchaîner les commandes de photos, jusqu’à huit dans une même journée, qu’il s’agisse de photographier un conseiller fédéral, le pape (deux fois) ou un simple passant.
 
