@@ -1,8 +1,8 @@
 +++
 author = "Stéphanie Schroeter"
-banner = ""
-banner_hd = "/images/gumy_22062021_03cr.jpg"
-banner_thumb = ""
+banner = "/images/gumy_22062021_03cr-2_600x824.jpg"
+banner_hd = "/images/gumy_22062021_03cr-2_1700x2335.jpg"
+banner_thumb = "/images/gumy_22062021_03cr-2_200x275.jpg"
 date = 1871-10-01T23:39:21Z
 date_display = "10 heures"
 featured = false
