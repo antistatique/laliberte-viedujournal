@@ -1,4 +1,4 @@
-baseURL = "https://unejournee.laliberte.ch/"
+baseURL = "https://unejournee.lalib.ch/"
 languageCode = "fr-ch"
 title = "La Liberté - Une journée de Liberté"
 theme = "laliberte"
