@@ -15,4 +15,12 @@ videos = ""
 videos_cover = ""
 
 +++
-Le **Lorem Ipsum** est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker.
+_Publication à titre promotionnel_
+
+**Le mot de Serge Gumy - Rédacteur en chef**
+
+Le 1er octobre 1871 – un dimanche ! - paraissait la première édition de « La Liberté ». Quatre pages, dont une demi-page dévolue aux publicités, essentiellement pour des publications religieuses. Dès le départ, les annonceurs sont ainsi associés à l’histoire du quotidien fribourgeois, qui se veut non seulement vecteur d’informations, mais aussi support de messages commerciaux.
+
+Au moment de célébrer son 150e anniversaire, « La Liberté » se réjouit d’associer ses fidèles annonceurs à ce moment de joie. Elle serait fière de compter votre entreprise parmi les partenaires de l’événement. Avec, à la clé pour vous, une formidable visibilité dans les deux numéros spéciaux que toute la rédaction prépare, sur nos supports numériques ainsi que dans les salles qui accueilleront le spectacle humoristique que nous montons avec le théâtre des Osses (on croise les doigts).
+
+A 150 ans, « La Liberté » a gardé tout son mordant et reste indispensable à sa région. C’est aussi à votre engagement qu’elle le doit. Notre fête est donc un peu la vôtre.
