@@ -1,8 +1,8 @@
 +++
 author = "Vincent Chobaz"
-banner = ""
-banner_hd = "/images/dedardel_090821awi_02.jpg"
-banner_thumb = ""
+banner = "/images/dedardel_090821awi_02_600x824.jpg"
+banner_hd = "/images/dedardel_090821awi_02_1700x2335.jpg"
+banner_thumb = "/images/dedardel_090821awi_02_200x275.jpg"
 date = 1871-10-01T23:39:21Z
 date_display = "14 heures"
 featured = false
