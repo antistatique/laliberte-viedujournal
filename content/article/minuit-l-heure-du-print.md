@@ -1,8 +1,8 @@
 +++
 author = "Pierre Schouwey"
-banner = ""
-banner_hd = "/images/laliberte_140721awi_030-copie.JPG"
-banner_thumb = ""
+banner = "/images/laliberte_140721awi_030_600x824.jpg"
+banner_hd = "/images/laliberte_140721awi_030_1700x2335.jpg"
+banner_thumb = "/images/laliberte_140721awi_030_200x275.jpg"
 date = 1871-10-01T23:39:21Z
 date_display = "1 heure"
 featured = false
