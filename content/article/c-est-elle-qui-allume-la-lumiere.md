@@ -1,8 +1,8 @@
 +++
 author = "Stéphanie Schroeter"
-banner = ""
-banner_hd = "/images/python_08072021_01cr-2.jpg"
-banner_thumb = ""
+banner = "/images/python_08072021_01cr-2_600x824.jpg"
+banner_hd = "/images/python_08072021_01cr-2_1700x2335.jpg"
+banner_thumb = "/images/python_08072021_01cr-2_200x275.jpg"
 date = 1871-10-01T23:39:21Z
 date_display = "7 heures"
 featured = false
