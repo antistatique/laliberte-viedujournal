@@ -1,8 +1,8 @@
 +++
 author = "Pierre Schouwey"
-banner = ""
-banner_hd = "/images/_baeriswyl-_280721awi_014.JPG"
-banner_thumb = ""
+banner = "/images/_baeriswyl-_280721awi_014_600x824.jpg"
+banner_hd = "/images/_baeriswyl-_280721awi_014_1700x2335.jpg"
+banner_thumb = "/images/_baeriswyl-_280721awi_014_200x275.jpg"
 date = 1871-10-01T23:39:21Z
 date_display = "16 heures"
 featured = false
