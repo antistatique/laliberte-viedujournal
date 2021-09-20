@@ -1,5 +1,6 @@
 +++
 author = "Pierre Schouwey"
+cover = ""
 banner = "/images/_baeriswyl-_280721awi_014_600x824.jpg"
 banner_hd = "/images/_baeriswyl-_280721awi_014_1700x2335.jpg"
 banner_thumb = "/images/_baeriswyl-_280721awi_014_200x275.jpg"

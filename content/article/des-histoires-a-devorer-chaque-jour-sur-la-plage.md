@@ -1,5 +1,6 @@
 +++
 author = "Stéphanie Schroeter"
+cover = ""
 banner = ""
 banner_hd = ""
 banner_thumb = ""

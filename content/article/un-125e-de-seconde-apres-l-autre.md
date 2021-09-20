@@ -1,5 +1,6 @@
 +++
 author = "Jérémy Rico"
+cover = ""
 banner = "/images/alain_110821awi_037_600x824.jpg"
 banner_hd = "/images/alain_110821awi_037_1700x2335.jpg"
 banner_thumb = "/images/alain_110821awi_037_200x275.jpg"

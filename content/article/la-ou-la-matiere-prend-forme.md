@@ -1,5 +1,6 @@
 +++
 author = "Lise-Marie Piller"
+cover = ""
 banner = "/images/sugnaux_260721awi_026_600x824.jpg"
 banner_hd = "/images/sugnaux_260721awi_026_1700x2335.jpg"
 banner_thumb = "/images/sugnaux_260721awi_026_200x275.jpg"

@@ -1,5 +1,6 @@
 +++
 author = "JER"
+cover = ""
 banner = "images/doris_cover.png"
 banner_hd = "images/doris_hd.png"
 banner_thumb = "images/doris_thumb.png"

@@ -1,5 +1,6 @@
 +++
 author = "Pierre Schouwey"
+cover = ""
 banner = "/images/laliberte_140721awi_030_600x824.jpg"
 banner_hd = "/images/laliberte_140721awi_030_1700x2335.jpg"
 banner_thumb = "/images/laliberte_140721awi_030_200x275.jpg"

@@ -1,5 +1,6 @@
 +++
 author = "Jérémy Rico"
+cover = ""
 banner = "/images/tamburino_150721awi_022-2_600x824.jpg"
 banner_hd = "/images/tamburino_150721awi_022-2_1700x2335.jpg"
 banner_thumb = "/images/tamburino_150721awi_022-2_200x275.jpg"

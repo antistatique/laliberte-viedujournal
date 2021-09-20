@@ -1,5 +1,6 @@
 +++
 author = "François Rossier"
+cover = ""
 banner = "/images/wyser_190721awi_05_600x824.jpg"
 banner_hd = "/images/wyser_190721awi_05_1700x2335.jpg"
 banner_thumb = "/images/wyser_190721awi_05_200x275.jpg"

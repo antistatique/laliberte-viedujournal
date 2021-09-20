@@ -1,5 +1,6 @@
 +++
 author = "François Rossier"
+cover = ""
 banner = "/images/duffey_150721awi_019_600x824.jpg"
 banner_hd = "/images/duffey_150721awi_019_1700x2335.jpg"
 banner_thumb = "/images/duffey_150721awi_019_200x275.jpg"

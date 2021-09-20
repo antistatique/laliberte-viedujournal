@@ -1,5 +1,6 @@
 +++
 author = "Vincent Chobaz"
+cover = ""
 banner = "/images/auzet_160721awi_08-2_600x824.jpg"
 banner_hd = "/images/auzet_160721awi_08-2_1700x2335.jpg"
 banner_thumb = "/images/auzet_160721awi_08-2_200x275.jpg"

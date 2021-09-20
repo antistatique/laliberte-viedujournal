@@ -1,5 +1,6 @@
 +++
 author = "Serge Gumy"
+cover = ""
 banner = "/images/laliberte_140921awi_02_600x824.jpg"
 banner_hd = "/images/laliberte_140921awi_02_1700x2335.jpg"
 banner_thumb = "/images/laliberte_140921awi_02_200x275.jpg"
@@ -13,7 +14,6 @@ title = "La Liberté, ce petit miracle quotidien"
 title_style = "eiko"
 videos = ""
 videos_cover = ""
-
 +++
 C’est un petit miracle qui se reproduit six jours par semaine depuis 150 ans. Le supplément que vous avez sous les yeux, sur votre tablette, sur papier ou sur notre site dédié, est le fruit d’un travail collectif qui mobilise toutes nos équipes quasiment sur les vingt-quatre heures d’une journée.
 

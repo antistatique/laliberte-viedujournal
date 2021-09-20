@@ -1,5 +1,6 @@
 +++
 author = "Lise-Marie Piller"
+cover = ""
 banner = "/images/rico_10092021_cr18_600x824.jpg"
 banner_hd = "/images/rico_10092021_cr18_1700x2335.jpg"
 banner_thumb = "/images/rico_10092021_cr18_200x275.jpg"

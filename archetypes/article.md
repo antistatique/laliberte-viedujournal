@@ -3,6 +3,7 @@ title = "{{ replace .Name "-" " " | title }}"
 date = {{ .Date }}
 draft = false
 author = "JER"
+cover = ""
 banner = ""
 banner_hd = ""
 banner_thumb = ""

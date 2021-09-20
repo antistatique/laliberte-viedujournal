@@ -1,5 +1,6 @@
 +++
 author = "Jérémy Rico"
+cover = ""
 banner = "images/doris_archive_1.png"
 banner_hd = ""
 banner_thumb = ""

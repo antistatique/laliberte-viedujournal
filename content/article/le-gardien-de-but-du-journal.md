@@ -1,5 +1,6 @@
 +++
 author = "François Rossier"
+cover = ""
 banner = "/images/loretan_26082021_cr01_600x824.jpg"
 banner_hd = "/images/loretan_26082021_cr01_1700x2335.jpg"
 banner_thumb = "/images/loretan_26082021_cr01_200x275.jpg"
