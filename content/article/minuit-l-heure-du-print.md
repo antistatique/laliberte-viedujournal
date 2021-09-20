@@ -11,8 +11,8 @@ reading_time = "4 min"
 summary = "La Liberté est imprimée depuis 2015 à Berne. Reportage au côté de Matthias Kobel"
 title = "Minuit, l’heure du print"
 title_style = "formula"
-videos = "601807350"
-videos_cover = "images/doris_video_1.png"
+videos = ""
+videos_cover = ""
 
 +++
 Imprimée à Fribourg, dans ses propres murs, durant 143 ans, La Liberté a changé de salle d’accouchement début 2015. S’il est certifié AOP, le journal que vous tenez dans vos mains s’est teinté d’un léger accent alémanique depuis qu’il est mis sous presse entre 1 h et 2h du matin au Druckzentrum de Berne. DZB: trois lettres d’où sortent chaque nuit des millions d’autres, assemblées quotidiennement dans la Berner Zeitung, La Gruyère, La Liberté et une dizaine d’autres titres. Sollicitées toute la journée, les trois énormes rotatives mettent les bouchées doubles une fois la nuit tombée. Elles cracheront 300'000 exemplaires avant que l’aube ne pointe.
