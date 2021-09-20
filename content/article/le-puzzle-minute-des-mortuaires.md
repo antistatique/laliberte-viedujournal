@@ -11,7 +11,7 @@ reading_time = "4 min"
 summary = "La «page des morts» reste une véritable institution. C’est l’affaire de Sandra Cornu"
 title = "Le puzzle minuté des mortuaires"
 title_style = "eiko"
-videos = ""
+videos = "609147873"
 videos_cover = "/images/sandra_cornu.jpg"
 
 +++
