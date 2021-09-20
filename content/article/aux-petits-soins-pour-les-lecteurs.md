@@ -12,7 +12,7 @@ summary = "Davide Tamburino dirige le service commercial, contact privilégié e
 title = "Aux petits soins pour les lecteurs"
 title_style = "formula"
 videos = "609076019"
-videos_cover = ""
+videos_cover = "/images/davide_tamburino.jpg"
 
 +++
 «La Liberté, service commercial Tamburino!» Il est 7h30 passées d’une dizaine de minutes lorsque le poste 1 sonne pour la première fois au troisième étage de La Liberté. Une sonnerie discrète, qui suffit à mettre en alerte Davide Tamburino. A l’autre bout du téléphone, un lecteur souhaite signaler un changement d’adresse. «J’ai fait le nécessaire, je vous souhaite une toute bonne journée», conclut le Fribourgeois de 35 ans, un sourire dans la voix. Davide Tamburino est à la tête du service commercial de La Liberté depuis le début de l’année. Cet enfant de Pérolles dirige actuellement une équipe de six personnes. 
