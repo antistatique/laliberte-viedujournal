@@ -11,8 +11,8 @@ reading_time = "4 min"
 summary = "Véronique Python travaille depuis bientôt treize ans au secrétariat de la rédaction"
 title = "C'est elle qui allume la lumière"
 title_style = "brik"
-videos = "601807350"
-videos_cover = "images/doris_video_1.png"
+videos = "609223208"
+videos_cover = "/images/veronique_python.jpg"
 
 +++
 Elle est le sourire de la rédaction. Celui que les visiteurs voient en premier, une fois la porte du deuxième étage de Pérolles 42 franchie. Fidèle au poste depuis bientôt treize ans, Véronique Python, 53 ans, est l’une des deux secrétaires que compte La Liberté. Rencontre avec cette maman de quatre enfants, aux petits soins avec tous les journalistes…
