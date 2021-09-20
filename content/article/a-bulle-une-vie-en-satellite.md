@@ -33,8 +33,6 @@ Réunis sous le même toit, à Bulle, depuis fin 2018, les préposés à l’act
 
 Les bureaux régionaux
 
-Fribourg (centrale) : 11 journalistes
-
-Bulle : 4 journalistes
-
-Payerne : 3 journalistes
+* **Fribourg (centrale)** : 11 journalistes
+* **Bulle** : 4 journalistes
+* **Payerne** : 3 journalistes
