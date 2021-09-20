@@ -11,8 +11,8 @@ reading_time = "4 min"
 summary = "Angélique Eggenschwiler anime, avec Pascal Bertschy, la dernière page de La Liberté"
 title = "Entre Metallica et Laura Ingalls"
 title_style = "formula"
-videos = "601807350"
-videos_cover = "images/doris_video_1.png"
+videos = ""
+videos_cover = ""
 
 +++
 Hiver 2011. Une adolescente rousse de 18ans, tout ébouriffée, se retrouve en plein hiver à Paris. Pour tout vêtement elle porte un short, un tee-shirt et des espadrilles. «Je n’avais plus une fringue, plus un rond», se souvient Angélique Eggenschwiler, qui rentrait d’un voyage en auto-stop en Afrique et en solo, entrepris sur un coup de tête «parce qu’on y parlait français». Qui aurait pu prédire que cette jeune femme aux mille vies, qui a été serveuse, palefrenière, vendeuse ou encore étudiante, aurait un parcours fulgurant à La Liberté?
