@@ -12,7 +12,7 @@ summary = "Courtier en publicité à l’enseigne de media f, Lionel Auzet fait 
 title = "«Une vraie affinité entre les Fribourgeois et leur journal»"
 title_style = "brik"
 videos = "609119949"
-videos_cover = "images/doris_video_1.png"
+videos_cover = "/images/lionel_auzet.jpg"
 
 +++
 La Liberté vit pour et par ses lecteurs. Mais pas seulement. La publicité contribue également à l’équilibre financier des journaux du Groupe St-Paul. A l’enseigne de la régie media f, ils sont une petite quinzaine à faire tourner la boutique, dont six vendeurs externes. Lionel Auzet (43ans) est l’un d’entre eux. «Nous prospectons le marché fribourgeois élargi et sommes donc en contact direct avec les annonceurs. Avec le temps, j’ai noué des relations personnelles avec certains. Il y a une vraie affinité entre les Fribourgeois et leur journal.»
