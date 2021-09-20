@@ -1,8 +1,8 @@
 +++
 author = "Lise-Marie Piller"
-banner = ""
-banner_hd = "/images/rico_10092021_cr18.jpg"
-banner_thumb = ""
+banner = "/images/rico_10092021_cr18_600x824.jpg"
+banner_hd = "/images/rico_10092021_cr18_1700x2335.jpg"
+banner_thumb = "/images/rico_10092021_cr18_200x275.jpg"
 date = 1871-10-01T23:39:21Z
 date_display = "8 heures"
 featured = false
