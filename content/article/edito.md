@@ -1,8 +1,8 @@
 +++
 author = "Serge Gumy"
-banner = ""
-banner_hd = "/images/laliberte_140921awi_02.jpg"
-banner_thumb = ""
+banner = "/images/laliberte_140921awi_02_600x824.jpg"
+banner_hd = "/images/laliberte_140921awi_02_1700x2335.jpg"
+banner_thumb = "/images/laliberte_140921awi_02_200x275.jpg"
 date = 1871-10-01T23:39:21Z
 date_display = "Edito"
 featured = false
