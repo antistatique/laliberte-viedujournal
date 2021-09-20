@@ -53,7 +53,6 @@ fields:
   label: 'Vidéo : Cover image vidéo'
   description: "<strong>Taille</strong> <br>Largeur 800px<br>Hauteur 455px"
 pages:
-- content/article/une-vraie-affinite-entre-les-fribourgeois-et-leur-journal.md
 - content/article/a-bulle-une-vie-en-satellite.md
 - content/article/alex-l-ami-du-petit-dejeuner.md
 - content/article/aux-petits-soins-pour-les-lecteurs.md
@@ -74,3 +73,4 @@ pages:
 - content/article/plus-c-est-tot-plus-c-est-beau.md
 - content/article/plutot-gentil-le-mechant-du-film.md
 - content/article/un-125e-de-seconde-apres-l-autre.md
+- content/article/une-vraie-affinite-entre-les-fribourgeois-et-leur-journal.md
