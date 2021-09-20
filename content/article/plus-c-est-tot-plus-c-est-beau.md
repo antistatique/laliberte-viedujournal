@@ -11,8 +11,8 @@ reading_time = "3 min"
 summary = "Chaque matin, une armée de porteurs livre La Liberté. Le regard de Jacqueline Duffey"
 title = "Plus c’est tôt, plus c’est beau"
 title_style = "formula"
-videos = "601807350"
-videos_cover = "images/doris_video_1.png"
+videos = ""
+videos_cover = "/images/jacqueline_duffey.jpg"
 
 +++
 Tout a commencé un 1er avril. «Et ce n’est pas une farce!» s’esclaffe d’entrée Jacqueline Duffey. C’est en 1980, le jour des blagues donc, que la Marlinoise a fait son entrée au service commercial de La Liberté. Quarante et un ans plus tard, après plus de dix années comme responsable du portage, elle met à profit ses derniers mois dans l’entreprise comme employée du service de distribution pour faciliter la transition avec sa successeure, Marine Ansermet.
