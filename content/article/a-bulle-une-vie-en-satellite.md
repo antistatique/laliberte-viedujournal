@@ -11,8 +11,8 @@ reading_time = "3 min"
 summary = "Les spécificités des bureaux régionaux, Maud Tornare les connaît sur le bout des doigts"
 title = "A Bulle, une vie en satellite"
 title_style = "formula"
-videos = "601807350"
-videos_cover = "images/doris_video_1.png"
+videos = ""
+videos_cover = ""
 
 +++
 Tous les chemins ne mènent pas à Pérolles 42. Loin du bourdonnement de la centrale, sept journalistes composent nos deux bureaux régionaux, basés à Bulle et Payerne. «Nous sommes en quelque sorte des électrons libres, avec notre petite agitation à nous», image Maud Tornare. A La Liberté depuis plus de 10 ans, la Gruérienne connaît sur le bout des doigts cette facette particulièrement locale du métier pour avoir posé sa plume et ses calepins dans les deux satellites. «Je ne sais même pas ce que c’est de vivre au cœur d’une rédaction, remarque-t-elle. J’ai commencé dans la Broye, une région que je ne connaissais pas vraiment. L’appréhension de ne pas réussir à m’intégrer a rapidement été dissipée. Les gens se sont montrés ouverts et chaleureux.»
