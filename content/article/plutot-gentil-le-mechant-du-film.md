@@ -1,8 +1,8 @@
 +++
 author = "Lise-Marie Piller"
-banner = "/images/truong_260721awi_014-copie.JPG"
-banner_hd = "/images/truong_260721awi_014-copie.JPG"
-banner_thumb = ""
+banner = "/images/truong_260721awi_014_600x824.jpg"
+banner_hd = "/images/truong_260721awi_014_1700x2335.jpg"
+banner_thumb = "/images/truong_260721awi_014_200x275.jpg"
 date = 1871-10-01T23:39:21Z
 date_display = "21 heures"
 featured = false
