@@ -27,4 +27,4 @@ A 150 ans, « La Liberté » a gardé tout son mordant et reste indispensable à
 
 Découvrez les vidéos en cliquant sur le logo de notre partenaire :
 
-![](/images/defo-png.png)
+[![](/images/defo-png.png)](https://google.com "test")
