@@ -1,8 +1,8 @@
 +++
 author = "François Rossier"
-banner = "/images/wyser_190721awi_05.JPG"
-banner_hd = "/images/wyser_190721awi_05.JPG"
-banner_thumb = ""
+banner = "/images/wyser_190721awi_05_600x824.jpg"
+banner_hd = "/images/wyser_190721awi_05_1700x2335.jpg"
+banner_thumb = "/images/wyser_190721awi_05_200x275.jpg"
 date = 1871-10-01T23:39:21Z
 date_display = "16 heures"
 featured = false
