@@ -12,7 +12,7 @@ summary = "Le photographe Alain Wicht fige la vie du canton pour La Liberté dep
 title = "Un 125e de seconde après l’autre"
 title_style = "eiko"
 videos = "609072416"
-videos_cover = "images/doris_video_1.png"
+videos_cover = "/images/alain_wicht.jpg"
 
 +++
 La statistique donne le vertige: le nom d’Alain Wicht a été imprimé à plus de 27'000 reprises dans La Liberté. Est-ce un record? De mémoire de membre de la rédaction, personne n’a fait mieux. Mais ironie de l’histoire: la première image à laquelle le nom du photographe est associé le montre, pour une rare fois, devant l’appareil plutôt que derrière. C’était en 1969, et l’ado Alain Wicht prenait la pose après une sortie à vélo avec l’ancien cycliste professionnel Auguste Girard. «A l’époque, on avait tous été très impressionnés de voir arriver Georges Blanc, journaliste à La Liberté», se remémore-t-il.
