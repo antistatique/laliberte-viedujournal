@@ -11,8 +11,8 @@ reading_time = "4 min"
 summary = "Premier lecteur de La Liberté, le correcteur Marc Loretan use chaque soir son crayon rouge"
 title = "Le gardien de but du journal"
 title_style = "formula"
-videos = "601807350"
-videos_cover = "images/doris_video_1.png"
+videos = ""
+videos_cover = ""
 
 +++
 Il n’y a pas si longtemps, les correcteurs partaient à la chasse aux coquilles, ces fautes de frappe – bien involontaires – qui polluent les textes des journalistes. Depuis l’arrivée des correcteurs automatiques, ces erreurs digitales n’ont pas disparu, mais elles sont beaucoup moins fréquentes. Il reste quelques fautes de syntaxe et l’une ou l’autre règle grammaticale malmenée. «Un correcteur est une sorte de gardien de but. C’est lui le dernier rempart pour empêcher la publication d’une faute. A la correction, mes quatre collègues et moi sommes les garants de la bonne image du journal. Il doit être impeccable avant de partir à l’impression», résume Marc Loretan, 60ans, dont plus de 30 passés à corriger les articles de La Liberté.
