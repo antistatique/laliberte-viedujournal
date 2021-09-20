@@ -1,8 +1,8 @@
 +++
 author = "Media f"
-banner = ""
-banner_hd = ""
-banner_thumb = ""
+banner = "/images/defaut_600_824.png"
+banner_hd = "/images/defaut_1700x2335.png"
+banner_thumb = "/images/defaut_200x225.png"
 date = ""
 date_display = "16 heures"
 featured = false
