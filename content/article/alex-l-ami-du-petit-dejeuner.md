@@ -1,18 +1,18 @@
 +++
 author = "Vincent Chobaz"
-banner = ""
-banner_hd = "/images/alex_190721awi_040-copie.JPG"
-banner_thumb = ""
+banner = "/images/alex_190721awi_040_600x824.jpg"
+banner_hd = "/images/alex_190721awi_040_1700x2335.jpg"
+banner_thumb = "/images/alex_190721awi_040_200x275.jpg"
 date = 1871-10-01T23:39:21Z
 date_display = "18 heures"
 featured = false
 images = ["/images/alex_190721awi_019.JPG", "/images/alex_190721awi_06.JPG", "/images/alex_190721awi_036.JPG"]
-reading_time = "3 min"
+reading_time = "4 min"
 summary = "Il vous donne rendez-vous chaque matin, à l’heure du café. Il est dessinateur de presse"
 title = "Alex, l’ami du petit déjeuner"
 title_style = "formula"
 videos = "601807350"
-videos_cover = "images/doris_video_1.png"
+videos_cover = "/images/alexandre_ballaman.jpg"
 
 +++
 Il suffit qu’il parte trois semaines en vacances pour que certains abonnés appellent la rédaction: «il n’est plus là, Alex?» «Il ne dessine plus, Alex?» «Il revient quand, Alex?» Sinon essentiel, tout au moins nécessaire. Sur la table du petit déjeuner, son dessin slalome entre le café et le beurre des tartines, passe de main en main. Il nous arrache le premier rictus de la journée, un sourire, parfois davantage. Voilà 21ans qu’Alex est entré dans l’intimité des lecteurs de La Liberté. A coups de crayon. Personne ne le connaît vraiment, mais à force, il fait partie de la famille. Un genre de tonton rigolo qui vient toujours au bon moment, avec le pain et les croissants.

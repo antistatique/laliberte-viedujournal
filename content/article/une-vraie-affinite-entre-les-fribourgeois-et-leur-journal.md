@@ -1,18 +1,18 @@
 +++
 author = "Vincent Chobaz"
-banner = "/images/auzet_160721awi_08.JPG"
-banner_hd = "/images/auzet_160721awi_08.JPG"
-banner_thumb = ""
+banner = "/images/auzet_160721awi_08-2_600x824.jpg"
+banner_hd = "/images/auzet_160721awi_08-2_1700x2335.jpg"
+banner_thumb = "/images/auzet_160721awi_08-2_200x275.jpg"
 date = 1871-10-01T23:39:21Z
 date_display = "17 heures"
 featured = false
 images = ["/images/auzet_160721awi_02.JPG", "/images/auzet_160721awi_025.JPG", "/images/auzet_160721awi_011.JPG"]
-reading_time = "3 min"
+reading_time = "2 min"
 summary = "Courtier en publicité à l’enseigne de media f, Lionel Auzet fait le lien entre les annonceurs et le journal. Avec l’avènement du numérique, la branche doit sans cesse se réinventer."
 title = "«Une vraie affinité entre les Fribourgeois et leur journal»"
 title_style = "brik"
-videos = "601807350"
-videos_cover = "images/doris_video_1.png"
+videos = "609119949"
+videos_cover = "/images/lionel_auzet.jpg"
 
 +++
 La Liberté vit pour et par ses lecteurs. Mais pas seulement. La publicité contribue également à l’équilibre financier des journaux du Groupe St-Paul. A l’enseigne de la régie media f, ils sont une petite quinzaine à faire tourner la boutique, dont six vendeurs externes. Lionel Auzet (43ans) est l’un d’entre eux. «Nous prospectons le marché fribourgeois élargi et sommes donc en contact direct avec les annonceurs. Avec le temps, j’ai noué des relations personnelles avec certains. Il y a une vraie affinité entre les Fribourgeois et leur journal.»

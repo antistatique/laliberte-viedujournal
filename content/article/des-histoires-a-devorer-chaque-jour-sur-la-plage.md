@@ -1,13 +1,16 @@
 +++
 author = "Stéphanie Schroeter"
-banner = "images/doris_archive_1.png"
+banner = ""
+banner_hd = ""
+banner_thumb = ""
 date = 1871-10-01T23:39:21Z
 date_display = "1er octobre 1871"
+draft = true
 featured = false
 images = ["images/doris_archive_1.png", "images/doris_archive_2.png"]
 reading_time = "3 min"
 summary = ""
-title = "Des histoires à dévorer chaque jour sur la plage"
+title = " DRAFT Des histoires à dévorer chaque jour sur la plage"
 title_style = "brik"
 videos = "601807350"
 videos_cover = "images/doris_video_1.png"

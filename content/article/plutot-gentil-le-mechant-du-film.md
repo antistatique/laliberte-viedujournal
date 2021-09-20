@@ -1,8 +1,8 @@
 +++
 author = "Lise-Marie Piller"
-banner = "/images/truong_260721awi_014-copie.JPG"
-banner_hd = "/images/truong_260721awi_014-copie.JPG"
-banner_thumb = ""
+banner = "/images/truong_260721awi_014_600x824.jpg"
+banner_hd = "/images/truong_260721awi_014_1700x2335.jpg"
+banner_thumb = "/images/truong_260721awi_014_200x275.jpg"
 date = 1871-10-01T23:39:21Z
 date_display = "21 heures"
 featured = false
@@ -11,8 +11,8 @@ reading_time = "3 min"
 summary = ""
 title = "Plutôt gentil, le «méchant du film»"
 title_style = "eiko"
-videos = "601807350"
-videos_cover = "images/doris_video_1.png"
+videos = "609197643"
+videos_cover = "/images/thomas_truong.jpg"
 
 +++
 Il existe un personnage de l’ombre, qui se situe entre les journalistes et les metteurs en pages. L’éditionneur. Chaque cahier a le(s) sien(s). Pour la rubrique sportive, ce rôle est campé par Thomas Truong depuis 2011. A moitié vietnamien par son père, ce Fribourgeois de 49ans arbore les couleurs de sa petite tribu sur sa nuque. Un tatouage «6T» symbolise sa femme Thi Su et ses trois jeunes fils Tony, Théo et Timo – le dernier «T» étant pour Truong.

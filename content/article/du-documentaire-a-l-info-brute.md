@@ -1,18 +1,18 @@
 +++
 author = "Vincent Chobaz"
-banner = ""
-banner_hd = "/images/dedardel_090821awi_02.jpg"
-banner_thumb = ""
+banner = "/images/dedardel_090821awi_02_600x824.jpg"
+banner_hd = "/images/dedardel_090821awi_02_1700x2335.jpg"
+banner_thumb = "/images/dedardel_090821awi_02_200x275.jpg"
 date = 1871-10-01T23:39:21Z
 date_display = "14 heures"
 featured = false
 images = ["/images/dedardel_090821awi_01.JPG", "/images/dedardel_090821awi_023.JPG", "/images/dedardel_090821awi_017.JPG"]
-reading_time = "3 min"
+reading_time = "4 min"
 summary = "Un parcours déjà riche et un vrai regard: Valentine de Dardel est la vidéaste de la rédaction"
 title = "Du documentaire à l’info brute"
 title_style = "eiko"
-videos = "601807350"
-videos_cover = "images/doris_video_1.png"
+videos = ""
+videos_cover = ""
 
 +++
 Il fut un temps où la télévision produisait des images, où la radio fabriquait des sons et la presse écrite, des journaux. Depuis, l’avènement du numérique a redistribué les cartes et les différents médias se sont adaptés en multipliant leurs supports de diffusion. Aux balbutiements, façon cour des miracles, a succédé l’émergence de nouveaux métiers, de nouvelles formations et d’outils adaptés.
@@ -32,6 +32,8 @@ La routine lui est jusque-là inconnue. «Après des années passées à l’ét
 Valentine de Dardel, c’est l’actualité et le documentaire qui vont bras dessus, bras dessous. Avec une passerelle qui résonne comme une évidence après une heure d’échange sur la terrasse du bistrot d’en face: l’humain est au centre de ses préoccupations.
 
 Jugez plutôt: lorsqu’elle débarque pour la première fois à la rédaction, et alors que ses collègues versés dans les métiers numériques visent des équipements dont la facture grimpe à la hauteur du PIB du Bénin, elle ne revendique qu’un seul outil supplémentaire, une focale fixe, traduisez un objectif qui l’oblige à s’approcher au plus près de ses interlocuteurs.
+
+> «Je vais toujours privilégier l’échange, la proximité.»
 
 Plus qu’un artifice technique, un credo: «Si tu arrives à comprendre un sujet, tu vas le rendre intéressant. La base, c’est la curiosité», enchaîne la journaliste. «Mais la caméra peut être très intrusive. Au départ, tu n’es pas nécessairement légitimée à être là. Lorsque l’on te filme, on te prend un peu de toi, de ton image, le son de ta voix. Pour faire en sorte que la personne que tu pointes de ton objectif ne se sente pas envahie, il faut créer une certaine intimité. S’imposer, c’est déranger. C’est pourquoi, dans la mesure du possible, je ne vais pas travailler au zoom. Je vais toujours privilégier l’échange, la proximité.»
 

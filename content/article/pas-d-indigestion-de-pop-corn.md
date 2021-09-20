@@ -1,8 +1,8 @@
 +++
 author = "François Rossier"
-banner = "/images/wyser_190721awi_05.JPG"
-banner_hd = "/images/wyser_190721awi_05.JPG"
-banner_thumb = ""
+banner = "/images/wyser_190721awi_05_600x824.jpg"
+banner_hd = "/images/wyser_190721awi_05_1700x2335.jpg"
+banner_thumb = "/images/wyser_190721awi_05_200x275.jpg"
 date = 1871-10-01T23:39:21Z
 date_display = "16 heures"
 featured = false
@@ -11,8 +11,8 @@ reading_time = "3 min"
 summary = ""
 title = "Pas d’indigestion de pop-corn"
 title_style = "eiko"
-videos = "601807350"
-videos_cover = "images/doris_video_1.png"
+videos = ""
+videos_cover = "/images/olivier_wyser.jpg"
 
 +++
 Une salle obscure avec un énorme paquet de pop-corn entre les mains: les clichés ont la vie dure. Otez-vous tout de suite cette image de l’esprit. Olivier Wyser, le Monsieur cinéma de La Liberté, ne mange jamais devant un film. «Par contre, je peux en regarder un à toute heure de la journée, et même le soir», rigole le chroniqueur, en charge de la page cinéma depuis 2017 après avoir passé une dizaine d’années à la rubrique régionale.

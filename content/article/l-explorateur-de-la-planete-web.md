@@ -1,18 +1,18 @@
 +++
 author = "Lise-Marie Piller"
-banner = ""
-banner_hd = "/images/rico_10092021_cr18.jpg"
-banner_thumb = ""
+banner = "/images/rico_10092021_cr18_600x824.jpg"
+banner_hd = "/images/rico_10092021_cr18_1700x2335.jpg"
+banner_thumb = "/images/rico_10092021_cr18_200x275.jpg"
 date = 1871-10-01T23:39:21Z
 date_display = "8 heures"
 featured = false
 images = ["/images/rico_10092021_cr22.jpg", "/images/rico_10092021_cr23.jpg", "/images/rico_10092021_cr15.jpg"]
-reading_time = "3 min"
+reading_time = "4 min"
 summary = "A 29 ans, Jérémy Rico est le responsable de la cellule numérique de La Liberté"
 title = "L’explorateur de la planète web"
 title_style = "brik"
-videos = "601807350"
-videos_cover = "images/doris_video_1.png"
+videos = "609167443"
+videos_cover = "/images/jeremy_rico.jpg"
 
 +++
 Imaginez un lieu où tout est possible, un laboratoire d’idées. C’est un peu ce que représente la partie numérique de La Liberté, qui a vu le jour il y a quelques années et se développe vitesse grand V. A sa tête, un homme. Ou plutôt un jeune homme: Jérémy Rico. A la rédaction, il est connu pour être celui qui habite le plus près des bureaux de Pérolles (comptez deux minutes de marche). Il est aussi le troisième plus jeune journaliste de l’étage. «Au sein de la cellule numérique, on teste, on rate, on recommence, on réussit… On peut toucher à tous les thèmes: élections américaines, fribourgeoises, Montreux Jazz Festival, Euro.»

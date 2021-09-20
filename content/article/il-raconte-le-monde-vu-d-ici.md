@@ -1,8 +1,8 @@
 +++
 author = "Pierre Schouwey"
-banner = ""
-banner_hd = "/images/_baeriswyl-_280721awi_014.JPG"
-banner_thumb = ""
+banner = "/images/_baeriswyl-_280721awi_014_600x824.jpg"
+banner_hd = "/images/_baeriswyl-_280721awi_014_1700x2335.jpg"
+banner_thumb = "/images/_baeriswyl-_280721awi_014_200x275.jpg"
 date = 1871-10-01T23:39:21Z
 date_display = "16 heures"
 featured = false
@@ -11,8 +11,8 @@ reading_time = "3 min"
 summary = "Responsable de la rubrique internationale, Pascal Baeriswyl est entré à la rédaction en 1987. Son credo? Vulgariser, expliquer, commenter"
 title = "Il raconte le monde, vu d’ici"
 title_style = "eiko"
-videos = "601807350"
-videos_cover = "images/doris_video_1.png"
+videos = ""
+videos_cover = ""
 
 +++
 Georges Baumgartner, Radio suisse romande, Tokyo. Toujours branché sur les ondes de La Première et de France Info, Pascal Baeriswyl connaît la signature vocale par cœur. Lui aussi en mériterait une, tiens. Pascal Baeriswyl, La Liberté, Fribourg. Une ville depuis laquelle cet historien de formation se plaît à raconter l’actualité internationale, et pas seulement japonaise. Le début de l’aventure remonte à 1987. «Je suis un peu la mémoire de cette rubrique», s’amuse l’un des trois «survivants» de la rédaction à avoir été engagé par François Gross.

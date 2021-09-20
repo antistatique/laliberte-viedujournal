@@ -1,18 +1,18 @@
 +++
 author = "Stéphanie Schroeter"
-banner = ""
-banner_hd = "/images/julan_170621awi_033.JPG"
-banner_thumb = ""
+banner = "/images/julan_170621awi_033_600x824.jpg"
+banner_hd = "/images/julan_170621awi_033_1700x2335.jpg"
+banner_thumb = "/images/julan_170621awi_033_200x275.jpg"
 date = 1871-10-01T23:39:21Z
 date_display = "1er octobre 1871"
 featured = false
 images = ["/images/julan_170621awi_041.JPG", "/images/julan_170621awi_047.JPG", "/images/julan_170621awi_042.jpg"]
-reading_time = "3 min"
+reading_time = "4 min"
 summary = "Rédacteur en chef adjoint, Sébastien Julan est aussi responsable du courrier des lecteurs"
 title = "La boîte aux lettres du journal"
 title_style = "formula"
-videos = "601807350"
-videos_cover = "images/doris_video_1.png"
+videos = "609208727"
+videos_cover = "/images/sebastien_julan.jpg"
 
 +++
 Le ballon rond a longtemps été sa passion. Lorsqu’on lui demande ce qu’il rêvait de faire comme travail, Sébastien Julan répond tout naturellement: footballeur professionnel, évidemment. Sauf qu’il est devenu journaliste. Responsable depuis 2010 de la page Forum à La Liberté, où il officie également comme rédacteur en chef adjoint, ce frais quinquagénaire a d’abord fait ses premières armes plus au sud, au journal La Gruyère. Un peu à l’insu de son plein gré.

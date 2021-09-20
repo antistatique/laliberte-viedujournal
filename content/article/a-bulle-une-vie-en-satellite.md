@@ -1,8 +1,8 @@
 +++
 author = "JER"
-banner = ""
-banner_hd = "/images/tornare_280721awi_029.JPG"
-banner_thumb = ""
+banner = "/images/tornare_280721awi_029_600x824.jpg"
+banner_hd = "/images/tornare_280721awi_029_1700x2335.jpg"
+banner_thumb = "/images/tornare_280721awi_029_200x275.jpg"
 date = 1871-10-01T23:39:21Z
 date_display = "12 heures"
 featured = false
@@ -33,8 +33,6 @@ Réunis sous le même toit, à Bulle, depuis fin 2018, les préposés à l’act
 
 Les bureaux régionaux
 
-Fribourg (centrale) : 11 journalistes
-
-Bulle : 4 journalistes
-
-Payerne : 3 journalistes
+* **Fribourg (centrale)** : 11 journalistes
+* **Bulle** : 4 journalistes
+* **Payerne** : 3 journalistes

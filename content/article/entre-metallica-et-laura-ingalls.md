@@ -1,18 +1,18 @@
 +++
 author = "Lise-Marie Piller"
-banner = ""
-banner_hd = "/images/eggenschwiler-_290721awi_025.jpg"
-banner_thumb = ""
+banner = "/images/eggenschwiler-_290721awi_025_600x824.jpg"
+banner_hd = "/images/eggenschwiler-_290721awi_025_1700x2335.jpg"
+banner_thumb = "/images/eggenschwiler-_290721awi_025_200x275.jpg"
 date = 1871-10-01T23:39:21Z
 date_display = "15 heures"
 featured = false
 images = ["/images/eggenschwiler-_290721awi_013.JPG", "/images/eggenschwiler-_290721awi_05.JPG", "/images/eggenschwiler-_290721awi_02.JPG"]
-reading_time = "3 min"
+reading_time = "4 min"
 summary = "Angélique Eggenschwiler anime, avec Pascal Bertschy, la dernière page de La Liberté"
 title = "Entre Metallica et Laura Ingalls"
 title_style = "formula"
-videos = "601807350"
-videos_cover = "images/doris_video_1.png"
+videos = ""
+videos_cover = "/images/angelique_eggenschwiler.jpg"
 
 +++
 Hiver 2011. Une adolescente rousse de 18ans, tout ébouriffée, se retrouve en plein hiver à Paris. Pour tout vêtement elle porte un short, un tee-shirt et des espadrilles. «Je n’avais plus une fringue, plus un rond», se souvient Angélique Eggenschwiler, qui rentrait d’un voyage en auto-stop en Afrique et en solo, entrepris sur un coup de tête «parce qu’on y parlait français». Qui aurait pu prédire que cette jeune femme aux mille vies, qui a été serveuse, palefrenière, vendeuse ou encore étudiante, aurait un parcours fulgurant à La Liberté?

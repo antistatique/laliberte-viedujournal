@@ -1,18 +1,18 @@
 +++
 author = "Serge Gumy"
-banner = ""
-banner_hd = "/images/laliberte_140921awi_02.jpg"
-banner_thumb = ""
-date = 1871-10-01T23:39:21Z
+banner = "/images/laliberte_140921awi_02_600x824.jpg"
+banner_hd = "/images/laliberte_140921awi_02_1700x2335.jpg"
+banner_thumb = "/images/laliberte_140921awi_02_200x275.jpg"
+date = 2021-09-19T22:00:53Z
 date_display = "Edito"
 featured = false
 images = ["/images/gumy_22062021_07cr.jpg", "/images/sugnaux_260721awi_031.jpg", "/images/loretan_26082021_cr11.jpg"]
-reading_time = "3 min"
+reading_time = "2 min"
 summary = ""
 title = "La Liberté, ce petit miracle quotidien"
 title_style = "eiko"
-videos = "601807350"
-videos_cover = "images/doris_video_1.png"
+videos = ""
+videos_cover = ""
 
 +++
 C’est un petit miracle qui se reproduit six jours par semaine depuis 150 ans. Le supplément que vous avez sous les yeux, sur votre tablette, sur papier ou sur notre site dédié, est le fruit d’un travail collectif qui mobilise toutes nos équipes quasiment sur les vingt-quatre heures d’une journée.
