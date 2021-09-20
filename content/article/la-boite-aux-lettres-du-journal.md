@@ -11,8 +11,8 @@ reading_time = "4 min"
 summary = "Rédacteur en chef adjoint, Sébastien Julan est aussi responsable du courrier des lecteurs"
 title = "La boîte aux lettres du journal"
 title_style = "formula"
-videos = "601807350"
-videos_cover = "images/doris_video_1.png"
+videos = "609208727"
+videos_cover = "/images/sebastien_julan.jpg"
 
 +++
 Le ballon rond a longtemps été sa passion. Lorsqu’on lui demande ce qu’il rêvait de faire comme travail, Sébastien Julan répond tout naturellement: footballeur professionnel, évidemment. Sauf qu’il est devenu journaliste. Responsable depuis 2010 de la page Forum à La Liberté, où il officie également comme rédacteur en chef adjoint, ce frais quinquagénaire a d’abord fait ses premières armes plus au sud, au journal La Gruyère. Un peu à l’insu de son plein gré.
