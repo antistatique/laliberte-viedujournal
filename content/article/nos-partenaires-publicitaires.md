@@ -24,3 +24,7 @@ Le 1er octobre 1871 – un dimanche ! - paraissait la première édition de « L
 Au moment de célébrer son 150e anniversaire, « La Liberté » se réjouit d’associer ses fidèles annonceurs à ce moment de joie. Elle serait fière de compter votre entreprise parmi les partenaires de l’événement. Avec, à la clé pour vous, une formidable visibilité dans les deux numéros spéciaux que toute la rédaction prépare, sur nos supports numériques ainsi que dans les salles qui accueilleront le spectacle humoristique que nous montons avec le théâtre des Osses (on croise les doigts).
 
 A 150 ans, « La Liberté » a gardé tout son mordant et reste indispensable à sa région. C’est aussi à votre engagement qu’elle le doit. Notre fête est donc un peu la vôtre.
+
+Découvrez les vidéos en cliquant sur le logo de notre partenaire :
+
+![](/images/defo-png.png)
