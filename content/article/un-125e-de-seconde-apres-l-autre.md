@@ -11,7 +11,7 @@ reading_time = "3 min"
 summary = "Le photographe Alain Wicht fige la vie du canton pour La Liberté depuis 37 ans"
 title = "Un 125e de seconde après l’autre"
 title_style = "eiko"
-videos = "601807350"
+videos = "609072416"
 videos_cover = "images/doris_video_1.png"
 
 +++
