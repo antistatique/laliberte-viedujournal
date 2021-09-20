@@ -1,8 +1,8 @@
 +++
 author = "François Rossier"
-banner = ""
-banner_hd = "/images/loretan_26082021_cr01-copie.jpg"
-banner_thumb = ""
+banner = "/images/loretan_26082021_cr01_600x824.jpg"
+banner_hd = "/images/loretan_26082021_cr01_1700x2335.jpg"
+banner_thumb = "/images/loretan_26082021_cr01_200x275.jpg"
 date = 1871-10-01T23:39:21Z
 date_display = "23 heures"
 featured = false
