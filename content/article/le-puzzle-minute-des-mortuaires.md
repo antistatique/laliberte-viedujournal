@@ -1,8 +1,8 @@
 +++
 author = "Vincent Chobaz"
-banner = ""
-banner_hd = "/images/cornu_120821awi_09.JPG"
-banner_thumb = ""
+banner = "/images/cornu_120821awi_09_600x824.jpg"
+banner_hd = "/images/cornu_120821awi_09_1700x2335.jpg"
+banner_thumb = "/images/cornu_120821awi_09_200x275.jpg"
 date = 1871-10-01T23:39:21Z
 date_display = "17 heures"
 featured = false
