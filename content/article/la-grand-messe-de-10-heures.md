@@ -7,7 +7,7 @@ date = 1871-10-01T23:39:21Z
 date_display = "10 heures"
 featured = false
 images = ["/images/gumy_22062021_07cr-2.jpg", "/images/gumy_22062021_17cr.jpg", "/images/gumy_22062021_25cr.jpg"]
-reading_time = "3 min"
+reading_time = "4 min"
 summary = "Le rédacteur en chef Serge Gumy anime le premier rendez-vous majeur de la journée"
 title = "La grand-messe de 10 heures"
 title_style = "formula"
@@ -41,20 +41,12 @@ Reste encore à souhaiter une bonne journée qui, d’ailleurs, fera l’objet d
 
 Les briefings
 
-9h (lundi) Séance hebdomadaire des sports.
-
-9h15 Séance quotidienne  du premier cahier (rubriques internationale, suisse et économie).
-
-9h15 Séance quotidienne de la rubrique régionale.
-
-10h Séance quotidienne générale.
-
-11h (lundi) Séance hebdomadaire du magazine.
-
-14h (lundi) Séance hebdomadaire de la cellule web.
-
-15h30 (lundi) Séance hebdomadaire générale, prévisions pour la semaine.
-
-17h Séance quotidienne entre le chef de jour et les éditionneurs.
-
-19h Le «mur»: passage en revue quotidien des pages déjà montées.
+* 9h (lundi) Séance hebdomadaire des sports.
+* 9h15 Séance quotidienne  du premier cahier (rubriques internationale, suisse et économie).
+* 9h15 Séance quotidienne de la rubrique régionale.
+* 10h Séance quotidienne générale.
+* 11h (lundi) Séance hebdomadaire du magazine.
+* 14h (lundi) Séance hebdomadaire de la cellule web.
+* 15h30 (lundi) Séance hebdomadaire générale, prévisions pour la semaine.
+* 17h Séance quotidienne entre le chef de jour et les éditionneurs.
+* 19h Le «mur»: passage en revue quotidien des pages déjà montées.
