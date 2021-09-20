@@ -11,7 +11,7 @@ reading_time = "2 min"
 summary = "Davide Tamburino dirige le service commercial, contact privilégié entre les lecteurs et leur journal."
 title = "Aux petits soins pour les lecteurs"
 title_style = "formula"
-videos = "601807350"
+videos = "609076019"
 videos_cover = ""
 
 +++
