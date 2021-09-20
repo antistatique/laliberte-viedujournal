@@ -11,8 +11,8 @@ reading_time = "4 min"
 summary = "Un parcours déjà riche et un vrai regard: Valentine de Dardel est la vidéaste de la rédaction"
 title = "Du documentaire à l’info brute"
 title_style = "eiko"
-videos = "601807350"
-videos_cover = "images/doris_video_1.png"
+videos = ""
+videos_cover = ""
 
 +++
 Il fut un temps où la télévision produisait des images, où la radio fabriquait des sons et la presse écrite, des journaux. Depuis, l’avènement du numérique a redistribué les cartes et les différents médias se sont adaptés en multipliant leurs supports de diffusion. Aux balbutiements, façon cour des miracles, a succédé l’émergence de nouveaux métiers, de nouvelles formations et d’outils adaptés.
