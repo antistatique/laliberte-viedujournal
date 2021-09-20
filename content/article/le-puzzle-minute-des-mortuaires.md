@@ -11,8 +11,8 @@ reading_time = "4 min"
 summary = "La «page des morts» reste une véritable institution. C’est l’affaire de Sandra Cornu"
 title = "Le puzzle minuté des mortuaires"
 title_style = "eiko"
-videos = "601807350"
-videos_cover = "images/doris_video_1.png"
+videos = ""
+videos_cover = "/images/sandra_cornu.jpg"
 
 +++
 Les annonces mortuaires font mal à l’ego des journalistes. Vous pouvez décrocher l’interview exclusive de Bill Gates, prouver que la Terre est ronde ou rédiger un article sur le loup transgenre et vacciné qui vient de se faire coller pour excès de vitesse à proximité d’une éolienne de La Sonnaz, jamais vous ne pourrez concurrencer le taux de lecture de la «page des morts». Pour nombre d’abonnés de La Liberté, elle est même la principale porte d’entrée dans le journal, devant le courrier des lecteurs, le dessin d’Alex ou la plage de vie.
