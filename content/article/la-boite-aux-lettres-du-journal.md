@@ -1,8 +1,8 @@
 +++
 author = "Stéphanie Schroeter"
-banner = ""
-banner_hd = "/images/julan_170621awi_033.JPG"
-banner_thumb = ""
+banner = "/images/julan_170621awi_033_600x824.jpg"
+banner_hd = "/images/julan_170621awi_033_1700x2335.jpg"
+banner_thumb = "/images/julan_170621awi_033_200x275.jpg"
 date = 1871-10-01T23:39:21Z
 date_display = "1er octobre 1871"
 featured = false
