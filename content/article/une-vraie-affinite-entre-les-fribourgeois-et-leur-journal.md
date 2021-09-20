@@ -11,7 +11,7 @@ reading_time = "2 min"
 summary = "Courtier en publicité à l’enseigne de media f, Lionel Auzet fait le lien entre les annonceurs et le journal. Avec l’avènement du numérique, la branche doit sans cesse se réinventer."
 title = "«Une vraie affinité entre les Fribourgeois et leur journal»"
 title_style = "brik"
-videos = "601807350"
+videos = "609119949"
 videos_cover = "images/doris_video_1.png"
 
 +++
