@@ -1,6 +1,5 @@
 +++
 author = "Stéphanie Schroeter"
-order = 6
 banner = "/images/plage600.jpeg"
 banner_hd = "/images/plage1700.jpg"
 banner_thumb = "/images/plage200.jpg"
@@ -9,6 +8,7 @@ date = 2021-09-20T22:16:53Z
 date_display = "8 heures"
 featured = false
 images = []
+order = 12
 reading_time = "3 min"
 summary = ""
 title = "Des histoires à dévorer chaque jour sur la plage"
