@@ -1,6 +1,5 @@
 +++
 author = "Media f"
-order = 26
 banner = "/images/annonceurs_600x824.jpg"
 banner_hd = "/images/annonceurs_1700x2335.jpg"
 banner_thumb = "/images/annonceurs_200x275.jpg"
@@ -9,6 +8,7 @@ date = 2021-09-20T22:19:00Z
 date_display = ""
 featured = false
 images = []
+order = 15
 reading_time = "3 min"
 summary = "Si nous sommes là aujourd’hui, c’est grâce à vous."
 title = "Nos partenaires officiels en vidéo"
