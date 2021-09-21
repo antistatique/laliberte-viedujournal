@@ -1,6 +1,5 @@
 +++
 author = "Jérémy Rico"
-order = 9
 banner = "/images/alain_110821awi_037_600x824.jpg"
 banner_hd = "/images/alain_110821awi_037_1700x2335.jpg"
 banner_thumb = "/images/alain_110821awi_037_200x275.jpg"
@@ -9,6 +8,7 @@ date = 2021-09-20T22:12:00Z
 date_display = "11 heures. Le photographe réalise les clichés qui seront publiés dans l'édition du lendemain"
 featured = false
 images = ["/images/alain_110821awi_021.jpg", "/images/alain_110821awi_017.jpg", "/images/alain_110821awi_018.jpg"]
+order = 6
 reading_time = "3 min"
 summary = "Le photographe Alain Wicht fige la vie du canton pour La Liberté depuis 37 ans"
 title = "Un 125e de seconde après l’autre"
