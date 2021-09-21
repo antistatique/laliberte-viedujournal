@@ -1,12 +1,11 @@
 +++
 author = "Stéphanie Schroeter"
-cover = ""
 banner = ""
 banner_hd = ""
 banner_thumb = ""
+cover = ""
 date = 1871-10-01T23:39:21Z
 date_display = "1er octobre 1871"
-draft = true
 featured = false
 images = ["images/doris_archive_1.png", "images/doris_archive_2.png"]
 reading_time = "3 min"
