@@ -36,6 +36,6 @@ Evidemment, les quatre du web forment une petite équipe. Impossible de suivre l
 
 #### **7h30 à 22h** Les horaires de la rubrique web
 
-Son souhait? Intéresser les jeunes via le numérique et les pousser à s’abonner à La Liberté. «J’ai toujours voulu parler à ma génération, qui n’a plus forcément le réflexe de s’abonner au papier.» Raison pour laquelle ses articles parlent par exemple de tiktokeurs ou d’instagrammeurs. «Nous n’attendons pas que quelqu’un ait 30 ans pour faire son portrait», illustre-t-il.
+Son souhait? Intéresser les jeunes via le numérique et les pousser à s’abonner à _La Liberté_. «J’ai toujours voulu parler à ma génération, qui n’a plus forcément le réflexe de s’abonner au papier.» Raison pour laquelle ses articles parlent par exemple de tiktokeurs ou d’instagrammeurs. «Nous n’attendons pas que quelqu’un ait 30 ans pour faire son portrait», illustre-t-il.
 
 L’autre défi est de réussir à monétiser l’information, car internet a tendance à ressembler à un grand bar où tout le monde se sert gratuitement. «Aucun média de Suisse romande n’a trouvé la recette miracle, tout le monde tâtonne.» A l’avenir, Jérémy Rico voit le numérique poursuivre sur sa lancée. Mais il ne pense pas que la version papier de _La Liberté_ disparaîtra.
