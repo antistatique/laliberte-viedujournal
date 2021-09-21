@@ -54,4 +54,4 @@ Découvrez les vidéos en cliquant sur le logo de nos partenaires :
 
 [![](/images/bhch_outl_claim_schwarz_4c_ohnehi_fra.jpg)](https://vimeo.com/610666323/486c66e770)
 
-![](/images/logo-garage-berset-anniversaire.jpg)
+[![](/images/logo-garage-berset-anniversaire.jpg)](https://vimeo.com/610666781/f6d9eb1c67)
