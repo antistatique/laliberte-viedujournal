@@ -1,11 +1,11 @@
 +++
 author = "Vincent Chobaz"
-cover = ""
 banner = "/images/dedardel_090821awi_02_600x824.jpg"
 banner_hd = "/images/dedardel_090821awi_02_1700x2335.jpg"
 banner_thumb = "/images/dedardel_090821awi_02_200x275.jpg"
-date = 1871-10-01T23:39:21Z
-date_display = "14 heures"
+cover = ""
+date = 2021-09-21T22:20:53Z
+date_display = "14 heures. Valentine passe au montage de la vidéo qui sera bientôt publiée sur les supports numériques"
 featured = false
 images = ["/images/dedardel_090821awi_01.JPG", "/images/dedardel_090821awi_023.JPG", "/images/dedardel_090821awi_017.JPG"]
 reading_time = "4 min"
@@ -18,7 +18,7 @@ videos_cover = ""
 +++
 Il fut un temps où la télévision produisait des images, où la radio fabriquait des sons et la presse écrite, des journaux. Depuis, l’avènement du numérique a redistribué les cartes et les différents médias se sont adaptés en multipliant leurs supports de diffusion. Aux balbutiements, façon cour des miracles, a succédé l’émergence de nouveaux métiers, de nouvelles formations et d’outils adaptés.
 
-L’apparition de la vidéo à la rédaction de La Liberté illustre cette évolution. Acquis il y a une dizaine d’années, la première caméra, son imposant trépied et sa batterie de Pinzgauer pesaient un cheval mort. Ses utilisateurs occasionnels, journalistes formés sur le tas, n’avaient d’autres choix que d’user jusqu’à la reliure le mal nommé «manuel d’utilisation». Puis une première vidéaste de métier – Vanessa Lam – a essuyé les plâtres. Avant que Valentine de Dardel et ses enthousiasmes ne prennent le relais. C’était début 2021.
+L’apparition de la vidéo à la rédaction de _La Liberté_ illustre cette évolution. Acquis il y a une dizaine d’années, la première caméra, son imposant trépied et sa batterie de Pinzgauer pesaient un cheval mort. Ses utilisateurs occasionnels, journalistes formés sur le tas, n’avaient d’autres choix que d’user jusqu’à la reliure le mal nommé «manuel d’utilisation». Puis une première vidéaste de métier – Vanessa Lam – a essuyé les plâtres. Avant que Valentine de Dardel et ses enthousiasmes ne prennent le relais. C’était début 2021.
 
 **L’image comme une évidence**
 
@@ -34,8 +34,9 @@ Valentine de Dardel, c’est l’actualité et le documentaire qui vont bras des
 
 Jugez plutôt: lorsqu’elle débarque pour la première fois à la rédaction, et alors que ses collègues versés dans les métiers numériques visent des équipements dont la facture grimpe à la hauteur du PIB du Bénin, elle ne revendique qu’un seul outil supplémentaire, une focale fixe, traduisez un objectif qui l’oblige à s’approcher au plus près de ses interlocuteurs.
 
-> «Je vais toujours privilégier l’échange, la proximité.»
+> «Je vais toujours privilégier l’échange, la proximité.»  
+> **Valentine De Dardel**
 
 Plus qu’un artifice technique, un credo: «Si tu arrives à comprendre un sujet, tu vas le rendre intéressant. La base, c’est la curiosité», enchaîne la journaliste. «Mais la caméra peut être très intrusive. Au départ, tu n’es pas nécessairement légitimée à être là. Lorsque l’on te filme, on te prend un peu de toi, de ton image, le son de ta voix. Pour faire en sorte que la personne que tu pointes de ton objectif ne se sente pas envahie, il faut créer une certaine intimité. S’imposer, c’est déranger. C’est pourquoi, dans la mesure du possible, je ne vais pas travailler au zoom. Je vais toujours privilégier l’échange, la proximité.»
 
-La vidéo est une forme de narration qui offre de nouveaux champs journalistiques aux médias de presse écrite. Et au-delà de son efficacité sur les réseaux sociaux, l’image peut parfois être infiniment plus parlante que le plus abouti des articles. Valentine de Dardel parle d’une «autre manière de communiquer». Après six mois à La Liberté, et avec un regard, le sien, elle a déjà su l’incarner
+La vidéo est une forme de narration qui offre de nouveaux champs journalistiques aux médias de presse écrite. Et au-delà de son efficacité sur les réseaux sociaux, l’image peut parfois être infiniment plus parlante que le plus abouti des articles. Valentine de Dardel parle d’une «autre manière de communiquer». Après six mois à _La Liberté_, et avec un regard, le sien, elle a déjà su l’incarner
