@@ -34,6 +34,8 @@ Tél. 026 426 44 11 – Fax 026 426 44 00
 * **Rédacteurs**: resp. Vincent Chobaz (VIC), François Rossier (FR), Pierre Schouwey (PSC),Stéphanie Schroeter (SSC), Jérémy Rico (JER),Lise-Marie Piller (LMP).
 * **Infographies**: Florence Cerouter (FC).
 * **Dessin de presse:** Alex Ballaman (FC).
+* **Mise en page supplément papier:** Julie Rudaz (JR).
+* 
 
 #### PUBLICITÉ
 
