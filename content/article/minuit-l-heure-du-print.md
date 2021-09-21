@@ -24,7 +24,7 @@ Il est minuit, l’heure du print. Directeur du centre d’impression détenu pa
 
 **Quatre cahiers, deux tours**
 
-Le jour de notre visite, tout est sous contrôle. Il est 0h15 et les 28 pages de La Liberté du lendemain sont déjà là. «Comme l’impression de la _Basler Zeitung_ sur la machine N° 20 s’est bien passée, nous allons pouvoir commencer en avance», se réjouit Matthias Kobel. Derrière un ordinateur, une spécialiste prépresse effectue un dernier contrôle des fichiers PDF envoyés par Christophe Sugnaux et son équipe. Les pages sont divisées en quatre couleurs: le cyan, le magenta, le jaune et le noir. Le directeur s’arrête sur le logo de _La Liberté_. «Un mélange bien particulier de magenta et de jaune. Le dosage d’encre doit être juste. Sinon, on risque de se retrouver avec le rouge de Marlboro.»
+Le jour de notre visite, tout est sous contrôle. Il est 0h15 et les 28 pages de _La Liberté_ du lendemain sont déjà là. «Comme l’impression de la _Basler Zeitung_ sur la machine N° 20 s’est bien passée, nous allons pouvoir commencer en avance», se réjouit Matthias Kobel. Derrière un ordinateur, une spécialiste prépresse effectue un dernier contrôle des fichiers PDF envoyés par Christophe Sugnaux et son équipe. Les pages sont divisées en quatre couleurs: le cyan, le magenta, le jaune et le noir. Le directeur s’arrête sur le logo de _La Liberté_. «Un mélange bien particulier de magenta et de jaune. Le dosage d’encre doit être juste. Sinon, on risque de se retrouver avec le rouge de Marlboro.»
 
 > «C’est l’un de nos journaux les plus complexes à réaliser.»  
 > **Matthias Kobel**
