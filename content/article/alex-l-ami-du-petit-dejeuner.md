@@ -25,7 +25,7 @@ Alex, c’est Alexandre Ballaman (49ans), dessinateur de presse, graphiste de fo
 
 Perché devant une table inclinée, courbé au plus près de son croquis, le Broyard griffonne, porte close. C’est la fin de l’après-midi et Alex est dans sa bulle. En arrière-fond sonore, le poste radio crache des infos en continu. Dans quelques heures, il sortira de sa boîte pour aller livrer sa production du jour, drôle, impertinente, tendre ou poétique, au gré de l’actualité, de son humeur et de ses intuitions.
 
-**Un terrain de jeu immense**
+### Un terrain de jeu immense
 
 Si, avec le temps, Alex est devenu une marque dans la marque, c’est grâce à un talent reconnu bien au-delà des frontières cantonales (double lauréat du Prix du public de la revue satirique alémanique _Nebelspalter_ ou reprises régulières dans _Le Courrier international_) et à sa remarquable régularité. C’est d’ailleurs une vertu que les lecteurs mettent volontiers en avant lorsqu’ils parlent du bonhomme: mais comment fait-il pour être bon tous les jours?
 
@@ -36,7 +36,7 @@ N’essayez pas de lui poser frontalement la question, il n’y répondra pas. S
 
 Alex est une éponge. Il se décrit comme «à l’affût jour et nuit»: lire, écouter, regarder. «Je me mets effectivement au travail dans la matinée. Je commence à filtrer les infos. La première étape, c’est trouver le bon sujet. Parfois, il s’impose de lui-même. D’autre fois, l’actualité ne dégage pas d’évidence. Et je dois toujours me projeter dans _La Liberté_ du lendemain: est-ce que mon dessin n’aura pas trop vieilli d’ici là?» Plutôt que de multiplier les ébauches, Alex se concentre sur une ou deux pistes. «Puis je les malaxe, les retourne. Je les affine…» Selon une recette immuable: aller vers le dessin le plus simple, le plus évident. «Le plus beau compliment? Le lecteur qui me dit: j’aurais pu avoir cette idée.»
 
-**Pas de leçons à donner**
+### Pas de leçons à donner
 
 Les limites, il se les impose lui-même. Alex se considère comme un observateur, et non comme un éditorialiste. «Je n’ai de leçons à donner à personne. Les dessins que je fais me ressemblent: c’est là mon principal garde-fou. J’aime parfois me hasarder là où on ne m’attend pas, car je considère qu’il n’y a aucun sujet tabou. Tout dépend de la manière dont le dessinateur les appréhende. Choquer pour choquer, ça n’a pas d’intérêt.» Au sein de la rédaction, ses dessins ne sont soumis à aucune forme de censure. La plupart du temps, ce n’est que le lendemain, en ouvrant son journal, que le rédacteur en chef découvre son travail. «Je jouis d’une totale liberté, acquise avec le temps et basée sur une confiance mutuelle.»
 

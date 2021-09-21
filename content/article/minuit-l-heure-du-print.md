@@ -19,7 +19,7 @@ videos_cover = ""
 +++
 Imprimée à Fribourg, dans ses propres murs, durant 143 ans, _La Liberté_ a changé de salle d’accouchement début 2015. S’il est certifié AOP, le journal que vous tenez dans vos mains s’est teinté d’un léger accent alémanique depuis qu’il est mis sous presse entre 1h et 2h du matin au Druckzentrum de Berne. DZB: trois lettres d’où sortent chaque nuit des millions d’autres, assemblées quotidiennement dans la _Berner Zeitung_, _La Gruyère_, _La Liberté_ et une dizaine d’autres titres. Sollicitées toute la journée, les trois énormes rotatives mettent les bouchées doubles une fois la nuit tombée. Elles cracheront 300'000 exemplaires avant que l’aube ne pointe.
 
-#### **58km** de papier sont nécessaires à l'impression quotidienne de **_La Liberté_**
+### **58km** de papier sont nécessaires à l'impression quotidienne de **_La Liberté_**
 
 Il est minuit, l’heure du print. Directeur du centre d’impression détenu par Tamedia, Matthias Kobel joue les guides dans l’usine, qui n’est pas sans rappeler _Les Temps modernes_ de Charlie Chaplin. D’ordinaire, le grand patron dormirait à une heure aussi tardive. «Je ne quitte mon lit en pleine nuit qu’en cas de problème majeur. A partir de 30 minutes de retard, l’équipe est obligée de m’appeler.» Son téléphone toujours allumé, l’Emmentalois a le sommeil léger: «La nuit, c’est toujours un peu chaud. Une casse papier arrive une à deux fois par semaine. A chaque fois, c’est 15 minutes de perdues, le temps de réintroduire la bande. Si nous sommes en retard, les fourgons aussi auront du retard au dépôt, et ainsi de suite. Nous n’avons que très peu de marge…»
 
@@ -34,10 +34,10 @@ Plus loin, les imprimeurs sont déjà à pied d’œuvre. Une fois les plaques i
 
 A intervalles réguliers, un employé attrape un exemplaire sur la chaîne de production qui vole au-dessus de sa tête et le passe au peigne fin sur son pupitre. «Rien n’est laissé au hasard, assure Matthias Kobel. Même si tout se passe bien, il est toujours possible de régler les couleurs, de modifier la position de l’image sur la page ou celle du pli.»
 
-**Avec quatorze fourgonnettes**
+### Avec quatorze fourgonnettes
 
 Achetés en Suisse, en Allemagne et en Scandinavie, les rouleaux de papier sont empilés au sous-sol. Deux sont nécessaires pour une seule édition, soit l’équivalent de 3,6 tonnes, ou 58 kilomètres. Depuis sa venue au monde jusqu’à son acheminement dans le centre d’expédition, chacun des 29'450 exemplaires de _La Liberté_ s’offre un périple de 7 minutes sur les interminables rails prévus à cet effet.
 
-#### **60 minutes** Le temps nécessaire pour l'impression des quelques 30'000 exemplaires de **_La Liberté_**
+### **60 minutes** Le temps nécessaire pour l'impression des quelques 30'000 exemplaires de **_La Liberté_**
 
 Au postpresse, situé à l’autre bout du DZB, des dizaines de temporaires réceptionnent les journaux, les trient et les répartissent par paquets dans les 13 fourgonnettes qui prendront la route du canton de Fribourg. «Les premiers exemplaires filent à La Poste. Les suivants sont pour les porteurs.» La visite se termine. L’impression de _La Liberté_ aussi. 1h45, l’heure du lit pour Matthias Kobel.

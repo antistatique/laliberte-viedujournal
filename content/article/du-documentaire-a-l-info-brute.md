@@ -21,7 +21,7 @@ Il fut un temps où la télévision produisait des images, où la radio fabriqua
 
 L’apparition de la vidéo à la rédaction de _La Liberté_ illustre cette évolution. Acquis il y a une dizaine d’années, la première caméra, son imposant trépied et sa batterie de Pinzgauer pesaient un cheval mort. Ses utilisateurs occasionnels, journalistes formés sur le tas, n’avaient d’autres choix que d’user jusqu’à la reliure le mal nommé «manuel d’utilisation». Puis une première vidéaste de métier – Vanessa Lam – a essuyé les plâtres. Avant que Valentine de Dardel et ses enthousiasmes ne prennent le relais. C’était début 2021.
 
-**L’image comme une évidence**
+### L’image comme une évidence
 
 Parce que c’est rare, une journaliste capable de vous planter en 50 secondes un décor de soleil couchant, il vaut la peine de s’arrêter quelques instants sur le personnage. A 31 ans, Valentine de Dardel a déjà usé ses bottes de sept lieues. Des études en relations internationales à Genève, un master à Barcelone (étude des migrations), et la Glânoise d’origine s’installe à Buenos Aires, comme journaliste documentaire. Elle y vivra cinq ans. «Depuis toujours, j’aime le cinéma, sa déclinaison documentaire, militante, et c’est très naturellement que je me suis tournée vers l’image.» De ses années sud-américaines, elle gardera le goût du format long et l’écho d’un cinéma incarné.
 
@@ -29,7 +29,7 @@ Elle ne s’en cache pas: aux premiers abords, ce profil ne colle pas pile-poil 
 
 La routine lui est jusque-là inconnue. «Après des années passées à l’étranger, je dois rapprivoiser mon canton d’origine et un journal que je lisais adolescente. Je viens d’arriver, je dois faire mes preuves. Pour chaque sujet, il faut se documenter, en apprendre davantage sur les protagonistes, sur les enjeux, et trouver un angle. Sur place, il y a toujours une part d’improvisation. Il faut jouer avec le cadre, la lumière ou la disponibilité des intervenants.» Ce rythme effréné n’est pas une fatalité. «Comme les journalistes de presse écrite, qui traitent d’abord d’actualité mais prennent aussi le temps d’approfondir certains sujets, je dois varier les formats. Et apprendre à ne pas être perfectionniste.»
 
-**Créer de l’intimité**
+### Créer de l’intimité
 
 Valentine de Dardel, c’est l’actualité et le documentaire qui vont bras dessus, bras dessous. Avec une passerelle qui résonne comme une évidence après une heure d’échange sur la terrasse du bistrot d’en face: l’humain est au centre de ses préoccupations.
 

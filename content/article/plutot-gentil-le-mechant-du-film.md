@@ -21,7 +21,7 @@ Il existe un personnage de l’ombre, qui se situe entre les journalistes et les
 
 «Je relis les textes de mes collègues et compose le cahier sportif», résume l’habitant du Schoenberg, à Fribourg, précisant que selon le rédacteur en chef, il doit être «le méchant du film». Il doit ainsi traiter avec les journalistes, qui veulent parfois «avoir plus de temps avant de rendre leur texte et plus de place», et les metteurs en pages, qui aimeraient «que les délais soient respectés et que les photos soient plus grandes».
 
-**Sueurs froides à l’Euro**
+### Sueurs froides à l’Euro**
 
 Concrètement, sa journée commence à 16h30. «La cheffe des sports, Patricia Morand, m’explique ce qu’il s’est passé pendant la journée, me donne le nombre de pages et ce qu’il y aura dedans.» Le squelette est là, autrement dit les articles que rédigent ses collègues journalistes. Il restera à compléter les pages, notamment avec des dépêches d’agence. A 17h, Thomas Truong présente son sujet fort, avec les autres éditionneurs, à la personne qui pilote l’édition du jour. La Une du journal se décide à ce moment-là – à moins que de l’actualité brûlante ne tombe dans la soirée. «A 19h, c’est le mur», poursuit le Fribourgeois. Les pages déjà prêtes sont accrochées sur un mur (d’où le nom) et commentées notamment par le chef de jour. On veille au rythme et au choix des images. Ensuite, l’éditionneur a jusqu’à minuit et demi au plus tard pour finaliser le cahier sportif.
 

@@ -21,7 +21,7 @@ Hiver 2011. Une adolescente rousse de 18ans, tout ébouriffée, se retrouve en p
 
 A 28ans, «Angélique» est, avec Alex, un des deux seuls membres de l’équipe du journal à être connue uniquement par son prénom. Elle peut compter sur un bon fan-club. «Il arrive que des gens m’arrêtent dans la rue», lâche-t-elle, un peu mal à l’aise car elle se dit timide et anxieuse.
 
-**Vraie qualité d’écoute**
+### Vraie qualité d’écoute
 
 Quand on la rencontre, on sent tout de suite la chroniqueuse. Angélique Eggenschwiler sait mettre à l’aise et écoute vraiment, l’œil attentif, souriant fréquemment pour encourager son interlocuteur. Ce n’est pas un hasard si elle cite, comme principale qualité, sa gentillesse.
 
@@ -34,7 +34,7 @@ Toujours aux aguets, Angélique a l’art de capter les petits riens du quotidie
 
 Privilégiant le travail à domicile, qui lui permet d’écrire une cigarette à la main et son chat sur les genoux, Angélique Eggenschwiler vit à Cornaux (NE) avec son petit ami, qu’elle a rencontré à une édition du festival Festicheyres. Il l’avait abordée en la complimentant sur son chien. «C’était celui de ma grand-mère, que je gardais ce jour-là», rit-elle. La jeune femme dispose aussi d’un vaste bureau à la rédaction centrale, à Fribourg, proche de celui de Pascal Bertschy, qui gère la Der depuis sa création et s’occupe également quotidiennement de la rubrique «Sortie des artistes». Et ce dernier de décrire sa collègue: «Angélique, c’est du Metallica chanté par Laura Ingalls ou parfois _La petite maison dans la prairie_ joué par Metallica. C’est ce qui rend sa musique si originale, si aisément identifiable.»
 
-**Ode à la légèreté**
+### Ode à la légèreté
 
 Les horaires sont flexibles. La Broyarde écrit souvent ses chroniques le matin, ce qui peut prendre quelques heures à quelques jours selon l’inspiration. «Je fais beaucoup de recherches pour essayer de restituer une ambiance. Par exemple, si je parle de mécanique, j’essaie d’avoir le bon vocabulaire.» L’après-midi, elle alimente la rubrique qu’elle a récemment créée dans la Der: «Le lecteur en liberté». Elle soutient également Pascal Bertschy à l’édition des textes des autres chroniqueurs, qui font cela à côté de leur travail et qu’Angélique Eggenschwiler voit rarement. Les contacts se font plutôt par téléphone ou par mail. «Une ligne s’est créée dans la Der. Il y a l’idée d’être assez direct et d’éviter le vocabulaire trop érudit. Nous essayons d’amener un peu de légèreté dans les dernières pages de _La Liberté_.»
 

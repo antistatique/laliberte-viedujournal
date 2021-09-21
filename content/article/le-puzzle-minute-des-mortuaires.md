@@ -23,7 +23,7 @@ Pourquoi suscite-t-elle tant d’intérêt? Parce que, paradoxalement, l’annon
 
 Pour _La Liberté_, c’est l’équipe du prépresse de media f qui gère cette véritable institution. Sa mission? Fabriquer et mettre en page les annonces, y compris commerciales, avant de livrer des pages finies à la rédaction et d’alimenter les supports numériques. Six jours par semaine. A Saint-Paul, depuis près de trente ans, Sandra Cornu (51ans) est aux manettes, en alternance avec sa collègue Charline Pochon. «Les «mortus», c’est la part de mon travail que j’apprécie le plus. C’est comme traiter de l’actualité: chaque jour, je repars de zéro. Je m’enferme dans ma bulle, et je sais ce que j’ai à faire.»
 
-**Epouillé, ripoliné**
+### Epouillé, ripoliné
 
 Le traitement de cette matière si particulière est strictement codifié. La ligne graphique d’abord, exempte de toute fioriture. Puis le vocabulaire et les tournures de phrase, qui suivent eux aussi leur propre liturgie. Là où l’expression «s’endormir paisiblement» prend une autre dimension. «Si nous avons le moindre doute sur un nom de famille, une date, ou un lieu, nous prenons contact avec les pompes funèbres, qui nous transmettent l’essentiel des informations, ou parfois directement avec la famille», poursuit Sandra Cornu. «C’est sensible. Il faut imaginer que pour les proches dans le deuil, un simple nom orthographié faux peut mettre passablement de monde dans la gêne.»
 
@@ -34,7 +34,7 @@ Ce n’est donc pas un hasard si les annonces mortuaires sont la seule matière 
 
 Puis vient le travail de mise en page. Selon le champ lexical des typographes, il faut «couler» les annonces dans le système rédactionnel, soit faire cohabiter la matière du lendemain dans un espace donné. Un genre d’artisanat. C’est un puzzle minuté – tout doit être bouclé pour 20h – qui suit une hiérarchie précise. Les avis de décès ont la priorité. A proximité, les avis de société, puis les remerciements, les messes anniversaire, etc.
 
-**Sans filtre**
+### Sans filtre
 
 Photographe de reproduction de formation, Sandra Cornu a un compas dans l’œil. Quand celui-ci n’est pas embué. Car la «page des morts», au-delà de la forme, ce n’est que du délicat et du cœur serré. «La plupart du temps, je parviens à me détacher des émotions qui entourent un décès. Mais il m’est déjà arrivé de finir en pleurs devant mon écran. Il faut prendre sur soi et finir le boulot.»
 

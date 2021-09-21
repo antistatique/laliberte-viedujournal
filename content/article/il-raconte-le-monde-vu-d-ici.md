@@ -23,7 +23,7 @@ Georges Baumgartner, Radio suisse romande, Tokyo. Toujours branché sur les onde
 
 ![](/images/le_monde_de_la_liberte.jpeg)
 
-**Pas de leçons à donner**
+### Pas de leçons à donner
 
 Vulgariser, expliquer et commenter ce que l’on n’a pas vu de ses propres yeux: un défi d’autant plus relevé que les journalistes «inter» n’ont pas ou peu accès aux protagonistes de l’histoire. «De toute façon, qui peut aller au Xinjiang (Chine) ou au Sahel aujourd’hui?» interroge le responsable de la rubrique étrangère.
 
@@ -34,7 +34,7 @@ D’où l’importance d’avoir un répertoire téléphonique bien garni. «J�
 
 Et puis, il y a le commentaire. L’exercice favori de Pascal Baeriswyl, qui ne rechigne jamais à donner son éclairage. Mais pas n’importe comment. «Je suis conscient des limites de l’exercice. C’est pourquoi j’ai tendance à modérer mon propos. Un commentaire ne sert pas à donner des leçons, cela tient plutôt de la mise en perspective historique et d’une contextualisation de l’info.» Avoir du recul et en prendre: pas un problème quand on a 34ans de boîte au compteur. «Ma longévité me permet de me rappeler ce qu’il s’est passé sous les cinq derniers présidents français.»
 
-**L’heure de la retraite**
+### L’heure de la retraite
 
 Généraliste viscéral, mais attiré notamment par le conflit israélo-palestinien et très au fait des pays qui entourent la Suisse, «PAB» bouffe de l’actu toute l’année. Par tous les canaux. Tout le temps. «J’essaie quand même de débrancher une semaine ou deux par année, sourit-il. Mes collègues font plus facilement des pas de côté. Moi, j’effectue un travail de surveillance et de coordination et je réagis s’il se passe quelque chose.» Et il se passe toujours quelque chose. «L’inter demande une souplesse extraordinaire et produit beaucoup de déchets. Un papier écrit et monté dans l’après-midi nécessite parfois d’être actualisé à 23h, s’il ne passe pas tout simplement à la poubelle…»
 
