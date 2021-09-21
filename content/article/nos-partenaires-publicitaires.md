@@ -32,7 +32,7 @@ Découvrez les vidéos en cliquant sur le logo de nos partenaires :
 
 [![](/images/la_poste.jpg)](https://vimeo.com/610667116/59c653829d)
 
-![](/images/groupe-e_logo_pos_cmjn.jpg)
+[![](/images/groupe-e_logo_pos_cmjn.jpg)](https://vimeo.com/610666512/afdc6fe13f)
 
 ![](/images/logo-tpf_pave-201-c.jpg)
 
