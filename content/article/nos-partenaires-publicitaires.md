@@ -44,7 +44,7 @@ Découvrez les vidéos en cliquant sur le logo de nos partenaires :
 
 [![](/images/osses_logo_2020.jpg)](https://vimeo.com/610665159/5be2e5eeeb)
 
-![](/images/logo_mnf_cmjn_uncoted.jpg)
+[![](/images/logo_mnf_cmjn_uncoted.jpg)](https://vimeo.com/610666076/19f740905f)
 
 ![](/images/optic-2000.jpg)
 
