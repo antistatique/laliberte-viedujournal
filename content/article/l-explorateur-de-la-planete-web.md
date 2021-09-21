@@ -1,6 +1,5 @@
 +++
 author = "Lise-Marie Piller"
-order = 5
 banner = "/images/rico_10092021_cr18_600x824.jpg"
 banner_hd = "/images/rico_10092021_cr18_1700x2335.jpg"
 banner_thumb = "/images/rico_10092021_cr18_200x275.jpg"
@@ -9,6 +8,7 @@ date = 2021-09-20T22:09:53Z
 date_display = "7 heures 30. L'équipe web prend les manettes du site web et de l'application."
 featured = false
 images = ["/images/rico_10092021_cr22.jpg", "/images/rico_10092021_cr23.jpg", "/images/rico_10092021_cr15.jpg"]
+order = 5
 reading_time = "4 min"
 summary = "A 29 ans, Jérémy Rico est le responsable de la cellule numérique de La Liberté"
 title = "L’explorateur de la planète web"
@@ -38,4 +38,4 @@ Evidemment, les quatre du web forment une petite équipe. Impossible de suivre l
 
 Son souhait? Intéresser les jeunes via le numérique et les pousser à s’abonner à La Liberté. «J’ai toujours voulu parler à ma génération, qui n’a plus forcément le réflexe de s’abonner au papier.» Raison pour laquelle ses articles parlent par exemple de tiktokeurs ou d’instagrammeurs. «Nous n’attendons pas que quelqu’un ait 30 ans pour faire son portrait», illustre-t-il.
 
-L’autre défi est de réussir à monétiser l’information, car internet a tendance à ressembler à un grand bar où tout le monde se sert gratuitement. «Aucun média de Suisse romande n’a trouvé la recette miracle, tout le monde tâtonne.» A l’avenir, Jérémy Rico voit le numérique poursuivre sur sa lancée. Mais il ne pense pas que la version papier de La Liberté disparaîtra.
+L’autre défi est de réussir à monétiser l’information, car internet a tendance à ressembler à un grand bar où tout le monde se sert gratuitement. «Aucun média de Suisse romande n’a trouvé la recette miracle, tout le monde tâtonne.» A l’avenir, Jérémy Rico voit le numérique poursuivre sur sa lancée. Mais il ne pense pas que la version papier de _La Liberté_ disparaîtra.
