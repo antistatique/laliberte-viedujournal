@@ -17,11 +17,11 @@ videos = ""
 videos_cover = ""
 
 +++
-La fête de notre quotidien est celle de tous ceux qui la font vivre. Parmi les acteurs de La Liberté, nous avons souhaité donner la parole à nos partenaires. Habituellement, nos clients utilisent le rayonnement de La Liberté pour se faire connaitre ou promouvoir, leurs services, leurs produits.
+La fête de notre quotidien est celle de tous ceux qui la font vivre. Parmi les acteurs de _La Liberté_, nous avons souhaité donner la parole à nos partenaires. Habituellement, nos clients utilisent le rayonnement de _La Liberté_ pour se faire connaitre ou promouvoir, leurs services, leurs produits.
 
-Inversons les rôles ! La Liberté ne parle pas d’eux. C’est eux qui parlent de La Liberté : théâtre, banque, géant orange, construction, opticien… Tous se sont prêtés au jeu de l’interview « Et vous, La Liberté ? ». Découvrez ces entretiens savoureux en image !
+Inversons les rôles ! _La Liberté_ ne parle pas d’eux. C’est eux qui parlent de _La Liberté_ : théâtre, banque, géant orange, construction, opticien… Tous se sont prêtés au jeu de l’interview « Et vous, _La Liberté_ ? ». Découvrez ces entretiens savoureux en image !
 
-Merci à nos partenaires, pour leur soutien, leur confiance, et leur active contribution au succès des 150 ans de La Liberté !
+Merci à nos partenaires, pour leur soutien, leur confiance, et leur active contribution au succès des 150 ans de _La Liberté_ !
 
 Ces interviews ont été réalisées par [Elium](https://www.elium.ch/), en collaboration avec [media f](https://www.media-f.ch/).
 

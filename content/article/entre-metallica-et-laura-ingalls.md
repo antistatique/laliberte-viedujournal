@@ -13,7 +13,7 @@ reading_time = "4 min"
 summary = "Angélique Eggenschwiler anime, avec Pascal Bertschy, la dernière page de La Liberté"
 title = "Entre Metallica et Laura Ingalls"
 title_style = "formula"
-videos = ""
+videos = "610017978"
 videos_cover = "/images/angelique_eggenschwiler.jpg"
 
 +++

@@ -13,8 +13,8 @@ reading_time = "3 min"
 summary = ""
 title = "L’amatrice de chiffres, de symboles et de géographie"
 title_style = "brik"
-videos = ""
-videos_cover = ""
+videos = "609107557"
+videos_cover = "/images/thumbnail.jpeg"
 
 +++
 Quand on lui dit «fusion», elle voit deux pièces de puzzle qui s’emboîtent. Ou alors des briques. «Sauf que les briques sont problématiques. Elles ont une connotation négative car elles séparent», explique Florence Cerouter (46ans), qui crée les infographies publiées dans _La Liberté_. Autrement dit les logos, les cartes ou encore les diagrammes. «Mon but est de traduire par l’image les informations données aux lecteurs. C’est un moyen de les inciter à entrer dans un article.»
