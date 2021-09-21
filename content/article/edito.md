@@ -1,6 +1,5 @@
 +++
 author = "Serge Gumy"
-order = 0
 banner = "/images/laliberte_140921awi_02_600x824.jpg"
 banner_hd = "/images/laliberte_140921awi_02_1700x2335.jpg"
 banner_thumb = "/images/laliberte_140921awi_02_200x275.jpg"
@@ -9,6 +8,7 @@ date = 2021-09-20T22:00:53Z
 date_display = "Edito"
 featured = false
 images = ["/images/gumy_22062021_07cr.jpg", "/images/sugnaux_260721awi_031.jpg", "/images/loretan_26082021_cr11.jpg"]
+order = 1
 reading_time = "2 min"
 summary = ""
 title = "La Liberté, ce petit miracle quotidien"
