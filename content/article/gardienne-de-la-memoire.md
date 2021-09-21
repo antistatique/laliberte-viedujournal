@@ -1,6 +1,5 @@
 +++
 author = "Jérémy Rico"
-order = 10
 banner = "images/doris_cover.png"
 banner_hd = "images/doris_hd.png"
 banner_thumb = "images/doris_thumb.png"
@@ -9,6 +8,7 @@ date = 2021-09-20T22:14:00Z
 date_display = "11 heures"
 featured = false
 images = ["images/doris_archive_1.png", "images/doris_archive_2.png"]
+order = 7
 reading_time = "3 min"
 summary = "Doris, est à quelques mois de la retraite et elle veille sur les archives photos de La Liberté depuis plus de vingt ans"
 title = "La gardienne de la mémoire"
