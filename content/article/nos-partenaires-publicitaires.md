@@ -1,9 +1,9 @@
 +++
 author = "Media f"
-cover = ""
 banner = "/images/defaut_600_824.png"
 banner_hd = "/images/defaut_1700x2335.png"
 banner_thumb = "/images/defaut_200x225.png"
+cover = ""
 date = ""
 date_display = "16 heures"
 featured = false
@@ -28,4 +28,32 @@ A 150 ans, « La Liberté » a gardé tout son mordant et reste indispensable à
 
 Découvrez les vidéos en cliquant sur le logo de notre partenaire :
 
-[![](/images/defo-png.png)](https://google.com "test")
+![](/images/142x108_logo_fr.jpg)
+
+![](/images/la_poste.jpg)
+
+![](/images/groupe-e_logo_pos_cmjn.jpg)
+
+![](/images/logo-tpf_pave-201-c.jpg)
+
+![](/images/groupe_mutuel.jpg)
+
+![](/images/logo_groupegrisoni_horizontal_positif_cmjn.jpg)
+
+![](/images/fiduconsult_logo_fr1.jpg)
+
+![](/images/bise_logo_cmjn-01.jpg)
+
+![](/images/osses_logo_2020.jpg)
+
+![](/images/logo_mnf_cmjn_uncoted.jpg)
+
+![](/images/optic-2000.jpg)
+
+![](/images/logo_vf_aop_cmyk_pos_01.jpg)
+
+![](/images/bul_immo_f_d_bleu_cmjn.jpg)
+
+![](/images/bhch_outl_claim_schwarz_4c_ohnehi_fra.jpg)
+
+![](/images/logo-garage-berset-anniversaire.jpg)
