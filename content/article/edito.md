@@ -19,7 +19,7 @@ videos_cover = "/images/a8e897e8-ca92-4924-b560-dbcd506af8d1.jpeg"
 +++
 C’est un petit miracle qui se reproduit six jours par semaine depuis 150 ans. Le supplément que vous avez sous les yeux, sur votre tablette, sur papier ou sur notre site dédié, est le fruit d’un travail collectif qui mobilise toutes nos équipes quasiment sur les vingt-quatre heures d’une journée.
 
-Tout commence vers [sept heures du matin](https://unejournee.lalib.ch/article/c-est-elle-qui-allume-la-lumiere/), à l’arrivée de nos secrétaires. La rédaction de _La Liberté_ s’ébroue lentement, dans des effluves de café et la douce musique des bavardages et des rires et celle, plus tonitruante, des premiers téléphones. Après l’échauffement, les différentes rubriques élaborent leur programme pour l’édition du lendemain. Portraits, reportages, enquêtes, commentaires: leurs propositions sont débattues ensuite à la grand-messe du briefing de 10 heures. Mais le menu alors inscrit à la carte peut en tout temps être chamboulé par un arrivage de nouvelles fraîches ou d’actus plus brûlantes.
+Tout commence vers sept heures du matin, à l’arrivée de nos secrétaires. La rédaction de _La Liberté_ s’ébroue lentement, dans des effluves de café et la douce musique des bavardages et des rires et celle, plus tonitruante, des premiers téléphones. Après l’échauffement, les différentes rubriques élaborent leur programme pour l’édition du lendemain. Portraits, reportages, enquêtes, commentaires: leurs propositions sont débattues ensuite à la grand-messe du briefing de 10 heures. Mais le menu alors inscrit à la carte peut en tout temps être chamboulé par un arrivage de nouvelles fraîches ou d’actus plus brûlantes.
 
 > En début de soirée, la machine tourne à plein régime
 
