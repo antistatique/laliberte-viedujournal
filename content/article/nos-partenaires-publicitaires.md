@@ -18,13 +18,15 @@ videos_cover = ""
 +++
 _Publication à titre promotionnel_
 
-**Le mot de Serge Gumy - Rédacteur en chef**
+_Si nous sommes là aujourd’hui, c’est grâce à vous._
 
-Le 1er octobre 1871 – un dimanche ! - paraissait la première édition de « La Liberté ». Quatre pages, dont une demi-page dévolue aux publicités, essentiellement pour des publications religieuses. Dès le départ, les annonceurs sont ainsi associés à l’histoire du quotidien fribourgeois, qui se veut non seulement vecteur d’informations, mais aussi support de messages commerciaux.
+La fête de notre quotidien est celle de tous ceux qui la font vivre. Parmi les acteurs de La Liberté, nous avons souhaité donner la parole à nos partenaires. Habituellement, nos clients utilisent le rayonnement de La Liberté pour se faire connaitre ou promouvoir, leurs services, leurs produits.
 
-Au moment de célébrer son 150e anniversaire, « La Liberté » se réjouit d’associer ses fidèles annonceurs à ce moment de joie. Elle serait fière de compter votre entreprise parmi les partenaires de l’événement. Avec, à la clé pour vous, une formidable visibilité dans les deux numéros spéciaux que toute la rédaction prépare, sur nos supports numériques ainsi que dans les salles qui accueilleront le spectacle humoristique que nous montons avec le théâtre des Osses (on croise les doigts).
+Inversons les rôles ! La Liberté ne parle pas d’eux. C’est eux qui parlent de La Liberté : théâtre, banque, géant orange, construction, opticien… Tous se sont prêtés au jeu de l’interview « Et vous, La Liberté ? ». Découvrez ces entretiens savoureux en image !
 
-A 150 ans, « La Liberté » a gardé tout son mordant et reste indispensable à sa région. C’est aussi à votre engagement qu’elle le doit. Notre fête est donc un peu la vôtre.
+Merci à nos partenaires, pour leur soutien, leur confiance, et leur active contribution au succès des 150 ans de La Liberté !
+
+Ces interviews ont été réalisées par [Elium](https://www.elium.ch/), en collaboration avec [media f](https://www.media-f.ch/).
 
 Découvrez les vidéos en cliquant sur le logo de nos partenaires :
 
