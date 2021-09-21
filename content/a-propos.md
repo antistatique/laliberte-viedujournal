@@ -12,8 +12,6 @@ Lorsque nos équipes vous croisent, chers lecteurs, au détour d’un sujet ou d
 
 Nous vous souhaitons une bonne lecture!
 
-***
-
 ### La Liberté médias SA
 
 Bd de Pérolles 38 – 1700 Fribourg
@@ -35,7 +33,6 @@ Tél. 026 426 44 11 – Fax 026 426 44 00
 * **Infographies**: Florence Cerouter (FC).
 * **Dessin de presse:** Alex Ballaman (FC).
 * **Mise en page supplément papier:** Julie Rudaz (JR).
-* 
 
 #### PUBLICITÉ
 
