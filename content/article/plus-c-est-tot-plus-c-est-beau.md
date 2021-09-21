@@ -12,7 +12,7 @@ reading_time = "3 min"
 summary = "Chaque matin, une armée de porteurs livre La Liberté. Le regard de Jacqueline Duffey"
 title = "Plus c’est tôt, plus c’est beau"
 title_style = "formula"
-videos = ""
+videos = "610478284"
 videos_cover = "/images/jacqueline_duffey.jpg"
 
 +++
