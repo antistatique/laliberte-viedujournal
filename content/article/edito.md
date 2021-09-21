@@ -12,8 +12,8 @@ reading_time = "2 min"
 summary = ""
 title = "La Liberté, ce petit miracle quotidien"
 title_style = "eiko"
-videos = ""
-videos_cover = ""
+videos = "610028155"
+videos_cover = "/images/a8e897e8-ca92-4924-b560-dbcd506af8d1.jpeg"
 
 +++
 C’est un petit miracle qui se reproduit six jours par semaine depuis 150 ans. Le supplément que vous avez sous les yeux, sur votre tablette, sur papier ou sur notre site dédié, est le fruit d’un travail collectif qui mobilise toutes nos équipes quasiment sur les vingt-quatre heures d’une journée.
