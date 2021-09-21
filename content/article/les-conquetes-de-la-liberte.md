@@ -11,8 +11,8 @@ reading_time = "3 min"
 summary = "C’était un dimanche, le 1er octobre 1871. La Liberté, sortait son premier numéro. "
 title = "Les conquêtes de La Liberté"
 title_style = "brik"
-videos = "601807350"
-videos_cover = "images/doris_video_1.png"
+videos = ""
+videos_cover = ""
 
 +++
 C’était un dimanche, le 1er octobre 1871. La Liberté, sortait son premier numéro. Quatre feuillets, dont un demi dévolu aux annonces publicitaires. Ainsi commence l’histoire foisonnante du quotidien fribourgeois, qui fête ses 150 ans en 2021. La Liberté, une vieille dame déjà, mais à l’allure toujours fringante. Un tel anniversaire justifiait que l’on prenne date.

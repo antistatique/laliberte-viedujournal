@@ -11,8 +11,8 @@ reading_time = "3 min"
 summary = "Les conférences de presse du Conseil fédéral ont rythmé les dix-huit derniers mois de la vie des Helvètes. A La Liberté, elles déclenchent un processus bien rodé."
 title = "En coulisses, une machine bien huilée"
 title_style = "brik"
-videos = "601807350"
-videos_cover = "images/doris_video_1.png"
+videos = ""
+videos_cover = ""
 
 +++
 10 h Lors de sa séance quotidienne, la rédaction prépare sa réaction à la conférence de presse annoncée par le Conseil fédéral pour 14h30.

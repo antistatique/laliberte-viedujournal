@@ -12,8 +12,8 @@ reading_time = "4 min"
 summary = "Avec Christophe Sugnaux à sa tête, le desk assure la mise en page du journal. C’est le trait d’union entre la rédaction et l’imprimerie"
 title = "Là où la matière prend forme"
 title_style = "eiko"
-videos = "601807350"
-videos_cover = "images/doris_video_1.png"
+videos = ""
+videos_cover = ""
 
 +++
 Tu ne vas plus exister, tu n’auras plus ton nom dans le journal!» En 2011, les remarques émises par certains de ses collègues n’ont pas eu raison de la détermination de Christophe Sugnaux, lorsqu’il a quitté son poste de journaliste à la rubrique régionale pour découvrir «l’envers du décor». Autrement dit, rejoindre ce que l’on appelle le desk, domaine des metteurs en page. Il est aujourd’hui le chef de l’équipe de six personnes.

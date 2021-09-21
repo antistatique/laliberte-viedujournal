@@ -12,8 +12,8 @@ reading_time = "4 min"
 summary = "Le rédacteur en chef Serge Gumy anime le premier rendez-vous majeur de la journée"
 title = "La grand-messe de 10 heures"
 title_style = "formula"
-videos = "601807350"
-videos_cover = "images/doris_video_1.png"
+videos = ""
+videos_cover = ""
 
 +++
 Avez-vous des remarques sur l’édition du jour?» A La Liberté, les jours se succèdent et ne se ressemblent jamais, mais il y a des rituels qui, eux, ne changent pas. Le briefing de 10 heures est de ceux-là. Ce rendez-vous quotidien commence toujours par cette question posée par le rédacteur en chef, Serge Gumy. C’est lui, ou un de ses adjoints, qui mène la danse chaque matin sur le coup de 10 heures. Un représentant des quatre rubriques que compte le journal, ainsi qu’un membre de la cellule web, assistent également à cette réunion. Au préalable, chacun a discuté de la matière au sein de son équipe. Les délibérations de 10 heures seront ensuite résumées dans un procès-verbal envoyé par courriel à toute la rédaction.

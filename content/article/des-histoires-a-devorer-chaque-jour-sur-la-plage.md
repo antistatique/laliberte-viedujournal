@@ -13,8 +13,8 @@ reading_time = "3 min"
 summary = ""
 title = " DRAFT Des histoires à dévorer chaque jour sur la plage"
 title_style = "brik"
-videos = "601807350"
-videos_cover = "images/doris_video_1.png"
+videos = ""
+videos_cover = ""
 
 +++
 Vous aimez sans doute vous y prélasser, accompagné d’un bon café. Elle vous fait peut-être sourire, grimacer, grincer des dents ou pire, verser une petite larme. Bref, cette plage, vous l’aimez, vous l’attendez chaque matin. Ce petit coin de bonheur, cet espace de créativité où l’imagination n’a pas de limite: la plage de vie faire partie de l’ADN de La Liberté. Elle a vu le jour le 25 mai 1999, lors de l’introduction d’une nouvelle formule graphique. Sauf que ce n’était pas une plage à cette époque. C’était une «tranche de vie». Cela a duré deux jours, avant qu’elle ne se transforme définitivement en plage, plus propice à l’évasion et à la poésie. Et depuis, les aventures, anecdotes, petits malheurs et grands bonheurs y défilent en première page et en 1000 signes. Des histoires racontées par les membres de la rédaction élargie qui n’ont aucune obligation de coucher sur le sable, même brûlant, leur vie trépidante.
