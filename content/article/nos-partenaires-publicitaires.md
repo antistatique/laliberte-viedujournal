@@ -34,7 +34,7 @@ Découvrez les vidéos en cliquant sur le logo de nos partenaires :
 
 [![](/images/groupe-e_logo_pos_cmjn.jpg)](https://vimeo.com/610666512/afdc6fe13f)
 
-![](/images/logo-tpf_pave-201-c.jpg)
+[![](/images/logo-tpf_pave-201-c.jpg)](https://vimeo.com/610665825/9623a0178a)
 
 ![](/images/groupe_mutuel.jpg)
 
