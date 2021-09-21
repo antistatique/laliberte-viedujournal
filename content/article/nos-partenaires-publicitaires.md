@@ -36,7 +36,7 @@ Découvrez les vidéos en cliquant sur le logo de nos partenaires :
 
 [![](/images/logo-tpf_pave-201-c.jpg)](https://vimeo.com/610665825/9623a0178a)
 
-![](/images/groupe_mutuel.jpg)
+[![](/images/groupe_mutuel.jpg)](https://vimeo.com/610665718/3de9b2cbe5)
 
 ![](/images/logo_groupegrisoni_horizontal_positif_cmjn.jpg)
 
