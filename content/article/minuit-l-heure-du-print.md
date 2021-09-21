@@ -23,7 +23,7 @@ Imprimée à Fribourg, dans ses propres murs, durant 143 ans, _La Liberté_ a ch
 
 Il est minuit, l’heure du print. Directeur du centre d’impression détenu par Tamedia, Matthias Kobel joue les guides dans l’usine, qui n’est pas sans rappeler _Les Temps modernes_ de Charlie Chaplin. D’ordinaire, le grand patron dormirait à une heure aussi tardive. «Je ne quitte mon lit en pleine nuit qu’en cas de problème majeur. A partir de 30 minutes de retard, l’équipe est obligée de m’appeler.» Son téléphone toujours allumé, l’Emmentalois a le sommeil léger: «La nuit, c’est toujours un peu chaud. Une casse papier arrive une à deux fois par semaine. A chaque fois, c’est 15 minutes de perdues, le temps de réintroduire la bande. Si nous sommes en retard, les fourgons aussi auront du retard au dépôt, et ainsi de suite. Nous n’avons que très peu de marge…»
 
-**Quatre cahiers, deux tours**
+### Quatre cahiers, deux tours
 
 Le jour de notre visite, tout est sous contrôle. Il est 0h15 et les 28 pages de _La Liberté_ du lendemain sont déjà là. «Comme l’impression de la _Basler Zeitung_ sur la machine N° 20 s’est bien passée, nous allons pouvoir commencer en avance», se réjouit Matthias Kobel. Derrière un ordinateur, une spécialiste prépresse effectue un dernier contrôle des fichiers PDF envoyés par Christophe Sugnaux et son équipe. Les pages sont divisées en quatre couleurs: le cyan, le magenta, le jaune et le noir. Le directeur s’arrête sur le logo de _La Liberté_. «Un mélange bien particulier de magenta et de jaune. Le dosage d’encre doit être juste. Sinon, on risque de se retrouver avec le rouge de Marlboro.»
 
