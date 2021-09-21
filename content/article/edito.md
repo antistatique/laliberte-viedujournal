@@ -20,6 +20,8 @@ C’est un petit miracle qui se reproduit six jours par semaine depuis 150 ans. 
 
 Tout commence vers sept heures du matin, à l’arrivée de nos secrétaires. La rédaction de _La Liberté_ s’ébroue lentement, dans des effluves de café et la douce musique des bavardages et des rires et celle, plus tonitruante, des premiers téléphones. Après l’échauffement, les différentes rubriques élaborent leur programme pour l’édition du lendemain. Portraits, reportages, enquêtes, commentaires: leurs propositions sont débattues ensuite à la grand-messe du briefing de 10 heures. Mais le menu alors inscrit à la carte peut en tout temps être chamboulé par un arrivage de nouvelles fraîches ou d’actus plus brûlantes.
 
+> En début de soirée, la machine tourne à plein régime
+
 En même temps que le flux de l’information se déverse à travers nos canaux numériques et que nos journalistes s’en vont sur le terrain, déjà le journal du lendemain prend forme. Il constitue une sorte de puzzle dont les pièces, au fil de la journée, s’assemblent: les publicités récoltées par notre régie media f, les articles de nos spécialistes, les images de nos photographes et les infographies, sans oublier le dessin d’Alex et la chronique d’Angélique.
 
 En début de soirée, le journal commence vraiment à se ressembler, grâce au travail des polygraphes et des journalistes en charge de l’édition. La machine tourne alors à plein régime, et c’est toujours sous un certain stress que les dernières pages sont envoyées à l’imprimerie. Minuit et demi, dernier délai.
