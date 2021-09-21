@@ -1,13 +1,13 @@
 +++
 author = "Stéphanie Schroeter"
-banner = ""
-banner_hd = ""
-banner_thumb = ""
-cover = ""
-date = 1871-10-01T23:39:21Z
-date_display = "1er octobre 1871"
+banner = "/images/plage600.jpeg"
+banner_hd = "/images/plage1700.jpg"
+banner_thumb = "/images/plage200.jpg"
+cover = "/images/plagevie_21092021_cr05.jpg"
+date = 2021-09-21T22:14:53Z
+date_display = "8 heures"
 featured = false
-images = ["images/doris_archive_1.png", "images/doris_archive_2.png"]
+images = []
 reading_time = "3 min"
 summary = ""
 title = " DRAFT Des histoires à dévorer chaque jour sur la plage"
