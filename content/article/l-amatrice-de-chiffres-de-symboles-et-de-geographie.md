@@ -1,13 +1,13 @@
 +++
 author = "Lise-Marie Piller"
-banner = "images/doris_archive_1.png"
-banner_hd = ""
-banner_thumb = ""
-cover = ""
-date = 1871-10-01T23:39:21Z
-date_display = "1er octobre 1871"
+banner = "/images/infographie_600.jpg"
+banner_hd = "/images/infographie_1700.jpg"
+banner_thumb = "/images/infographie_200.jpg"
+cover = "/images/infog_1200.jpg"
+date = 2021-09-21T23:08:53Z
+date_display = "19 heures"
 featured = false
-images = ["images/doris_archive_1.png", "images/doris_archive_2.png"]
+images = ["/images/infographie_21092021_cr25.jpg", "/images/infographie_21092021_cr20.jpg"]
 reading_time = "3 min"
 summary = ""
 title = "L’amatrice de chiffres, de symboles et de géographie"
