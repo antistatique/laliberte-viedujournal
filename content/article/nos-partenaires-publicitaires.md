@@ -26,7 +26,7 @@ Au moment de célébrer son 150e anniversaire, « La Liberté » se réjouit d�
 
 A 150 ans, « La Liberté » a gardé tout son mordant et reste indispensable à sa région. C’est aussi à votre engagement qu’elle le doit. Notre fête est donc un peu la vôtre.
 
-Découvrez les vidéos en cliquant sur le logo de notre partenaire :
+Découvrez les vidéos en cliquant sur le logo de nos partenaires :
 
 ![](/images/142x108_logo_fr.jpg)
 
