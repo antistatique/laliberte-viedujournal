@@ -8,7 +8,7 @@ theme = "laliberte"
   circulateNavigationTitle = 'Poursuivre la lecture'
   aboutPageTitle = 'À propos'
   aboutPageSlug = 'a-propos'
-  videoActionLabel = 'Voir le reportage'
+  videoActionLabel = 'Voir le portrait vidéo'
   footerRight = "Tous droits réservés"
   Plausible = 'unejournee.lalib.ch'
 
