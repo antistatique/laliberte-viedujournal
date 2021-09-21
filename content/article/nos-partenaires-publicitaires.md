@@ -46,12 +46,12 @@ Découvrez les vidéos en cliquant sur le logo de nos partenaires :
 
 [![](/images/logo_mnf_cmjn_uncoted.jpg)](https://vimeo.com/610666076/19f740905f)
 
-![](/images/optic-2000.jpg)
+[![](/images/optic-2000.jpg)](https://vimeo.com/610664749/96ea584be4)
 
-![](/images/logo_vf_aop_cmyk_pos_01.jpg)
+[![](/images/logo_vf_aop_cmyk_pos_01.jpg)](https://vimeo.com/610667021/2ca504ea53)
 
-![](/images/bul_immo_f_d_bleu_cmjn.jpg)
+[![](/images/bul_immo_f_d_bleu_cmjn.jpg)](https://vimeo.com/610665019/3d4f43cf05)
 
-![](/images/bhch_outl_claim_schwarz_4c_ohnehi_fra.jpg)
+[![](/images/bhch_outl_claim_schwarz_4c_ohnehi_fra.jpg)](https://vimeo.com/610666323/486c66e770)
 
 ![](/images/logo-garage-berset-anniversaire.jpg)
