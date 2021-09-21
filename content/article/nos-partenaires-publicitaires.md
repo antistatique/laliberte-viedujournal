@@ -40,11 +40,9 @@ Découvrez les vidéos en cliquant sur le logo de nos partenaires :
 
 [![](/images/logo_groupegrisoni_horizontal_positif_cmjn.jpg)](https://vimeo.com/610665403/1a62bcb83b)
 
-![](/images/fiduconsult_logo_fr1.jpg)
+[![](/images/bise_logo_cmjn-01.jpg)](https://vimeo.com/610667238/09cbe97364)
 
-![](/images/bise_logo_cmjn-01.jpg)
-
-![](/images/osses_logo_2020.jpg)
+[![](/images/osses_logo_2020.jpg)](https://vimeo.com/610665159/5be2e5eeeb)
 
 ![](/images/logo_mnf_cmjn_uncoted.jpg)
 
