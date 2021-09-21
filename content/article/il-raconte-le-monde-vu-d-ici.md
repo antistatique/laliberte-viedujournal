@@ -20,6 +20,8 @@ Georges Baumgartner, Radio suisse romande, Tokyo. Toujours branché sur les onde
 
 «Il fut un temps», comme il dit, où il était moins compliqué de prendre le large dans le cadre du travail. Notamment grâce aux voyages de presse. «Lorsque la conjoncture était bonne, il y avait plus de possibilités et des projets un peu fous. Roger de Diesbach m’avait envoyé en Corse à la fin des années 90 pour prendre le pouls de l’île après la série d’attentats qui ravageaient la région», se souvient-il. Pas de quoi lui donner envie de devenir journaliste de guerre. «J’en aurais été bien incapable!»
 
+![](/images/le_monde_de_la_liberte.jpeg)
+
 **Pas de leçons à donner**
 
 Vulgariser, expliquer et commenter ce que l’on n’a pas vu de ses propres yeux: un défi d’autant plus relevé que les journalistes «inter» n’ont pas ou peu accès aux protagonistes de l’histoire. «De toute façon, qui peut aller au Xinjiang (Chine) ou au Sahel aujourd’hui?» interroge le responsable de la rubrique étrangère.
