@@ -1,9 +1,9 @@
 +++
 author = "Media f"
-banner = "/images/annonceurs_600x824.jpg"
-banner_hd = "/images/annonceurs_1700x2335.jpg"
-banner_thumb = "/images/annonceurs_200x275.jpg"
-cover = "/images/annonceurs.jpg"
+banner = "/images/annonceurs_600x824-1.jpg"
+banner_hd = "/images/annonceurs_1700x2335-1.jpg"
+banner_thumb = "/images/annonceurs_200x223.jpg"
+cover = "/images/annonceurs_cover.jpg"
 date = 2021-09-20T22:19:00Z
 date_display = ""
 featured = false
