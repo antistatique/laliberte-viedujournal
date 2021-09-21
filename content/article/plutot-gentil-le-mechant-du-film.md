@@ -1,5 +1,6 @@
 +++
 author = "Lise-Marie Piller"
+order = 23
 banner = "/images/truong_260721awi_014_600x824.jpg"
 banner_hd = "/images/truong_260721awi_014_1700x2335.jpg"
 banner_thumb = "/images/truong_260721awi_014_200x275.jpg"

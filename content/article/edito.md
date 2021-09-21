@@ -1,5 +1,6 @@
 +++
 author = "Serge Gumy"
+order = 0
 banner = "/images/laliberte_140921awi_02_600x824.jpg"
 banner_hd = "/images/laliberte_140921awi_02_1700x2335.jpg"
 banner_thumb = "/images/laliberte_140921awi_02_200x275.jpg"

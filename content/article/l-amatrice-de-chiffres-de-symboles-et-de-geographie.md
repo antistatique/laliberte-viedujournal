@@ -1,5 +1,6 @@
 +++
 author = "Lise-Marie Piller"
+order = 21
 banner = "/images/infographie_600.jpg"
 banner_hd = "/images/infographie_1700.jpg"
 banner_thumb = "/images/infographie_200.jpg"

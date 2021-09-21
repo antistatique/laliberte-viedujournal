@@ -1,5 +1,6 @@
 +++
 author = "Stéphanie Schroeter"
+order = 6
 banner = "/images/plage600.jpeg"
 banner_hd = "/images/plage1700.jpg"
 banner_thumb = "/images/plage200.jpg"

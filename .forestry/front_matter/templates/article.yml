@@ -5,6 +5,10 @@ fields:
 - type: text
   name: title
   label: Titre
+- type: number
+  name: order
+  label: Ordre
+  default: 1
 - type: text
   name: title_style
   label: Typographie du titre

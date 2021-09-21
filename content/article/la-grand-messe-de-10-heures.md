@@ -1,5 +1,6 @@
 +++
 author = "Stéphanie Schroeter"
+order = 7
 banner = "/images/gumy_22062021_03cr-2_600x824.jpg"
 banner_hd = "/images/gumy_22062021_03cr-2_1700x2335.jpg"
 banner_thumb = "/images/gumy_22062021_03cr-2_200x275.jpg"
