@@ -1,6 +1,5 @@
 +++
 author = "Vincent Chobaz"
-order = 13
 banner = "/images/dedardel_090821awi_02_600x824.jpg"
 banner_hd = "/images/dedardel_090821awi_02_1700x2335.jpg"
 banner_thumb = "/images/dedardel_090821awi_02_200x275.jpg"
@@ -9,6 +8,7 @@ date = 2021-09-20T22:20:53Z
 date_display = "14 heures. Valentine passe au montage de la vidéo qui sera bientôt publiée sur les supports numériques"
 featured = false
 images = ["/images/dedardel_090821awi_01.JPG", "/images/dedardel_090821awi_023.JPG", "/images/dedardel_090821awi_017.JPG"]
+order = 10
 reading_time = "4 min"
 summary = "Un parcours déjà riche et un vrai regard: Valentine de Dardel est la vidéaste de la rédaction"
 title = "Du documentaire à l’info brute"
