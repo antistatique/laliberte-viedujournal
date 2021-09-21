@@ -1,6 +1,5 @@
 +++
 author = "Lise-Marie Piller"
-order = 14
 banner = "/images/eggenschwiler-_290721awi_025_600x824.jpg"
 banner_hd = "/images/eggenschwiler-_290721awi_025_1700x2335.jpg"
 banner_thumb = "/images/eggenschwiler-_290721awi_025_200x275.jpg"
@@ -9,6 +8,7 @@ date = 2021-09-20T22:21:53Z
 date_display = "15 heures. La chronique d'Angélique est sous toit. La Der commence à prendre forme"
 featured = false
 images = ["/images/eggenschwiler-_290721awi_013.JPG", "/images/eggenschwiler-_290721awi_05.JPG", "/images/eggenschwiler-_290721awi_02.JPG"]
+order = 11
 reading_time = "4 min"
 summary = "Angélique Eggenschwiler anime, avec Pascal Bertschy, la dernière page de La Liberté"
 title = "Entre Metallica et Laura Ingalls"
