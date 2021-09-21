@@ -1,6 +1,5 @@
 +++
 author = "Jérémy Rico"
-order = 11
 banner = "/images/tornare_280721awi_029_600x824.jpg"
 banner_hd = "/images/tornare_280721awi_029_1700x2335.jpg"
 banner_thumb = "/images/tornare_280721awi_029_200x275.jpg"
@@ -9,6 +8,7 @@ date = 2021-09-20T22:16:53Z
 date_display = "12 heures. Journaliste au bureau de Bulle, Maud sort de conférence de presse et choisit son angle d'attaque"
 featured = false
 images = ["/images/tornare_280721awi_040-2.jpg", "/images/tornare_280721awi_027.JPG", "/images/tornare_280721awi_015.jpg"]
+order = 8
 reading_time = "3 min"
 summary = "Les spécificités des bureaux régionaux, Maud Tornare les connaît sur le bout des doigts"
 title = "A Bulle, une vie en satellite"
