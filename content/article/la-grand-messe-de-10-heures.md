@@ -1,11 +1,11 @@
 +++
 author = "Stéphanie Schroeter"
-cover = ""
 banner = "/images/gumy_22062021_03cr-2_600x824.jpg"
 banner_hd = "/images/gumy_22062021_03cr-2_1700x2335.jpg"
 banner_thumb = "/images/gumy_22062021_03cr-2_200x275.jpg"
+cover = ""
 date = 1871-10-01T23:39:21Z
-date_display = "10 heures"
+date_display = "10 heures. Le rédacteur en chef rassemble les chefs de rubrique pour le principal briefing de la journée"
 featured = false
 images = ["/images/gumy_22062021_07cr-2.jpg", "/images/gumy_22062021_17cr.jpg", "/images/gumy_22062021_25cr.jpg"]
 reading_time = "4 min"
@@ -16,7 +16,7 @@ videos = ""
 videos_cover = ""
 
 +++
-Avez-vous des remarques sur l’édition du jour?» A La Liberté, les jours se succèdent et ne se ressemblent jamais, mais il y a des rituels qui, eux, ne changent pas. Le briefing de 10 heures est de ceux-là. Ce rendez-vous quotidien commence toujours par cette question posée par le rédacteur en chef, Serge Gumy. C’est lui, ou un de ses adjoints, qui mène la danse chaque matin sur le coup de 10 heures. Un représentant des quatre rubriques que compte le journal, ainsi qu’un membre de la cellule web, assistent également à cette réunion. Au préalable, chacun a discuté de la matière au sein de son équipe. Les délibérations de 10 heures seront ensuite résumées dans un procès-verbal envoyé par courriel à toute la rédaction.
+Avez-vous des remarques sur l’édition du jour?» A _La Liberté_, les jours se succèdent et ne se ressemblent jamais, mais il y a des rituels qui, eux, ne changent pas. Le briefing de 10heures est de ceux-là. Ce rendez-vous quotidien commence toujours par cette question posée par le rédacteur en chef, Serge Gumy. C’est lui, ou un de ses adjoints, qui mène la danse chaque matin sur le coup de 10heures. Un représentant des quatre rubriques que compte le journal, ainsi qu’un membre de la cellule web, assistent également à cette réunion. Au préalable, chacun a discuté de la matière au sein de son équipe. Les délibérations de 10heures seront ensuite résumées dans un procès-verbal envoyé par courriel à toute la rédaction.
 
 **Attention à la cloche**
 
@@ -26,7 +26,10 @@ Père de quatre enfants, il connaît la maison par cœur, lui qui y a effectué 
 
 **Moment capital**
 
-Depuis son entrée en fonction en août 2015, l’heure de la réunion a été avancée de trente minutes. Le briefing de 10 heures dure en moyenne une petite heure; tout dépend des participants, de leur faconde et, évidemment, des sujets évoqués et de l’actualité. «C’est un apprentissage sur le tas, cela nous permet de mettre en exergue ce que nous avons bien ou mal fait et donc d’éviter de commettre les mêmes erreurs», ajoute le rédacteur en chef, qui profite également de ce moment pour faire part de ses souhaits et doléances en amont plutôt qu’en aval. «C’est un moment capital pour la cohésion de groupe.»
+Depuis son entrée en fonction en août 2015, l’heure de la réunion a été avancée de trente minutes. Le briefing de 10heures dure en moyenne une petite heure; tout dépend des participants, de leur faconde et, évidemment, des sujets évoqués et de l’actualité. «C’est un apprentissage sur le tas, cela nous permet de mettre en exergue ce que nous avons bien ou mal fait et donc d’éviter de commettre les mêmes erreurs», ajoute le rédacteur en chef, qui profite également de ce moment pour faire part de ses souhaits et doléances en amont plutôt qu’en aval. «C’est un moment capital pour la cohésion de groupe.»
+
+> J’ai deux privilèges dans ma fonction de rédacteur en chef: sonner la cloche et engager des gens!»  
+> **Serge Gumy**
 
 Ce lundi matin-là, ils sont sept autour de la table, dans la salle principale de la rédaction baptisée «salle Schorderet» en hommage au chanoine éponyme, fondateur du journal. Légers rires, petites et grosses blagues en préambule donnent le ton de ce passage en revue dont l’ambiance est plutôt paisible, mais pas bon enfant. Car derrière les plaisanteries ou bons mots du chef se cachent parfois quelques critiques quant à la pertinence de tel ou tel sujet.
 
@@ -40,7 +43,7 @@ Visiblement, ce jour-là, il n’est pas friand de l’entrée proposée au menu
 
 Reste encore à souhaiter une bonne journée qui, d’ailleurs, fera l’objet d’autres rendez-vous et briefings, dont celui de 15h30 pour passer la semaine en revue. Attention à la cloche!
 
-Les briefings
+### Les briefings
 
 * 9h (lundi) Séance hebdomadaire des sports.
 * 9h15 Séance quotidienne  du premier cahier (rubriques internationale, suisse et économie).
