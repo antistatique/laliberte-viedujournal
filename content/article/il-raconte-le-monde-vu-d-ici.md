@@ -1,6 +1,5 @@
 +++
 author = "Pierre Schouwey"
-order = 15
 banner = "/images/_baeriswyl-_280721awi_014_600x824.jpg"
 banner_hd = "/images/_baeriswyl-_280721awi_014_1700x2335.jpg"
 banner_thumb = "/images/_baeriswyl-_280721awi_014_200x275.jpg"
@@ -9,6 +8,7 @@ date = 2021-09-20T22:25:53Z
 date_display = "16 heures. Pascal traite par téléphone avec le correspondant de La Liberté à Berlin"
 featured = false
 images = ["/images/_baeriswyl-_280721awi_011.JPG", "/images/_baeriswyl-_280721awi_05.JPG", "/images/_baeriswyl-_280721awi_03.JPG"]
+order = 13
 reading_time = "3 min"
 summary = "Responsable de la rubrique internationale, Pascal Baeriswyl est entré à la rédaction en 1987. Son credo? Vulgariser, expliquer, commenter"
 title = "Il raconte le monde, vu d’ici"
