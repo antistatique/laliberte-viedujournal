@@ -1,6 +1,5 @@
 +++
 author = "Lise-Marie Piller"
-order = 22
 banner = "/images/sugnaux_260721awi_026_600x824.jpg"
 banner_hd = "/images/sugnaux_260721awi_026_1700x2335.jpg"
 banner_thumb = "/images/sugnaux_260721awi_026_200x275.jpg"
@@ -9,6 +8,7 @@ date = 2021-09-20T23:36:53Z
 date_display = "19 heures. Les équipes du soir se réunissent au desk. Le «mur» permet de faire le point sur les pages déjà montées"
 featured = false
 images = ["/images/sugnaux_260721awi_08.JPG", "/images/sugnaux_09092021_cr11.jpg", "/images/sugnaux_260721awi_023.JPG"]
+order = 20
 reading_time = "4 min"
 summary = "Avec Christophe Sugnaux à sa tête, le desk assure la mise en page du journal. C’est le trait d’union entre la rédaction et l’imprimerie"
 title = "Là où la matière prend forme"
