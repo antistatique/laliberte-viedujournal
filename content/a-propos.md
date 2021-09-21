@@ -1,10 +1,11 @@
 +++
-date = 2021-08-02T09:15:38Z
+cover = "/images/cover_a_propos.jpg"
+date = "2021-08-02T09:15:38.000+00:00"
+summary = ""
 title = "À propos"
-cover = "/images/laliberte_140721awi_030_apropos.JPG"
 title_style = "eiko"
-+++
 
++++
 ### La Liberté médias SA
 
 Bd de Pérolles 38 – 1700 Fribourg
