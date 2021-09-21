@@ -1,6 +1,5 @@
 +++
 author = "Jérémy Rico"
-order = 4
 banner = "/images/tamburino_150721awi_022-2_600x824.jpg"
 banner_hd = "/images/tamburino_150721awi_022-2_1700x2335.jpg"
 banner_thumb = "/images/tamburino_150721awi_022-2_200x275.jpg"
@@ -9,6 +8,7 @@ date = 2021-09-20T22:09:53Z
 date_display = "7 heures 30"
 featured = false
 images = ["/images/tamburino_150721awi_033.JPG", "/images/tamburino_150721awi_024.JPG", "/images/tamburino_150721awi_016-2.JPG"]
+order = 3
 reading_time = "2 min"
 summary = "Davide Tamburino dirige le service commercial, contact privilégié entre les lecteurs et leur journal."
 title = "Aux petits soins pour les lecteurs"
