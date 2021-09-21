@@ -1,6 +1,5 @@
 +++
 author = "Stéphanie Schroeter"
-order = 3
 banner = "/images/python_08072021_01cr-2_600x824.jpg"
 banner_hd = "/images/python_08072021_01cr-2_1700x2335.jpg"
 banner_thumb = "/images/python_08072021_01cr-2_200x275.jpg"
@@ -9,6 +8,7 @@ date = 2021-09-20T22:08:53Z
 date_display = "7 heures. Rattachée au secrétariat, Véronique ouvre la boutique. Une nouvelle journée commence"
 featured = false
 images = ["/images/python_08072021_16cr.jpg", "/images/python_08072021_05cr.jpg", "/images/python_08072021_17cr.jpg"]
+order = 2
 reading_time = "4 min"
 summary = "Véronique Python travaille depuis bientôt treize ans au secrétariat de la rédaction"
 title = "C'est elle qui allume la lumière"
