@@ -4,11 +4,13 @@ title = "La Liberté - Une journée de Liberté"
 theme = "laliberte"
 
 [params]
-  timelineTitle = "La timeline de la Liberté"
+  timelineTitle = "Une journée de Liberté"
   circulateNavigationTitle = 'Poursuivre la lecture'
   aboutPageTitle = 'À propos'
   aboutPageSlug = 'a-propos'
   videoActionLabel = 'Voir le reportage'
+  footerRight = "Tous droits réservés"
+  Plausible = 'unejournee.lalib.ch'
 
 [markup]
   [markup.goldmark]

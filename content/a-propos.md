@@ -2,6 +2,7 @@
 date = 2021-08-02T09:15:38Z
 title = "À propos"
 cover = "/images/laliberte_140721awi_030_apropos.JPG"
+title_style = "eiko"
 +++
 
 ### La Liberté médias SA
