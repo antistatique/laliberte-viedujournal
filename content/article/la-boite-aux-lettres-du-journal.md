@@ -1,6 +1,5 @@
 +++
 author = "Stéphanie Schroeter"
-order = 12
 banner = "/images/julan_170621awi_033_600x824.jpg"
 banner_hd = "/images/julan_170621awi_033_1700x2335.jpg"
 banner_thumb = "/images/julan_170621awi_033_200x275.jpg"
@@ -9,6 +8,7 @@ date = 2021-09-20T22:17:53Z
 date_display = "13 heures. Sébastien prend connaissance des lettres de lecteurs reçues dans la matinée"
 featured = false
 images = ["/images/julan_170621awi_041.JPG", "/images/julan_170621awi_047.JPG", "/images/julan_170621awi_042.jpg"]
+order = 9
 reading_time = "4 min"
 summary = "Rédacteur en chef adjoint, Sébastien Julan est aussi responsable du courrier des lecteurs"
 title = "La boîte aux lettres du journal"
