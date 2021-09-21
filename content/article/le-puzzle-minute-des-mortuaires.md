@@ -1,6 +1,5 @@
 +++
 author = "Vincent Chobaz"
-order = 18
 banner = "/images/cornu_120821awi_09_600x824.jpg"
 banner_hd = "/images/cornu_120821awi_09_1700x2335.jpg"
 banner_thumb = "/images/cornu_120821awi_09_200x275.jpg"
@@ -9,6 +8,7 @@ date = 2021-09-20T22:37:53Z
 date_display = "17 heures. Sandra, polygraphe, compose les dernières annonces mortuaires"
 featured = false
 images = []
+order = 17
 reading_time = "4 min"
 summary = "La «page des morts» reste une véritable institution. C’est l’affaire de Sandra Cornu"
 title = "Le puzzle minuté des mortuaires"
