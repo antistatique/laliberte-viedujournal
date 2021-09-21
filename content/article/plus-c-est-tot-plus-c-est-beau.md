@@ -1,6 +1,5 @@
 +++
 author = "François Rossier"
-order = 2
 banner = "/images/duffey_150721awi_019_600x824.jpg"
 banner_hd = "/images/duffey_150721awi_019_1700x2335.jpg"
 banner_thumb = "/images/duffey_150721awi_019_200x275.jpg"
@@ -9,6 +8,7 @@ date = 2021-09-21T01:08:53Z
 date_display = "4 heures. Les 150 porteurs lancent leur tournée"
 featured = false
 images = ["/images/duffey_150721awi_017.JPG", "/images/duffey_150721awi_014.JPG", "/images/duffey_150721awi_02.JPG"]
+order = 25
 reading_time = "3 min"
 summary = "Chaque matin, une armée de porteurs livre La Liberté. Le regard de Jacqueline Duffey"
 title = "Plus c’est tôt, plus c’est beau"
