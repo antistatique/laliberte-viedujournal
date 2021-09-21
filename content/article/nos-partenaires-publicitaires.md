@@ -30,7 +30,7 @@ Découvrez les vidéos en cliquant sur le logo de nos partenaires :
 
 [![](/images/142x108_logo_fr.jpg)](https://vimeo.com/610667376/62a2f997be)
 
-![](/images/la_poste.jpg)
+[![](/images/la_poste.jpg)](https://vimeo.com/610667116/59c653829d)
 
 ![](/images/groupe-e_logo_pos_cmjn.jpg)
 
