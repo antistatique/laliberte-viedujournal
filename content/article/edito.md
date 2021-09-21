@@ -27,8 +27,6 @@ En même temps que le flux de l’information se déverse à travers nos canaux 
 
 En début de soirée, le journal commence vraiment à se ressembler, grâce au travail des polygraphes et des journalistes en charge de l’édition. La machine tourne alors à plein régime, et c’est toujours sous un certain stress que les dernières pages sont envoyées à l’imprimerie. Minuit et demi, dernier délai.
 
-![](/images/repartition_professions.jpeg)
-
 Mais l’histoire ne se termine pas là. Car les journaux «roulés» en une heure au Druckzentrum de Berne doivent encore être livrés à nos abonnés. C’est là qu’interviennent nos porteurs, dernier maillon de la chaîne. Au petit matin, ils terminent leur tournée, juste avant que les lumières de la rédaction se rallument et que _La Liberté_ reparte pour un tour.
 
 Pour marquer les 150 ans de votre quotidien, nous avons voulu vous faire vivre de l’intérieur «Une journée de Liberté», dans les coulisses, à nos côtés. Ce supplément se veut aussi une rencontre avec ces professionnels de divers métiers, dont l’union des talents fait notre force. Et qui, jour après jour, s’investissent avec passion et compétence à votre service, chers lectrices et lecteurs, chers annonceurs, pour raconter votre région.
