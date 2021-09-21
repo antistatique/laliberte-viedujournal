@@ -1,6 +1,5 @@
 +++
 author = "François Rossier"
-order = 24
 banner = "/images/loretan_26082021_cr01_600x824.jpg"
 banner_hd = "/images/loretan_26082021_cr01_1700x2335.jpg"
 banner_thumb = "/images/loretan_26082021_cr01_200x275.jpg"
@@ -9,6 +8,7 @@ date = 2021-09-21T00:12:53Z
 date_display = "23 heures. Marc est en passe de boucler la correction des articles du cahier régional."
 featured = false
 images = ["/images/loretan_26082021_cr19-copie-2.jpg", "/images/loretan_26082021_cr11.jpg", "/images/loretan_26082021_cr05.jpg"]
+order = 23
 reading_time = "4 min"
 summary = "Premier lecteur de La Liberté, le correcteur Marc Loretan use chaque soir son crayon rouge"
 title = "Le gardien de but du journal"
