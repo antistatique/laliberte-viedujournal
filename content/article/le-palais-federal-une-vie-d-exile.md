@@ -1,6 +1,5 @@
 +++
 author = "Pierre Schouwey"
-order = 16
 banner = "/images/362818835_highres_600x824.jpg"
 banner_hd = "/images/362818835_highres_1700x2335.jpg"
 banner_thumb = "/images/362818835_highres_200x275.jpg"
@@ -9,6 +8,7 @@ date = 2021-09-20T22:30:53Z
 date_display = "16 heures"
 featured = false
 images = []
+order = 14
 reading_time = "1 min"
 summary = ""
 title = "Le palais fédéral, une vie d’exilé"
