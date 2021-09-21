@@ -1,6 +1,5 @@
 +++
 author = "Stéphanie Schroeter"
-order = 7
 banner = "/images/gumy_22062021_03cr-2_600x824.jpg"
 banner_hd = "/images/gumy_22062021_03cr-2_1700x2335.jpg"
 banner_thumb = "/images/gumy_22062021_03cr-2_200x275.jpg"
@@ -9,6 +8,7 @@ date = 2021-09-21T22:10:53Z
 date_display = "10 heures. Le rédacteur en chef rassemble les chefs de rubrique pour le principal briefing de la journée"
 featured = false
 images = ["/images/gumy_22062021_07cr-2.jpg", "/images/gumy_22062021_17cr.jpg", "/images/gumy_22062021_25cr.jpg"]
+order = 5
 reading_time = "4 min"
 summary = "Le rédacteur en chef Serge Gumy anime le premier rendez-vous majeur de la journée"
 title = "La grand-messe de 10 heures"
