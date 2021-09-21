@@ -1,6 +1,5 @@
 +++
 author = "Lise-Marie Piller"
-order = 23
 banner = "/images/truong_260721awi_014_600x824.jpg"
 banner_hd = "/images/truong_260721awi_014_1700x2335.jpg"
 banner_thumb = "/images/truong_260721awi_014_200x275.jpg"
@@ -9,6 +8,7 @@ date = 2021-09-21T00:08:53Z
 date_display = "21 heures. Editionneur pour le cahier Sport, Thomas relit, titre, coupe la matière envoyée par ses collègues"
 featured = false
 images = ["/images/truong_260721awi_01.JPG", "/images/truong_260721awi_028.JPG", "/images/truong_260721awi_015.JPG"]
+order = 22
 reading_time = "3 min"
 summary = ""
 title = "Plutôt gentil, le «méchant du film»"
