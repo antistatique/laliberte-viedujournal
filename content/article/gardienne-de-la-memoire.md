@@ -1,12 +1,11 @@
 +++
-author = "JER"
-cover = ""
+author = "Jérémy Rico"
 banner = "images/doris_cover.png"
 banner_hd = "images/doris_hd.png"
 banner_thumb = "images/doris_thumb.png"
-date = 1950-02-28T23:00:00Z
-date_display = "Mars 1950"
-draft = true
+cover = ""
+date = 2021-09-21T23:14:00Z
+date_display = "11 heures"
 featured = true
 images = ["images/doris_archive_1.png", "images/doris_archive_2.png"]
 reading_time = "3 min"
