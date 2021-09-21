@@ -38,7 +38,7 @@ Découvrez les vidéos en cliquant sur le logo de nos partenaires :
 
 [![](/images/groupe_mutuel.jpg)](https://vimeo.com/610665718/3de9b2cbe5)
 
-![](/images/logo_groupegrisoni_horizontal_positif_cmjn.jpg)
+[![](/images/logo_groupegrisoni_horizontal_positif_cmjn.jpg)](https://vimeo.com/610665403/1a62bcb83b)
 
 ![](/images/fiduconsult_logo_fr1.jpg)
 
