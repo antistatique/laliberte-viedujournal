@@ -15,7 +15,7 @@ fields:
 - type: file
   name: cover
   label: Image principale pour la timeline et le partage sur les réseaux sociaux
-  description: "<strong>Taille </strong><br>Largeur 800px<br>Hauteur 455px"
+  description: "<strong>Taille </strong><br>Largeur 1200px<br>Hauteur 675px"
 - type: file
   name: banner
   label: Image principale
