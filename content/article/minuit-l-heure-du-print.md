@@ -1,6 +1,5 @@
 +++
 author = "Pierre Schouwey"
-order = 1
 banner = "/images/laliberte_140721awi_030_600x824.jpg"
 banner_hd = "/images/laliberte_140721awi_030_1700x2335.jpg"
 banner_thumb = "/images/laliberte_140721awi_030_200x275.jpg"
@@ -9,6 +8,7 @@ date = 2021-09-21T00:13:53Z
 date_display = "1 heure. Les rotatives du centre d'impression tournent à plein régime"
 featured = false
 images = ["/images/laliberte_140721awi_08.JPG", "/images/laliberte_140721awi_063.JPG", "/images/laliberte_140721awi_056.JPG"]
+order = 24
 reading_time = "4 min"
 summary = "La Liberté est imprimée depuis 2015 à Berne. Reportage au côté de Matthias Kobel"
 title = "Minuit, l’heure du print"
