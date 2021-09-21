@@ -9,17 +9,13 @@ date_display = ""
 featured = false
 images = []
 reading_time = "3 min"
-summary = ""
+summary = "Si nous sommes là aujourd’hui, c’est grâce à vous."
 title = "Nos partenaires officiels en vidéo"
 title_style = "Formula"
 videos = ""
 videos_cover = ""
 
 +++
-_Publication à titre promotionnel_
-
-_Si nous sommes là aujourd’hui, c’est grâce à vous._
-
 La fête de notre quotidien est celle de tous ceux qui la font vivre. Parmi les acteurs de La Liberté, nous avons souhaité donner la parole à nos partenaires. Habituellement, nos clients utilisent le rayonnement de La Liberté pour se faire connaitre ou promouvoir, leurs services, leurs produits.
 
 Inversons les rôles ! La Liberté ne parle pas d’eux. C’est eux qui parlent de La Liberté : théâtre, banque, géant orange, construction, opticien… Tous se sont prêtés au jeu de l’interview « Et vous, La Liberté ? ». Découvrez ces entretiens savoureux en image !
