@@ -33,6 +33,8 @@ Tél. 026 426 44 11 – Fax 026 426 44 00
 * **Infographies**: Florence Cerouter (FC).
 * **Dessin de presse:** Alex Ballaman (AB).
 * **Mise en page supplément papier:** Julie Rudaz (JR).
+* **Photos:** Alain Wicht et Charly Rappo
+* **Vidéos:** Valentine de Dardel
 
 ### PUBLICITÉ
 
