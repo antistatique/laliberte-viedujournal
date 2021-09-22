@@ -47,4 +47,4 @@ En Suisse romande, il y a trois manières d’y arriver. La première: trouver u
 
 **Dans quel cahier faut-il placer sa publicité?**
 
-Les études média (REMP) ne permettent pas de répondre directement à cette question. Elles donnent des précisions sur l’audience quotidienne moyenne d’une édition. Chaque cahier traitant d’un contenu ciblé (Suisse, international, régional, sport, magazine…), il offre ainsi l’opportunité à l’annonceur, au travers des emplacements publicitaires, de déterminer l’environnement le plus favorable. La Liberté bénéficie quotidiennement d’une audience papier et digitale moyenne de 142'000 lecteurs.
+Les études média (REMP) ne permettent pas de répondre directement à cette question. Elles donnent des précisions sur l’audience quotidienne moyenne d’une édition. Chaque cahier traitant d’un contenu ciblé (Suisse, international, régional, sport, magazine…), il offre ainsi l’opportunité à l’annonceur, au travers des emplacements publicitaires, de déterminer l’environnement le plus favorable. _La Liberté_ bénéficie quotidiennement d’une audience papier et digitale moyenne de 142'000 lecteurs.
