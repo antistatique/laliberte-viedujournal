@@ -1,42 +1,50 @@
 +++
-author = "Lise-Marie Piller"
-banner = "/images/eggenschwiler-_290721awi_025_600x824.jpg"
-banner_hd = "/images/eggenschwiler-_290721awi_025_1700x2335.jpg"
-banner_thumb = "/images/eggenschwiler-_290721awi_025_200x275.jpg"
-cover = "/images/eggenschwiler-_290721awi_025_cover.jpg"
+author = "LIB"
+banner = "/images/porteur824.jpg"
+banner_hd = "/images/porteur1700.jpg"
+banner_thumb = "/images/porteur200.jpg"
+cover = "/images/porteur_1200.jpg"
 date = 2021-09-20T22:21:53Z
-date_display = "15 heures. La chronique d'Angélique est sous toit. La Der commence à prendre forme"
-draft = true
+date_display = "L'heure des questions"
 featured = false
-images = ["/images/eggenschwiler-_290721awi_013.JPG", "/images/eggenschwiler-_290721awi_05.JPG", "/images/eggenschwiler-_290721awi_02.JPG"]
+images = []
 order = 12
 reading_time = "4 min"
-summary = "Angélique Eggenschwiler anime, avec Pascal Bertschy, la dernière page de La Liberté"
-title = "questions"
-title_style = "formula"
-videos = "610017978"
-videos_cover = "/images/angelique_eggenschwiler.jpg"
+summary = ""
+title = "Toutes les questions que vous vous posez sur le métier de journaliste"
+title_style = "brik"
+videos = ""
+videos_cover = ""
 
 +++
-Hiver 2011. Une adolescente rousse de 18ans, tout ébouriffée, se retrouve en plein hiver à Paris. Pour tout vêtement elle porte un short, un tee-shirt et des espadrilles. «Je n’avais plus une fringue, plus un rond», se souvient Angélique Eggenschwiler, qui rentrait d’un voyage en auto-stop en Afrique et en solo, entrepris sur un coup de tête «parce qu’on y parlait français». Qui aurait pu prédire que cette jeune femme aux mille vies, qui a été serveuse, palefrenière, vendeuse ou encore étudiante, aurait un parcours fulgurant à _La Liberté_?
+**Combien d’article(s) un journaliste écrit-il par jour?**
 
-A 28ans, «Angélique» est, avec Alex, un des deux seuls membres de l’équipe du journal à être connue uniquement par son prénom. Elle peut compter sur un bon fan-club. «Il arrive que des gens m’arrêtent dans la rue», lâche-t-elle, un peu mal à l’aise car elle se dit timide et anxieuse.
+Il n’y a pas de règle toute faite. Tout dépend de l’importance que la rédaction souhaite donner au sujet, du degré d’urgence de son traitement, ou de la disponibilité des interlocuteurs choisis. Rédiger une brève prendra moins de temps que se lancer dans une enquête au long cours. Mais grosso modo, avec un sujet par jour et par journaliste, on n’est pas très loin de la vérité. Sans oublier que les rédacteurs doivent en parallèle décliner leur sujet sur les différents supports numériques du journal.
 
-### Vraie qualité d’écoute
+**Qui est ce «ATS» qui signe partout?**
 
-Quand on la rencontre, on sent tout de suite la chroniqueuse. Angélique Eggenschwiler sait mettre à l’aise et écoute vraiment, l’œil attentif, souriant fréquemment pour encourager son interlocuteur. Ce n’est pas un hasard si elle cite, comme principale qualité, sa gentillesse.
+L’ATS n’est pas une personne, mais une rédaction à part entière, celle de l’Agence télégraphique suisse. Comme la plupart des médias du pays, _La Liberté_ est abonnée à ce service et a l’opportunité de publier les dépêches signées ATS, notamment lorsque les sujets traités ne font pas l’objet de traitements «maison». L’agence aborde l’actualité suisse et internationale, au sens large. Mais également le sport, sous l’enseigne de Sportinformation (SI). L’ATS englobe en outre Keystone, et son flux continu de photos d’actualité.
 
-Tout a commencé un peu par hasard pour elle. La Broyarde cherchait «une occasion de s’intégrer» à _La Liberté_ et est devenue chroniqueuse lors de la création de la rubrique «Le mot de la fin», en 2016. Son premier texte porte sur la célèbre série américaine _Top Model_. «J’ai grandi en partie avec mes grands-parents. A 18h15, ma grand-mère s’installait devant cette émission alors que mon grand-papa, dans les parages, faisait semblant de ne pas regarder», se souvient-elle. A ce moment-là, la jeune femme étudiait l’anthropologie sociale et la science des religions à l’Université de Fribourg.
+**Qui, à la rédaction, avale le plus de kilomètres?**
 
-Toujours aux aguets, Angélique a l’art de capter les petits riens du quotidien et de les décrire de manière savoureuse. «J’ai toujours un petit carnet dans lequel je griffonne des idées. Mais il y a beaucoup de sujets dans lesquels je ne m’aventure pas, comme la politique ou l’actualité internationale, car je n’en ai pas l’expertise.»
+Sans conteste, les photographes Alain Wicht et Charly Rappo. Le binôme assure une présence sur le terrain 365 jours par an. Au gré de l’actualité et des besoins de la rédaction, ils circulent quotidiennement de Chiètres à Attalens, de Cheyres à Alterswil, de jour et souvent de nuit. Une succession de courts trajets. Avec le temps, leur voiture de service passe pour leur deuxième maison. A eux deux, ils cumulent 70'000 kilomètres dans l’année. A n’en pas douter, deux profils intéressants pour les garagistes de la place.
 
-> «Nous essayons d’amener un peu de légèreté dans les dernières pages de _La Liberté_.»  
-> **Angélique Eggenschwiler**
+**Combien gagne un journaliste?**
 
-Privilégiant le travail à domicile, qui lui permet d’écrire une cigarette à la main et son chat sur les genoux, Angélique Eggenschwiler vit à Cornaux (NE) avec son petit ami, qu’elle a rencontré à une édition du festival Festicheyres. Il l’avait abordée en la complimentant sur son chien. «C’était celui de ma grand-mère, que je gardais ce jour-là», rit-elle. La jeune femme dispose aussi d’un vaste bureau à la rédaction centrale, à Fribourg, proche de celui de Pascal Bertschy, qui gère la Der depuis sa création et s’occupe également quotidiennement de la rubrique «Sortie des artistes». Et ce dernier de décrire sa collègue: «Angélique, c’est du Metallica chanté par Laura Ingalls ou parfois _La petite maison dans la prairie_ joué par Metallica. C’est ce qui rend sa musique si originale, si aisément identifiable.»
+La branche dispose d’une convention collective de travail qui fixe le salaire minimum d’un journaliste professionnel (RP) à 5843 francs, au sortir de ses deux ans de formation. En complément, un accord interne à Saint-Paul, conditionné par la santé financière de l’entreprise, détermine les salaires minimaux selon les années de service. La grille salariale culmine à environ 8000 francs, dès la 14e année. Ces montants plancher peuvent évoluer selon le degré de responsabilité ou le parcours des rédacteurs.
 
-### Ode à la légèreté
+**Est-ce qu’un journaliste voyage beaucoup?**
 
-Les horaires sont flexibles. La Broyarde écrit souvent ses chroniques le matin, ce qui peut prendre quelques heures à quelques jours selon l’inspiration. «Je fais beaucoup de recherches pour essayer de restituer une ambiance. Par exemple, si je parle de mécanique, j’essaie d’avoir le bon vocabulaire.» L’après-midi, elle alimente la rubrique qu’elle a récemment créée dans la Der: «Le lecteur en liberté». Elle soutient également Pascal Bertschy à l’édition des textes des autres chroniqueurs, qui font cela à côté de leur travail et qu’Angélique Eggenschwiler voit rarement. Les contacts se font plutôt par téléphone ou par mail. «Une ligne s’est créée dans la Der. Il y a l’idée d’être assez direct et d’éviter le vocabulaire trop érudit. Nous essayons d’amener un peu de légèreté dans les dernières pages de _La Liberté_.»
+Moins qu’à une époque. Avec l’érosion des revenus publicitaires, les moyens octroyés à la rédaction – y compris le budget «voyages» - diminuent. Et la crise sanitaire a encore compliqué les choses. Cependant, le journal privilégiera toujours l’envoi d’un rédacteur sur le terrain lorsque la plus-value pour le lecteur est manifeste. Aujourd’hui, à _La Liberté_, ce sont les journalistes sportifs qui bouclent le plus souvent leur valise, avec en moyenne deux déplacements à l’étranger par journaliste et par année.
 
-Quand on la lit, on a parfois l’impression qu’elle a déjà une cinquantaine d’années. Elle explique que cela vient peut-être de son enfance dans la campagne broyarde, où le temps était comme suspendu. Concernant sa passion pour la lecture et l’écriture, elle ne sait pas d’où elle la tire. Sa mère est aide-soignante et ses deux sœurs, Mathilda et Juliane, ne partagent pas forcément cette fibre de chroniqueuse. «Mon grand-père Louis Duc prenait souvent la plume pour rédiger des discours politiques, mais nous n’en avons jamais discuté», assure-t-elle.
+**Qui fait le journal du lundi?**
+
+Durant le week-end, chacune des quatre rubriques du journal organise son service de piquet. Idem pour la cellule web. Hors événement extraordinaire – une échéance électorale par exemple –, les équipes sont moins populeuses qu’à l’accoutumée. Un cahier fait cependant exception: celui des sports, avec une majorité de journalistes sur le pont les samedis et dimanches. Dès la fin d’après-midi et l’arrivée du desk (mise en pages), de la correction ou de la préposée aux annonces, le rythme dominical s’accélère sensiblement.
+
+**Comment devient-on journaliste?**
+
+En Suisse romande, il y a trois manières d’y arriver. La première: trouver une place de stagiaire dans une rédaction (deux ans) et suivre en parallèle les cours dispensés par le Centre de formation au journalisme et aux médias (CFJM) à Lausanne. Autre option: participer aux cours du CFJM précités en qualité de journaliste indépendant pouvant justifier un certain revenu tiré de la pratique de ce métier. Enfin, il y a la voie académique, avec le master en journalisme et communication proposé par l’Université de Neuchâtel.
+
+**Dans quel cahier faut-il placer sa publicité?**
+
+Les études média (REMP) ne permettent pas de répondre directement à cette question. Elles donnent des précisions sur l’audience quotidienne moyenne d’une édition. Chaque cahier traitant d’un contenu ciblé (Suisse, international, régional, sport, magazine…), il offre ainsi l’opportunité à l’annonceur, au travers des emplacements publicitaires, de déterminer l’environnement le plus favorable. _La Liberté_ bénéficie quotidiennement d’une audience papier et digitale moyenne de 142'000 lecteurs.
