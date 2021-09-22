@@ -16,7 +16,7 @@ Nous vous souhaitons une bonne lecture!
 
 Bd de Pérolles 38 – 1700 Fribourg
 
-* **Actionnaires**: Soeurs de l’OEuvre de Saint-Paul (participation majoritaire), Sofripa SA (BCF et Groupe E (part. minoritaire).
+* **Actionnaires**: Soeurs de l’OEuvre de Saint-Paul (participation majoritaire), Sofripa SA, BCF et Groupe E (part. minoritaire).
 * **Président du conseil d’administration**: Martial Pasquier
 * **Editeur:** Thierry Mauron
 
