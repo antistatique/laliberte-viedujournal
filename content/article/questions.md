@@ -6,7 +6,6 @@ banner_thumb = "/images/porteur200.jpg"
 cover = "/images/porteur_1200.jpg"
 date = 2021-09-20T22:21:53Z
 date_display = "L'heure des questions"
-draft = true
 featured = false
 images = []
 order = 12
