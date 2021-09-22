@@ -1,9 +1,9 @@
 +++
 author = "LIB"
-banner = ""
-banner_hd = ""
-banner_thumb = ""
-cover = ""
+banner = "/images/porteur824.jpg"
+banner_hd = "/images/porteur1700.jpg"
+banner_thumb = "/images/porteur200.jpg"
+cover = "/images/porteur_1200.jpg"
 date = 2021-09-20T22:21:53Z
 date_display = "L'heure des questions"
 draft = true
@@ -12,7 +12,7 @@ images = []
 order = 12
 reading_time = "4 min"
 summary = ""
-title = "questions"
+title = "Toutes les questions que vous vous posez sur le métier de journaliste"
 title_style = "brik"
 videos = ""
 videos_cover = ""
