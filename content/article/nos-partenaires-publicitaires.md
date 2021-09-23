@@ -27,7 +27,7 @@ Ces interviews ont été réalisées par [Elium](https://www.elium.ch/), en coll
 
 Découvrez les vidéos en cliquant sur le logo de nos partenaires :
 
-[![](/images/142x108_logo_fr.jpg)](https://vimeo.com/610667376/62a2f997be{target="_blank"})
+[![](/images/142x108_logo_fr.jpg)](https://vimeo.com/610667376/62a2f997be)
 
 [![](/images/la_poste.jpg)](https://vimeo.com/610667116/59c653829d)
 
