@@ -10,8 +10,6 @@ Le site sur lequel vous vous trouvez actuellement a été mis en ligne le 22 sep
 
 Lorsque nos équipes vous croisent, chers lecteurs, au détour d’un sujet ou d’un événement, la même question revient souvent: comment travaillez-vous? Ce site a justement pour ambition de vous l’expliquer. De portrait en portrait, de vidéo en vidéo, nos équipes ont travaillé depuis plusieurs mois pour vous décortiquer nos processus de travail et, surtout, les petites mains qui font de _La Liberté_ ce qu’elle est.
 
-Nous vous souhaitons une bonne lecture!
-
 ## La Liberté médias SA
 
 Bd de Pérolles 38 – 1700 Fribourg
@@ -40,7 +38,7 @@ Tél. 026 426 44 11 – Fax 026 426 44 00
 
 Service de publicité pour le canton de Fribourg et la Broye vaudoise (ZE 15)
 
-**Régie:** media f SA — bd de Pérolles 3 — 1700 Fribourg.
+**Régie:** media f SA — bd de Pérolles 38 — 1700 Fribourg.
 
 Tél. 026 426 42 42
 
