@@ -21,7 +21,9 @@ La statistique donne le vertige: le nom d’Alain Wicht a été imprimé à plus
 
 Oublier la photo pour mieux se souvenir de la rencontre qui l’a précédée: voilà une approche qui ne surprendra pas les personnes qui connaissent Alain Wicht, regard sûr et acéré de _La Liberté_ depuis 37 ans. Près de quatre décennies que le Villarois sillonne le canton à la découverte de ses habitants. Près de quatre décennies à enchaîner les commandes de photos, jusqu’à huit dans une même journée, qu’il s’agisse de photographier un conseiller fédéral, le pape (deux fois) ou un simple passant.
 
-### **27'000** Le nombre de fois où le nom d'Alain Wicht a été imprimé dans **_La Liberté_**
+{{% number number-big="27'000" class="brik" %}}
+Le nombre de fois où le nom d'Alain Wicht a été imprimé dans La Liberté
+{{% /number %}}
 
 Celui qui préfère le qualificatif d’artisan à celui d’artiste a choisi d’écrire avec la lumière, car le médium lui assurait de devoir aller à la rencontre des gens. Après un apprentissage à Fribourg, il découvre la photographie d’actualité au sein de l’agence _Actualités Suisses Lausanne_, avant de se mettre à son compte deux ans plus tard. De retour à Fribourg, le photographe signe alors des reportages pour toute la presse nationale, dont _La Liberté_. C’est d’ailleurs à cette époque, en août 1980 exactement, qu’il signe son premier reportage dans le quotidien fribourgeois. Quatre images monochromes, aux teintes sombres, pour laisser voir le travail d’un copain garde-génisses installé en estivage au-dessus de Grandvillard. Engagé pour de bon au sein de la rédaction de Pérolles en juillet 1984, Alain Wicht ne changera plus jamais d’employeur.
 
