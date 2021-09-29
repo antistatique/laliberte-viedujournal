@@ -34,9 +34,7 @@ Dans ses loisirs, Jérémy Rico aime surfer sur le web. Mais parfois, il déconn
 
 Evidemment, les quatre du web forment une petite équipe. Impossible de suivre le rythme des principaux médias internationaux. Ils n’auront par exemple pas été les premiers à annoncer le décès de Jean-Paul Belmondo. Par contre, ils ont réfléchi à la meilleure manière de décliner le sujet: «Nous avons cherché des contenus d’archives, des vidéos. Puis un collègue nous a dit que l’acteur avait bu un café à Fribourg avec Jo Siffert (le coureur automobile, ndlr) et qu’il allait écrire un article à ce sujet. Dès que le texte a été achevé, nous l’avons mis en ligne. Par contre, à Fribourg, nous devons être les premiers à dire les choses.»
 
-### 7h30 à 22h
-
-**Les horaires de la rubrique web**
+### 7h30 à 22h. Les horaires de la rubrique web
 
 Son souhait? Intéresser les jeunes via le numérique et les pousser à s’abonner à _La Liberté_. «J’ai toujours voulu parler à ma génération, qui n’a plus forcément le réflexe de s’abonner au papier.» Raison pour laquelle ses articles parlent par exemple de tiktokeurs ou d’instagrammeurs. «Nous n’attendons pas que quelqu’un ait 30 ans pour faire son portrait», illustre-t-il.
 
