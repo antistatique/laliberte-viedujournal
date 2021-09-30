@@ -38,8 +38,6 @@ A intervalles réguliers, un employé attrape un exemplaire sur la chaîne de pr
 
 Achetés en Suisse, en Allemagne et en Scandinavie, les rouleaux de papier sont empilés au sous-sol. Deux sont nécessaires pour une seule édition, soit l’équivalent de 3,6 tonnes, ou 58 kilomètres. Depuis sa venue au monde jusqu’à son acheminement dans le centre d’expédition, chacun des 29'450 exemplaires de _La Liberté_ s’offre un périple de 7 minutes sur les interminables rails prévus à cet effet.
 
-### **60 minutes** Le temps nécessaire pour l'impression des quelques 30'000 exemplaires de **_La Liberté_**
-
 {{% number number-big="60 minutes" class="eiko" %}} Le temps nécessaire pour l'impression des quelques 30'000 exemplaires de _La Liberté_ {{% /number %}}
 
 Au postpresse, situé à l’autre bout du DZB, des dizaines de temporaires réceptionnent les journaux, les trient et les répartissent par paquets dans les 13 fourgonnettes qui prendront la route du canton de Fribourg. «Les premiers exemplaires filent à La Poste. Les suivants sont pour les porteurs.» La visite se termine. L’impression de _La Liberté_ aussi. 1h45, l’heure du lit pour Matthias Kobel.
