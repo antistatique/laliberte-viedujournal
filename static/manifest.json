@@ -4,8 +4,8 @@
 	"display": "minimal-ui",
 	"scope": "/",
 	"start_url": "/",
-	"name": "Une journ\u00e9e de La Libert\u00e9",
-	"short_name": "Une journ\u00e9e de La Libert\u00e9",
+	"name": "Une journ\u00e9e La Libert\u00e9",
+	"short_name": "Une journ\u00e9e La Libert\u00e9",
 	"icons": [
 		{
 			"src": "/icon-192x192.png",
